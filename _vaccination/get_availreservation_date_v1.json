@@ -1,0 +1,122 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-11 09:41:06",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210801",
+      "dayWeekNm": "일",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210802",
+      "dayWeekNm": "월",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210803",
+      "dayWeekNm": "화",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210804",
+      "dayWeekNm": "수",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210805",
+      "dayWeekNm": "목",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210806",
+      "dayWeekNm": "금",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210807",
+      "dayWeekNm": "토",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210808",
+      "dayWeekNm": "일",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210809",
+      "dayWeekNm": "월",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210810",
+      "dayWeekNm": "화",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210811",
+      "dayWeekNm": "수",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210812",
+      "dayWeekNm": "목",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210813",
+      "dayWeekNm": "금",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210814",
+      "dayWeekNm": "토",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210815",
+      "dayWeekNm": "일",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "availReservationDt": "20210816",
+      "dayWeekNm": "월",
+      "reservationYn": "Y",
+      "memo": ""
+    }
+  ]
+}

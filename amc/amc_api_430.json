@@ -1,0 +1,26 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "examDt": "20201223",
+      "orderNm": "Hb",
+      "orderResultVal": "10.2",
+      "referenceMinVal": "13",
+      "referenceMaxVal": "17",
+      "unit": "g/dl"
+    },
+    {
+      "examDt": "20201222",
+      "orderNm": "Hb",
+      "orderResultVal": "9.8",
+      "referenceMinVal": "13",
+      "referenceMaxVal": "17",
+      "unit": "g/dl"
+    }
+  ]
+}

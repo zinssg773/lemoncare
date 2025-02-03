@@ -1,0 +1,100 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "chkItem": "C30:상담문진",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "C31:채혈",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "C32:신체계측/복위",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "C33:시력/안저",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "C34:폐기능",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "C35:청력",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "D41:심전도",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "D45:부인과",
+      "chkStatusCd": "C",
+      "chkStatus": "제외"
+    },
+    {
+      "chkItem": "E51:골밀도",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "E52:유방촬영",
+      "chkStatusCd": "C",
+      "chkStatus": "제외"
+    },
+    {
+      "chkItem": "E53:흉부촬영",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "E54:일반촬영",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "E56:복부초음파",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "G73:진정위내시경",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "ZCR:퇴실탈의실",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "ZLG:고객라운지",
+      "chkStatusCd": "C",
+      "chkStatus": "제외"
+    },
+    {
+      "chkItem": "ZZM:회복실",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    },
+    {
+      "chkItem": "c35:안압",
+      "chkStatusCd": "D",
+      "chkStatus": "완료"
+    }
+  ]
+}

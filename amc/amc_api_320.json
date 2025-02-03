@@ -1,0 +1,66 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "월",
+      "rndsStTm": "08:00~09:00",
+      "memo": ""
+    },
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "화",
+      "rndsStTm": "08:00~09:00",
+      "memo": ""
+    },
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "수",
+      "rndsStTm": "08:00~09:00",
+      "memo": ""
+    },
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "목",
+      "rndsStTm": "08:00~09:00",
+      "memo": ""
+    },
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "금",
+      "rndsStTm": "08:00~09:00",
+      "memo": ""
+    },
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "토",
+      "rndsStTm": "",
+      "memo": ""
+    },
+    {
+      "deptNm": "신경외과",
+      "doctorId": "D130716",
+      "doctorNm": "박원형",
+      "weekdayNm": "일",
+      "rndsStTm": "",
+      "memo": ""
+    }
+  ]
+}

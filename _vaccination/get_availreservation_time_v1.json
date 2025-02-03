@@ -1,0 +1,70 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-11 09:41:06",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "availReservationDt": "20210801",
+      "availReservationTm": "0800",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210802",
+      "availReservationTm": "0900",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210803",
+      "availReservationTm": "1000",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210804",
+      "availReservationTm": "1100",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210805",
+      "availReservationTm": "1200",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210806",
+      "availReservationTm": "1300",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210807",
+      "availReservationTm": "1400",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210808",
+      "availReservationTm": "1500",
+      "reservationYn": "N",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210809",
+      "availReservationTm": "1600",
+      "reservationYn": "Y",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20210810",
+      "availReservationTm": "1700",
+      "reservationYn": "Y",
+      "memo": ""
+    }
+  ]
+}

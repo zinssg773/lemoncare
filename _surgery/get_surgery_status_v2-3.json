@@ -1,0 +1,73 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "수술대기",
+      "surgeryOutTy": null,
+      "startDtTm": null,
+      "endDtTm": null,
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "수술장도착",
+      "surgeryOutTy": null,
+      "startDtTm": null,
+      "endDtTm": null,
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "수술진행",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": null,
+      "memo": null,
+      "statusYn": null
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "수술종료",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "회복실입실",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": "",
+      "statusYn": "Y"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "회복실퇴실",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "병동이동",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": null,
+      "statusYn": "N"
+    }
+  ]
+}

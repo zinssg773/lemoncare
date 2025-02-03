@@ -1,0 +1,19 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "rsltCd": "0",
+    "patno": "",
+    "patNm": "",
+    "sexCd": "",
+    "patBirthdt": "",
+    "mpnPatno": "",
+    "mpnPatNm": "",
+    "mpnSexCd": "",
+    "mpnPatBirthdt": ""
+  }
+}

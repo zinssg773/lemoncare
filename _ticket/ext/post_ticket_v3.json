@@ -1,0 +1,35 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 19:10:15",
+  "bodyType": "OBJECT",
+  "body": {
+    "id": 957136,
+    "hospitalCd": "0",
+    "patientId": "7663935",
+    "issuedNo": "1748",
+    "patientNm": "고규상",
+    "sectionCd": "10.153.3.117",
+    "bizCd": "1",
+    "waitCnt": 0,
+    "issuedDate": "2021-09-15 17:05:06",
+    "kiosk": {
+      "id": 75129,
+      "hospitalCd": "0",
+      "sectionCd": "10.153.3.117",
+      "bizCd": "1",
+      "seq": 10,
+      "sectionNm": "3층",
+      "bizNm": "초진창구 입원접수",
+      "remark": "본관",
+      "createDate": "2020-09-14 12:16:33",
+      "updateDate": "2020-09-14 12:16:33",
+      "kioskStartTime": "0800",
+      "kioskEndTime": "1800",
+      "waitingCnt": null
+    }
+  }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "resultNm": "종합소견",
+      "fileId": "1",
+      "fileNo": "1111"
+    },
+    {
+      "resultNm": "신체계측 및 혈압검사",
+      "fileId": "2",
+      "fileNo": "2222"
+    },
+    {
+      "resultNm": "기초검사",
+      "fileId": "3",
+      "fileNo": "3333"
+    },
+    {
+      "resultNm": "혈액 및 체액 검사",
+      "fileId": "4",
+      "fileNo": "4444"
+    }
+  ]
+}

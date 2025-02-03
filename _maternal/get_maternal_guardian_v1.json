@@ -1,0 +1,14 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-08-12 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "guardianNm": "추가 보호자",
+      "guardianHpNo": "01098765412"
+    }
+  ]
+}

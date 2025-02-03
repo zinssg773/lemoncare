@@ -1,0 +1,27 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptNm": "호흡기내과",
+      "doctorId": "65704",
+      "doctorNm": "최선미",
+      "monAmTxt": "10:00 ~ 12:00",
+      "monPmTxt": null,
+      "tueAmTxt": null,
+      "tuePmTxt": "15:00 ~ 17:00",
+      "wedAmTxt": null,
+      "wedPmTxt": null,
+      "thuAmTxt": "10:00 ~ 12:00",
+      "thuPmTxt": null,
+      "friAmTxt": null,
+      "friPmTxt": null,
+      "satTxt": null,
+      "memo": "부재(강의 등): \r\n02/12-03/14"
+    }
+  ]
+}

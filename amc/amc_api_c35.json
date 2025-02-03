@@ -1,0 +1,54 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "asydate": "20210305",
+      "asyid": "395",
+      "remark": "memo",
+      "symptom1": "1",
+      "symptom4": "3",
+      "symptom5": "2",
+      "symptom6": "4",
+      "symptomyn": "1",
+      "totalscore": "10"
+    },
+    {
+      "asydate": "20210305",
+      "asyid": "396",
+      "remark": "memo",
+      "symptom1": "1",
+      "symptom4": "3",
+      "symptom5": "2",
+      "symptom6": "4",
+      "symptomyn": "1",
+      "totalscore": "10"
+    },
+    {
+      "asydate": "20210305",
+      "asyid": "397",
+      "remark": "memo",
+      "symptom1": "1",
+      "symptom4": "3",
+      "symptom5": "2",
+      "symptom6": "4",
+      "symptomyn": "1",
+      "totalscore": "10"
+    },
+    {
+      "asydate": "20210305",
+      "asyid": "398",
+      "remark": "memo",
+      "symptom1": "1",
+      "symptom4": "3",
+      "symptom5": "2",
+      "symptom6": "4",
+      "symptomyn": "1",
+      "totalscore": "10"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 19:10:15",
+  "bodyType": "OBJECT",
+  "body": [
+    {
+      "sectionCd": "IPD",
+      "sectionNm": "2층",
+      "bizCd": "IPD12",
+      "bizNm": "의무기록/영상CD",
+      "kioskStartTm": "080000",
+      "kioskEndTm": "170000",
+      "sectionGrNm": "2층본관",
+      "viewSeq": "00",
+      "waitingCnt": "0",
+      "waitingStatus": "3",
+      "callNo": "",
+      "useYn": "Y"
+    },
+    {
+      "sectionCd": "IPD",
+      "sectionNm": "2층",
+      "bizCd": "IPD13",
+      "bizNm": "제증명(진단서)",
+      "kioskStartTm": "080000",
+      "kioskEndTm": "170000",
+      "sectionGrNm": "2층본관",
+      "viewSeq": "01",
+      "waitingCnt": "0",
+      "waitingStatus": "2",
+      "callNo": "",
+      "useYn": "Y"
+    },
+    {
+      "sectionCd": "IPD",
+      "sectionNm": "2층",
+      "bizCd": "IPD14",
+      "bizNm": "입원 예약/수속",
+      "kioskStartTm": "080000",
+      "kioskEndTm": "170000",
+      "sectionGrNm": "2층본관",
+      "viewSeq": "02",
+      "waitingCnt": "0",
+      "waitingStatus": "4",
+      "callNo": "",
+      "useYn": "Y"
+    },
+    {
+      "sectionCd": "IPD",
+      "sectionNm": "2층",
+      "bizCd": "IPD15",
+      "bizNm": "중간/퇴원 수납",
+      "kioskStartTm": "080000",
+      "kioskEndTm": "170000",
+      "sectionGrNm": "2층본관",
+      "viewSeq": "03",
+      "waitingCnt": "0",
+      "waitingStatus": "1",
+      "callNo": "",
+      "useYn": "Y"
+    },
+    {
+      "sectionCd": "GC",
+      "sectionNm": "6층",
+      "bizCd": "HC",
+      "bizNm": "종합건강증진센터",
+      "kioskStartTm": "073000",
+      "kioskEndTm": "163000",
+      "sectionGrNm": "6층종합건강증진센터",
+      "viewSeq": "04",
+      "waitingCnt": "0",
+      "waitingStatus": "2",
+      "callNo": "",
+      "useYn": "Y"
+    }
+  ]
+}

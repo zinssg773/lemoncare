@@ -1,0 +1,290 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-11-19 20:56:44",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "sequenceNo": "001",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "90",
+      "recordVal2": "110"
+    },
+    {
+      "sequenceNo": "002",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-25 11:15:00",
+      "recordVal1": "88",
+      "recordVal2": "140"
+    },
+    {
+      "sequenceNo": "003",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-21 09:15:00",
+      "recordVal1": "92",
+      "recordVal2": "120"
+    },
+    {
+      "sequenceNo": "004",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-20 16:15:00",
+      "recordVal1": "100",
+      "recordVal2": "126"
+    },
+    {
+      "sequenceNo": "005",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-04-22 12:15:00",
+      "recordVal1": "113",
+      "recordVal2": "158"
+    },
+    {
+      "sequenceNo": "006",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "90",
+      "recordVal2": "124"
+    },
+    {
+      "sequenceNo": "007",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-25 11:15:00",
+      "recordVal1": "98",
+      "recordVal2": "141"
+    },
+    {
+      "sequenceNo": "008",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-21 09:15:00",
+      "recordVal1": "110",
+      "recordVal2": "128"
+    },
+    {
+      "sequenceNo": "009",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-20 16:15:00",
+      "recordVal1": "120",
+      "recordVal2": "136"
+    },
+    {
+      "sequenceNo": "010",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-04-22 12:15:00",
+      "recordVal1": "111",
+      "recordVal2": "158"
+    },
+    {
+      "sequenceNo": "011",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "115",
+      "recordVal2": "123"
+    },
+    {
+      "sequenceNo": "012",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-25 11:15:00",
+      "recordVal1": "123",
+      "recordVal2": "125"
+    },
+    {
+      "sequenceNo": "013",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-21 09:15:00",
+      "recordVal1": "99",
+      "recordVal2": "121"
+    },
+    {
+      "sequenceNo": "014",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-20 16:15:00",
+      "recordVal1": "100",
+      "recordVal2": "116"
+    },
+    {
+      "sequenceNo": "015",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-04-22 12:15:00",
+      "recordVal1": "113",
+      "recordVal2": "118"
+    },
+    {
+      "sequenceNo": "016",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "149",
+      "recordVal2": "160"
+    },
+    {
+      "sequenceNo": "017",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-25 11:15:00",
+      "recordVal1": "99",
+      "recordVal2": "140"
+    },
+    {
+      "sequenceNo": "018",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-21 09:15:00",
+      "recordVal1": "142",
+      "recordVal2": "160"
+    },
+    {
+      "sequenceNo": "019",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-20 16:15:00",
+      "recordVal1": "91",
+      "recordVal2": "126"
+    },
+    {
+      "sequenceNo": "020",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-04-22 12:15:00",
+      "recordVal1": "101",
+      "recordVal2": "158"
+    },
+    {
+      "sequenceNo": "021",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "93",
+      "recordVal2": "120"
+    },
+    {
+      "sequenceNo": "022",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-25 11:15:00",
+      "recordVal1": "111",
+      "recordVal2": "140"
+    },
+    {
+      "sequenceNo": "023",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-21 09:15:00",
+      "recordVal1": "100",
+      "recordVal2": "120"
+    },
+    {
+      "sequenceNo": "024",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-20 16:15:00",
+      "recordVal1": "121",
+      "recordVal2": "126"
+    },
+    {
+      "sequenceNo": "025",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-04-22 12:15:00",
+      "recordVal1": "103",
+      "recordVal2": "158"
+    },
+    {
+      "sequenceNo": "026",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "134",
+      "recordVal2": "140"
+    },
+    {
+      "sequenceNo": "027",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-25 11:15:00",
+      "recordVal1": "115",
+      "recordVal2": "140"
+    },
+    {
+      "sequenceNo": "028",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-21 09:15:00",
+      "recordVal1": "98",
+      "recordVal2": "120"
+    },
+    {
+      "sequenceNo": "029",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-05-20 16:15:00",
+      "recordVal1": "94",
+      "recordVal2": "123"
+    },
+    {
+      "sequenceNo": "030",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-04-22 12:15:00",
+      "recordVal1": "83",
+      "recordVal2": "128"
+    },
+    {
+      "sequenceNo": "031",
+      "patientId": "19437017",
+      "phrKindCd": "01",
+      "phrKindNm": "혈압",
+      "recordDtTm": "2019-06-27 16:15:00",
+      "recordVal1": "94",
+      "recordVal2": "110"
+    }
+  ]
+}

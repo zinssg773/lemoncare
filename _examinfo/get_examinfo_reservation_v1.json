@@ -1,0 +1,62 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "patientId": "12312312",
+      "reservationDt": "20210916",
+      "reservationTm": "1500",
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "0000",
+      "doctorNm": "고영필",
+      "licenseCd": "",
+      "licenseNm": "",
+      "examCd": "",
+      "examNm": "초음파실",
+      "receiptKindNm": "",
+      "reservationPath": "",
+      "orderExamKindNm": "초음파검사",
+      "orderExamMemo": ""
+    },
+    {
+      "patientId": "12312312",
+      "reservationDt": "20210916",
+      "reservationTm": "1500",
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "0000",
+      "doctorNm": "고영필",
+      "licenseCd": "",
+      "licenseNm": "",
+      "examCd": "",
+      "examNm": "초음파실",
+      "receiptKindNm": "",
+      "reservationPath": "",
+      "orderExamKindNm": "초음파검사",
+      "orderExamMemo": ""
+    },
+    {
+      "patientId": "12312312",
+      "reservationDt": "20210916",
+      "reservationTm": "1500",
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "0000",
+      "doctorNm": "고영필",
+      "licenseCd": "",
+      "licenseNm": "",
+      "examCd": "",
+      "examNm": "초음파실",
+      "receiptKindNm": "",
+      "reservationPath": "",
+      "orderExamKindNm": "초음파검사",
+      "orderExamMemo": ""
+    }
+  ]
+}

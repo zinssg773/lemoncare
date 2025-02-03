@@ -1,0 +1,48 @@
+{
+  "elapsedTime": 11,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-01-03 19:04:22",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "id": 7,
+      "packageName": "com.lemonhc.mcare.kuh.dev",
+      "appName": "건대클라우드개발",
+      "fcmKey": "AAAAcduGPpE:APA91bE5e4dsIiHfd7xAOoNthh1wrjqSXEQcUHV9oeLTssU3UxENvlzGyC4igxvCHAdC6-y90O--vXN3GAoF7feDX4SHU303pWsD2R_IW4_QH4rJjYjnp0zKuFddNYLPeMm-ifDNcNON",
+      "appType": "ANDROID",
+      "version": "1",
+      "deploymentType": "IN_HOUSE",
+      "storeUrl": "http://dev1.lemonhc.com/store",
+      "hash": "7d56d16e459d978b80d2cc83751da56b56177e61a893230cd77c5e89bd78697e",
+      "hospital": {
+        "hospitalCd": "11100435",
+        "hospitalNm": "건국대학교병원",
+        "url": "https://www.kuh.ac.kr/main.do",
+        "enabled": true
+      },
+      "createDatetime": "2018-12-22T16:09:00",
+      "updateDatetime": "2018-12-22T16:09:00"
+    },
+    {
+      "id": 8,
+      "packageName": "com.lemonhc.mcare.kunkuk.dev",
+      "appName": "건대클라우드개발",
+      "fcmKey": "AAAAcduGPpE:APA91bE5e4dsIiHfd7xAOoNthh1wrjqSXEQcUHV9oeLTssU3UxENvlzGyC4igxvCHAdC6-y90O--vXN3GAoF7feDX4SHU303pWsD2R_IW4_QH4rJjYjnp0zKuFddNYLPeMm-ifDNcNON",
+      "appType": "IOS",
+      "version": "1",
+      "deploymentType": "IN_HOUSE",
+      "storeUrl": "http://dev1.lemonhc.com/store",
+      "hash": "",
+      "hospital": {
+        "hospitalCd": "11100435",
+        "hospitalNm": "건국대학교병원",
+        "url": "https://www.kuh.ac.kr/main.do",
+        "enabled": true
+      },
+      "createDatetime": "2018-12-22T16:09:00",
+      "updateDatetime": "2018-12-22T16:09:00"
+    }
+  ]
+}

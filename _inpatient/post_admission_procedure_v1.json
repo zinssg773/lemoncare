@@ -1,0 +1,25 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": {
+	"returnMsg": "",
+	"returnCd": "N",
+	"patientId": "12345678",
+	"patientNm": "홍길동",
+	"admissionDt": "20220929",
+	"admissionNo": "",
+	"patientClsNm": "",
+	"PatBed": "",
+	"roomClsNm": "",
+	"scanPage": "",
+	"protectorNm": "",
+	"protectorRegSeq": "",
+	"labelSeq": "",
+	"protectorBarCode": "",
+	"inAgreeBarCode": ""
+  }
+}

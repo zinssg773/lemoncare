@@ -1,0 +1,50 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-03-09 10:32:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "message": "db-pitcher test5 평문 \r 줄바꿈 \n 테스트",
+      "msgType": "R",
+      "readYn": "N",
+      "regDtm": "20201231113837",
+      "resultCd": "S",
+      "seqNo": "387"
+    },
+    {
+      "message": "홍길동님, {\"title\":\"제목 테스트\",\"body\":\"본문 테스트 \r 줄바꿈 \n 테스트\"}",
+      "msgType": "H",
+      "readYn": "N",
+      "regDtm": "20191221113837",
+      "resultCd": "S",
+      "seqNo": "386"
+    },
+    {
+      "message": "db-pitcher test3",
+      "msgType": "H",
+      "readYn": "N",
+      "regDtm": "20210190113832",
+      "resultCd": "S",
+      "seqNo": "385"
+    },
+    {
+      "message": "db-pitcher test2",
+      "msgType": "W",
+      "readYn": "N",
+      "regDtm": "20210311113833",
+      "resultCd": "S",
+      "seqNo": "384"
+    },
+    {
+      "message": "db-pitcher test1",
+      "msgType": "W",
+      "readYn": "N",
+      "regDtm": "20200720115927",
+      "resultCd": "S",
+      "seqNo": "383"
+    }
+  ]
+}

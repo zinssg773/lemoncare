@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 246,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-10-04 17:10:46",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "pt_no": "12341234",
+      "med_ymd": "20231004",
+      "med_dpt": "SK",
+      "mn_sub_typ_cd": "0",
+      "dpt_nm": "피부과",
+      "self_amt": "1000"
+    }
+  ]
+}

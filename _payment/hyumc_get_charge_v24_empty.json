@@ -1,0 +1,16 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "unacceptableCd":"ZZ"
+      ,"unacceptableRmk":"수납할 대상이 없습니다."
+      ,"guideMsg":null
+      ,"receiptList":[]
+    }
+  ]
+}

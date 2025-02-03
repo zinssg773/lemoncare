@@ -1,0 +1,52 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptNm": "가정의학과",
+      "doctorId": "FM",
+      "doctorNm": "임진석",
+      "reservationYn": "",
+      "appointYn": "",
+      "monAm": "1",
+      "monPm": "1",
+      "tueAm": "1",
+      "tuePm": "1",
+      "wedAm": "1",
+      "wedPm": null,
+      "thuAm": null,
+      "thuPm": null,
+      "friAm": "1",
+      "friPm": "1",
+      "satAm": "1",
+      "satPm": null,
+      "memo": ""
+    },
+    {
+      "deptNm": "소화기내과",
+      "doctorId": "GP",
+      "doctorNm": "김요한",
+      "reservationYn": "",
+      "appointYn": "",
+      "monAm": "1",
+      "monPm": "1",
+      "tueAm": null,
+      "tuePm": "1",
+      "wedAm": "1",
+      "wedPm": null,
+      "thuAm": null,
+      "thuPm": null,
+      "friAm": "1",
+      "friPm": "1",
+      "satAm": null,
+      "satPm": "1",
+      "memo": "메모내용"
+    }
+  ]
+}
+
+

@@ -1,0 +1,40 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "GI",
+      "deptNm": "Ophthalmology",
+      "doctorId": "007471",
+      "doctorNm": "Steve",
+      "examGuide": null,
+      "nextLocImgUri": "https://dev.lemonhc.com/mobile-ui/web/images/common/logo/logo_lemonhc.png",
+      "nextLocNm": "Ophthalmology",
+      "payYn": "N",
+      "visitKind": "Medical Treatment",
+      "visitMemo": null,
+      "visitStatusCd": null,
+      "visitDt": "20221127",
+      "visitTm": "1350"
+    },
+    {
+      "deptCd": "GI",
+      "deptNm": "department of surgery",
+      "doctorId": "007471",
+      "doctorNm": "John",
+      "examGuide": null,
+      "nextLocImgUri": null,
+      "nextLocNm": "department of surgery",
+      "payYn": "Y",
+      "visitKind": "Medical Examination",
+      "visitMemo": null,
+      "visitStatusCd": null,
+      "visitDt": "20220521",
+      "visitTm": "1550"
+    }
+  ]
+}

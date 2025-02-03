@@ -1,0 +1,14 @@
+{
+  "elapsedTime": 20,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-08-17 14:47:24",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "returnCd": "0000",
+      "returnMsg": null
+    }
+  ]
+}

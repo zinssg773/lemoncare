@@ -1,0 +1,97 @@
+
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-07-30 15:56:44",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "deptCd": "PID",
+      "deptNm": "소아감염과"
+    },
+    {
+      "deptCd": "PEM",
+      "deptNm": "소아내분비대사과"
+    },
+    {
+      "deptCd": "PUR",
+      "deptNm": "소아비뇨의학과"
+    },
+    {
+      "deptCd": "PGN",
+      "deptNm": "소아소화기 영양과"
+    },
+    {
+      "deptCd": "PNR",
+      "deptNm": "소아신경과"
+    },
+    {
+      "deptCd": "PNS",
+      "deptNm": "소아신경외과"
+    },
+    {
+      "deptCd": "NEO",
+      "deptNm": "소아신생아과"
+    },
+    {
+      "deptCd": "NEP",
+      "deptNm": "소아신장과"
+    },
+    {
+      "deptCd": "PCS",
+      "deptNm": "소아심장외과"
+    },
+    {
+      "deptCd": "PEY",
+      "deptNm": "소아안과"
+    },
+    {
+      "deptCd": "SP",
+      "deptNm": "소아외과"
+    },
+    {
+      "deptCd": "PRM",
+      "deptNm": "소아재활의학과"
+    },
+    {
+      "deptCd": "PPS",
+      "deptNm": "소아정신건강의학과"
+    },
+    {
+      "deptCd": "POS",
+      "deptNm": "소아정형외과"
+    },
+    {
+      "deptCd": "PCC",
+      "deptNm": "소아중환자과"
+    },
+    {
+      "deptCd": "CAA",
+      "deptNm": "소아천식.아토피센터"
+    },
+    {
+      "deptCd": "PCD",
+      "deptNm": "소아청소년심장과"
+    },
+    {
+      "deptCd": "PAM",
+      "deptNm": "소아청소년전문과"
+    },
+    {
+      "deptCd": "PHO",
+      "deptNm": "소아청소년종양혈액과"
+    },
+    {
+      "deptCd": "PDN",
+      "deptNm": "소아치과"
+    },
+    {
+      "deptCd": "PPA",
+      "deptNm": "소아호흡기 알레르기과"
+    }
+  ]
+}
+
+

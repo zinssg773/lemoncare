@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "counsellingAdd": null,
+      "counsellingDrNm": "홍길동",
+      "counsellingDt": "20240129",
+      "counsellingTm": "오후",
+      "counsellingType": "vi"
+    },
+    {
+      "counsellingAdd": "경기도 고양시 일산동구 마두동839-4번지 303호",
+      "counsellingDrNm": "김의사",
+      "counsellingDt": "20240130",
+      "counsellingTm": null,
+      "counsellingType": "po"
+    },
+    {
+      "counsellingAdd": null,
+      "counsellingDrNm": "박의사",
+      "counsellingDt": "20240131",
+      "counsellingTm": "오전",
+      "counsellingType": "ph"
+    }
+  ]
+}

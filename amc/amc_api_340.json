@@ -1,0 +1,70 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "patientId": "45782730",
+      "orderNo": "20123130339743",
+      "dietNm": "1",
+      "wardNm": "163",
+      "roomNm": "03",
+      "nickNm": "",
+      "ageCnte": "44y",
+      "dietDt": "20210101",
+      "dietTypCd": "A",
+      "dietGuide": "현미밥\r\n매운콩나물국\r\n사태찜\r\n유채나물\r\n연두부찜\r\n총각김치",
+      "selectYn": "Y",
+      "updateNo": "TX00131",
+      "updateDt": "2020-12-31 17:30:33.0"
+    },
+    {
+      "patientId": "45782730",
+      "orderNo": "20123130339743",
+      "dietNm": "1",
+      "wardNm": "163",
+      "roomNm": "03",
+      "nickNm": "",
+      "ageCnte": "44y",
+      "dietDt": "20210101",
+      "dietTypCd": "B",
+      "dietGuide": "양송이스프\r\n모닝빵&식빵\r\n파프리카샐러드\r\n계란후라이\r\n우유",
+      "selectYn": "N",
+      "updateNo": "TX00131",
+      "updateDt": "2020-12-31 17:30:33.0"
+    },
+    {
+      "patientId": "45782730",
+      "orderNo": "20123130343687",
+      "dietNm": "2",
+      "wardNm": "163",
+      "roomNm": "03",
+      "nickNm": "",
+      "ageCnte": "44y",
+      "dietDt": "20210101",
+      "dietTypCd": "A",
+      "dietGuide": "현미밥\r\n북어계란국\r\n닭갈비\r\n(닭:국내산)\r\n가지나물\r\n단호박샐러드\r\n포기김치",
+      "selectYn": "N",
+      "updateNo": "TX00131",
+      "updateDt": "2020-12-31 17:30:34.0"
+    },
+    {
+      "patientId": "45782730",
+      "orderNo": "20123130343687",
+      "dietNm": "2",
+      "wardNm": "163",
+      "roomNm": "03",
+      "nickNm": "",
+      "ageCnte": "44y",
+      "dietDt": "20210101",
+      "dietTypCd": "B",
+      "dietGuide": "현미밥\r\n뼈 없는 감자탕\r\n(돈육:국내산)\r\n가지나물\r\n단호박샐러드\r\n포기김치\r\n*저균선택",
+      "selectYn": "Y",
+      "updateNo": "TX00131",
+      "updateDt": "2020-12-31 17:30:34.0"
+    }
+  ]
+}

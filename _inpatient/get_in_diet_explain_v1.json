@@ -1,0 +1,16 @@
+psedTime": 1,
+    "status": "OK",
+    "errors": [],
+    "message": null,
+    "timestamp": "2024-10-02 10:02:41",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "patientId": "41367137694D4272686C335944547765454868686C773D3D",
+            "postDt": "2024-09-25",
+            "mealNm": "당뇨식",
+            "dietDocImg": "당뇨식_20200710.png",
+            "dietKindCd": "DD01"
+        }
+    ]
+}

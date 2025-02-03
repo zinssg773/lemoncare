@@ -1,0 +1,23 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "mainSubCd": "M",
+      "accumulatedLclsCd": "11",
+      "accumulatedLclsNm": "진료",
+      "patientAmt": "10000",
+      "insureAmt": "2100",
+      "fullPatientAmt": "10000",
+      "selectMedicalAmt": "0",
+      "exceptSelectMedicalAmt":"2200",
+      "totalAmt": "56000",
+      "sortSeq": 1
+    }
+  ]
+}

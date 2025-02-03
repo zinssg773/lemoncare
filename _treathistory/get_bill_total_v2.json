@@ -1,0 +1,36 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "billNo": "230614Q5O0001",
+      "billReceiptNo": "N23011319605O1",
+      "billReceiptDt": "20250101",
+      "mainSubCd": "",
+      "deptCd": "OS    ",
+      "deptNm": "정형외과",
+      "doctorId": "",
+      "doctorNm": "천용민",
+      "treatCls": "O",
+      "totalAmt": "80912",
+      "insureAmt": "24210",
+      "patientTotalAmt": "56702",
+      "receiptAmt": "-82800",
+      "discountAmt": "0",
+      "receivableAmt": "0",
+      "visitDt": "20230119",
+      "admissionDt": "",
+      "dischargeDt": "",
+      "fullPatientAmt": "",
+      "selectMedicalAmt": "0",
+      "exceptSelectMedicalAmt": "0",
+      "receiptTyNm": "01",
+      "etcSprtAmt1": "",
+      "vatAmt": "300"
+    }
+  ]
+}

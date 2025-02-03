@@ -1,0 +1,33 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "OBJECT",
+  "body": {
+        "patientId": "41367137694D4272686C335944547765454868686C773D3D",
+        "receiptNo": "0031794607",
+        "patientNm": "윤**A",
+        "gender": "F",
+        "bloodType": "B+",
+        "admissionDt": "2020-11-03",
+        "wardCd": "071",
+        "roomNm": "11",
+        "PatBed": "01",
+        "deptCd": "TVS",
+        "deptNm": "이식혈관외과",
+        "appointDoctorNm": "노*현",
+        "appointDoctorPhotoUrl": "https://www.snuh.org/blog/inter/dr_info_send.do?dr_cd=65877",
+        "admissionDoctorNm": "",
+        "admissionDoctorPhotoUrl": "https://www.snuh.org/blog/inter/dr_info_send.do?dr_cd=",
+        "familyDoctorIdNm": "김*훈",
+        "familyDoctorPhotoUrl": "https://www.snuh.org/blog/inter/dr_info_send.do?dr_cd=16168",
+        "nurseNm": "이*아",
+        "nursePhoto": "https://www.snuh.org/blog/inter/dr_info_send.do?dr_cd=15260",
+        "patientSummaryGb": "",
+        "fallRiskYn": "N",
+        "decubitusRiskYn": "N",
+        "hospitalClsNo": "1"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-08-12 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "OB",
+      "deptNm": "산부인과",
+      "doctorId": "0108332",
+      "doctorNm": "권자영",
+      "admissDayNo": "1",
+      "requestDataDt": "20220816",
+      "admissGuide": "오후 CT 촬영이 있습니다. \r\nCT실로 이동합니다.",
+      "admissGuideUrl": null
+    }
+  ]
+}

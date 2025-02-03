@@ -1,0 +1,203 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "추가검사",
+      "checkupItmNm": "경동맥 도플러(Doppler), 심장혈관CT검사, 의식하진정내시경, 저선량 흉부 CT 검사"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "비용",
+      "checkupItmNm": "￦1,572,000원"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-신체측정",
+      "checkupItmNm": "신체계측, 체지방, 허리둘레측정, 혈압측정"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-혈액검사",
+      "checkupItmNm": "B형간염검사, C형 간염검사, hs-CRP정량검사, 간기능검사, 갑상선기능검사, 고지혈증검사, 당뇨검사, 매독검사, 비타민 D 혈액검사, 에이즈검사, 일반혈액검사, 일반화학검사(간기능, 신장기능), 전해질검사"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-혈액암표지자",
+      "checkupItmNm": "간암표지자, 대장암표지자, 전립선암표지자, 췌장암표지자"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-대소변검사",
+      "checkupItmNm": "대변검사, 소변검사"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-안과검사",
+      "checkupItmNm": "시력검사, 안압, 안저(Fundus Photo)"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-이비인후과 검사",
+      "checkupItmNm": "청력검사"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-호흡기계검사",
+      "checkupItmNm": "저선량 흉부 CT 검사, 폐기능검사, 흉부촬영"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-소화기계검사",
+      "checkupItmNm": "복부초음파, 위내시경, 의식하진정내시경"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-심혈관계검사",
+      "checkupItmNm": "심전도검사"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-뇌혈관계검사",
+      "checkupItmNm": "경동맥 도플러(Doppler)"
+    },
+    {
+      "checkupDt": "20180116",
+      "checkupTm": "0840",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-기타",
+      "checkupItmNm": "의학상담"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "추가검사",
+      "checkupItmNm": "의식하진정내시경, 저선량 흉부 CT 검사"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "비용",
+      "checkupItmNm": "￦977,000원"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "결과상담",
+      "checkupItmNm": "▶ 결과상담 : 2019년 02월 28일 11시 00분  권혁태 교수님"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-신체측정",
+      "checkupItmNm": "신체계측, 체지방, 허리둘레측정, 혈압측정"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-혈액검사",
+      "checkupItmNm": "B형간염검사, C형 간염검사, hs-CRP정량검사, 간기능검사, 갑상선기능검사, 고지혈증검사, 당뇨검사, 매독검사, 비타민 D 혈액검사, 에이즈검사, 일반혈액검사, 일반화학검사(간기능, 신장기능), 전해질검사"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-혈액암표지자",
+      "checkupItmNm": "간암표지자, 대장암표지자, 전립선암표지자, 췌장암표지자"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-대소변검사",
+      "checkupItmNm": "대변검사, 소변검사"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-안과검사",
+      "checkupItmNm": "시력검사, 안압, 안저(Fundus Photo)"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-호흡기계검사",
+      "checkupItmNm": "저선량 흉부 CT 검사, 폐기능검사, 흉부촬영"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-소화기계검사",
+      "checkupItmNm": "복부초음파, 위내시경, 의식하진정내시경"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupCls": "기본",
+      "checkupTy": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "패키지내검사-심혈관계검사",
+      "checkupItmNm": "심전도검사"
+    }
+  ]
+}

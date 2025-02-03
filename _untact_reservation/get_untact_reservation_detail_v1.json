@@ -1,0 +1,23 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-08 14:00:44",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "reservationDt": "20210203",
+      "reservationTm": "1800",
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "000000",
+      "doctorNm": "고영필",
+      "receiptKindNm": "N",
+      "reservationPath": "모바일",
+      "receiptNo": "000000",
+      "payYn": "Y"
+    }
+  ]
+}

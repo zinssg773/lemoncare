@@ -1,0 +1,32 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "checkupCls": "Group",
+      "checkupDt": "20130511",
+      "checkupTm": "0750",
+      "checkupTy": "",
+      "receiptNo": "201205110010"
+    },
+    {
+      "checkupCls": "Personal",
+      "checkupDt": "20150405",
+      "checkupTm": "0800",
+      "checkupTy": "",
+      "receiptNo": "201304050069"
+    },
+    {
+      "checkupCls": "Corporate",
+      "checkupDt": "20170816",
+      "checkupTm": "0840",
+      "checkupTy": "",
+      "receiptNo": "201609020014"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "encryption": "00",
+  "data": {
+    "returnMsg": "SUCCESS",
+    "items": [
+      {
+        "registerHp": "01095929522",
+        "registerGender": "M",
+        "returnCd": "",
+        "patientId": "12341234",
+        "installmentAmount": "0",
+        "installmentPeriod": "00",
+        "endDt": "20271231",
+        "registerNm": "고현성",
+        "registerType": "M",
+        "cardNo": "523930********08",
+        "cardToken": "5239307304244214=57230011060672603188",
+        "employeeCode": "",
+        "payType": "0",
+        "cardNm": "현대",
+        "registerBirthDt": "19950202",
+        "cardValidPeriod": "2712",
+        "cardAlias": "",
+        "requestDtTm": "20240111164633",
+        "patientNm": "고현성",
+        "repYn": "N",
+        "ci": "3guZwESCG+zOy9+lh1nv4292nc\/LhZMRLuKQC54JUGaQ9BC8\/zrMXUGWlAtZktDVY8CPnNjj8OrGhjPWWueZBA==",
+        "cardCd": "07",
+        "relCd": "10",
+        "returnMsg": "",
+        "smsAgreeYn": "N"
+      }
+    ],
+    "hospitalCode": "37100441"
+  },
+  "transactionCode": "2841",
+  "seqTrans": "20240115121657624805",
+  "channelCode": "LEMON",
+  "responseCode": "0000"
+}

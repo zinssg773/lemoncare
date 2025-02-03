@@ -1,0 +1,44 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "availReservationCnt": 0,
+      "availReservationTm": "1400"
+    },
+    {
+      "availReservationCnt": 1,
+      "availReservationTm": "1100"
+    },
+    {
+      "availReservationCnt": 1,
+      "availReservationTm": "1300"
+    },
+    {
+      "availReservationCnt": 0,
+      "availReservationTm": "1500"
+    },
+    {
+      "availReservationCnt": 0,
+      "availReservationTm": "1524"
+    },
+    {
+      "availReservationCnt": 0,
+      "availReservationTm": "1536"
+    },
+    {
+      "availReservationCnt": 0,
+      "availReservationTm": "1548"
+    },
+    {
+      "availReservationCnt": 0,
+      "availReservationTm": "1604"
+    }
+  ]
+
+}

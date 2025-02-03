@@ -1,0 +1,58 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "addProgramCode": "OC0036",
+      "addProgramName": "진정내시경",
+      "addProgramCost": "135000",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "HA0022",
+      "addProgramName": "진정대장내시경(수면원할 시 진정내시경 함께 선택)",
+      "addProgramCost": "190000",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "HA0023",
+      "addProgramName": "비진정대장내시경",
+      "addProgramCost": "190000",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "HE0156",
+      "addProgramName": "복부 및 골반 CT",
+      "addProgramCost": "225260",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "HE0109",
+      "addProgramName": "흉부 CT",
+      "addProgramCost": "199530",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "HF0068",
+      "addProgramName": "뇌MRI+MRA",
+      "addProgramCost": "1120000",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "HD0067",
+      "addProgramName": "유방초음파",
+      "addProgramCost": "231000",
+      "addProgramSetYn": "Y"
+    },
+    {
+      "addProgramCode": "GG0045",
+      "addProgramName": "동맥경화도",
+      "addProgramCost": "85000",
+      "addProgramSetYn": "Y"
+    }
+  ]
+}

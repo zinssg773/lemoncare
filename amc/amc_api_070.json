@@ -1,0 +1,16 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnMsg": "",
+    "returnCd": "0000",
+    "patientNm": "강하화",
+    "carNoN1": "37로8898",
+    "carNoN2": "37로8888",
+    "carNoN3": "38차2222"
+  }
+}

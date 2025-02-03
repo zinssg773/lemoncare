@@ -1,0 +1,20 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "patientNm": "강하화",
+    "returnCd": "0000",
+    "returnMsg": "조회에 성공하였습니다.",
+    "birthDt": "19980411",
+    "address": "481-9",
+    "gender": "M",
+    "zipCdTxt": "전북 남원시 노송로",
+    "cellphconeNo": "010-0377-2331",
+    "patientEmail": "",
+    "zipCd": "590090"
+  }
+}

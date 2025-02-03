@@ -1,0 +1,34 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 19:10:15",
+  "bodyType": "OBJECT",
+  "body": {
+    "id": 4786,
+    "hospitalCd": "11100435",
+    "patientId": "02441873",
+    "issuedNo": "5092",
+    "patientNm": "신재용",
+    "sectionCd": "10.10.10.112",
+    "bizCd": "1",
+    "waitCnt": 0,
+    "issuedDate": "2021-09-15 17:01:40",
+    "kiosk": {
+      "id": 1,
+      "hospitalCd": "11100435",
+      "sectionCd": "10.10.10.112",
+      "bizCd": "1",
+      "seq": 10,
+      "sectionNm": "1층",
+      "bizNm": "처음오신분",
+      "remark": "본관",
+      "createDate": "2019-01-03 20:15:29",
+      "updateDate": "2019-01-03 20:15:29",
+      "kioskStartTime": null,
+      "kioskEndTime": null,
+      "waitingCnt": null
+    }
+  }
+}

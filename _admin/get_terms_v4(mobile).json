@@ -1,0 +1,39 @@
+{
+  "elapsedTime" : 0,
+  "status" : "OK",
+  "errors" : [ ],
+  "message" : "",
+  "timestamp" : "2023-09-20 16:00:27",
+  "bodyType" : "ARRAY",
+  "body" : [ {
+    "id" : 1203,
+    "hospitalCd" : "12345678",
+    "hospitalName" : "테스트병원",
+    "name" : "전자금융거래 이용(테스트, 진료비결제화면)",
+    "type" : "PAY_USE_INFORMATION",
+    "order" : 10,
+    "version" : 0,
+    "contents" : "진료비결제화면에서 사용합니다.<br>약관타입 : PAY_USE_INFORMATION",
+    "required" : true
+  }, {
+    "id" : 1204,
+    "hospitalCd" : "12345678",
+    "hospitalName" : "테스트병원",
+    "name" : "전자금융거래(테스트, 대리결제화면)",
+    "type" : "PAY_PROXY_INFORMATION",
+    "order" : 20,
+    "version" : 0,
+    "contents" : "대리결제화면에서 사용합니다.<br>약관타입 : PAY_PROXY_INFORMATION",
+    "required" : true
+  }, {
+    "id" : 1205,
+    "hospitalCd" : "12345678",
+    "hospitalName" : "테스트병원",
+    "name" : "개인정보 수집 및 이용 동의(테스트, 대리결제환자조회화면)",
+    "type" : "PAY_PERSONAL_INFORMATION",
+    "order" : 30,
+    "version" : 0,
+    "contents" : "대리결제환자조회화면에서 사용합니다.<br>약관타입 : PAY_PERSONAL_INFORMATION",
+    "required" : true
+  } ]
+}

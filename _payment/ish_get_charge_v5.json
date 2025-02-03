@@ -1,0 +1,41 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-20 16:15:47",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "calculationDt": "20200727",
+      "deptCd": "IMP",
+      "deptNm": "호흡기내과",
+      "dischargeYn": null,
+      "discountAmt": null,
+      "doctorId": "IMP999",
+      "doctorNm": "호흡기내과일반의",
+      "errorMsg": null,
+      "insuranceCd": "H",
+      "insureAmt": null,
+      "intermediatePayEndDt": null,
+      "intermediatePayStDt": null,
+      "partChargeYn": null,
+      "patientNm": "테****F",
+      "patientTotalAmt": "150000",
+      "preAmt": null,
+      "prescriptionIntCnt": "0",
+      "prescriptionOutCnt": "0",
+      "privacyYN": null,
+      "realAmt": "150000",
+      "receiptNo": "6784047",
+      "receivableAmt": null,
+      "receiveTy": "선납",
+      "resultKey": "4975159",
+      "selfPayment": null,
+      "surtax": null,
+      "totalAmt": "150000",
+      "visitDt": "20200727",
+      "visitTm": null
+    }
+  ]
+}

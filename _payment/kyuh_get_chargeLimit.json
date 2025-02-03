@@ -1,0 +1,11 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-06-27 17:24:25",
+  "bodyType": "OBJECT",
+  "body": {
+    "receiptLimitMsg": "00"
+  }
+}

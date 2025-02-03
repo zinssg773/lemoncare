@@ -1,0 +1,27 @@
+{
+  "elapsedTime": "17",
+  "status": "OK",
+  "errors": null,
+  "message": null,
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "allergyKind": "CT",
+      "allergyNm": "조영제",
+      "symptom": "과민반응 있음",
+      "severity": "중등증",
+      "reportDt": "20210212",
+      "memo": null
+    },
+    {
+      "allergyKind": "약물",
+      "allergyNm": "주의약물",
+      "symptom": "Klaricid 250mg tab(Clarithromycin), Cholesnone 20mg tab(Simvastatin)",
+      "severity": null,
+      "reportDt": "20210215",
+      "memo": null
+    }
+  ]
+}
+

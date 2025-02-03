@@ -1,0 +1,62 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "deptCd": "000192",
+      "deptNm": "Ophthalmology",
+      "dischargeDt": "20210122",
+      "doctorId": "19910025",
+      "doctorNm": "douglas",
+      "nursePhone": null,
+      "receiptKindNm": null,
+      "receiptNo": "M20180922000282001",
+      "roomCls": "01",
+      "roomNm": "11214",
+      "totalAmt": 2343989,
+      "treatCls": "O",
+      "visitDt": "20211021",
+      "visitTm": "2213",
+      "wardNm": "112병동"
+    },
+    {
+      "deptCd": "000192",
+      "deptNm": "General Chemistry",
+      "dischargeDt": "20210122",
+      "doctorId": "19910025",
+      "doctorNm": "douglas",
+      "nursePhone": null,
+      "receiptKindNm": null,
+      "receiptNo": "M20180922000282001",
+      "roomCls": "02",
+      "roomNm": "11215",
+      "totalAmt": 2343989,
+      "treatCls": "O",
+      "visitDt": "20210122",
+      "visitTm": "2213",
+      "wardNm": "112병동"
+    },
+    {
+      "deptCd": "000192",
+      "deptNm": "General Chemistry",
+      "dischargeDt": "20210122",
+      "doctorId": "19910025",
+      "doctorNm": "douglas",
+      "nursePhone": null,
+      "receiptKindNm": null,
+      "receiptNo": "M20180922000282001",
+      "roomCls": "02",
+      "roomNm": "11215",
+      "totalAmt": 2343989,
+      "treatCls": "I",
+      "visitDt": "20210122",
+      "visitTm": "2213",
+      "wardNm": "112병동"
+    }
+  ]
+}

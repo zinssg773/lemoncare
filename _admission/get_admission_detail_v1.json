@@ -1,0 +1,24 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "patientNm": "이경희",
+      "admissionDt": "20210916",
+      "dischargeDt": "20210922",
+      "admissionYn": "N",
+      "deptCd": "000192",
+      "deptNm": "소화기내과",
+      "doctorId": "19910025",
+      "doctorNm": "박형석",
+      "wardNm": "112병동",
+      "roomNm": "11214",
+      "nursePhone": null
+    }
+  ]
+}

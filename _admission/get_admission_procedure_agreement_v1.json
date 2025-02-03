@@ -1,0 +1,32 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "agreementCode": "A1",
+      "agreementTitle": "입퇴원약정서",
+      "agreementContents": "동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동>의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의>서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>",
+      "agreementViewType": "T",
+      "mandatoryYn": "Y"
+    },
+    {
+      "agreementCode": "A2",
+      "agreementTitle": "간호간병통합서비스 병동입원 동의서",
+      "agreementContents": "동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>동의서내용<br>",
+      "agreementViewType": "T",
+      "mandatoryYn": "Y"
+    },
+    {
+      "agreementCode": "A3",
+      "agreementTitle": "입원전담전문의 병동입원 동의서",
+      "agreementContents": "동의서 내용",
+      "agreementViewType": "T",
+      "mandatoryYn": "N"
+    }
+  ]
+}

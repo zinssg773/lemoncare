@@ -1,0 +1,68 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "receiptList": [
+        {
+          "mdrpNo": 1760525,
+          "mcdpCd": "111210",
+          "mcrcYmd": "20230803",
+          "mcdpNm": "외과",
+          "istyCd": "90",
+          "mcrcRno": 1,
+          "rcpcAmt": 28380,
+          "thdyBlclYn": "N",
+          "istyAsstCd": "00",
+          "mddrId": "8888016",
+          "ptno": "01741002",
+          "mcclWorkPrkyVl": "20230803324506",
+          "mddrNm": "주의사",
+          "ptntNm": "김*_T",
+          "mdcrYmd": "20230803"
+        },
+        {
+          "mdrpNo": 1760526,
+          "mcdpCd": "111210",
+          "mcrcYmd": "20230803",
+          "mcdpNm": "외과",
+          "istyCd": "90",
+          "mcrcRno": 2,
+          "rcpcAmt": 23800,
+          "thdyBlclYn": "N",
+          "istyAsstCd": "00",
+          "mddrId": "8888016",
+          "ptno": "01741002",
+          "mcclWorkPrkyVl": "20230803324506",
+          "mddrNm": "주의사",
+          "ptntNm": "홍길동",
+          "mdcrYmd": "20230809"
+        },
+        {
+          "mdrpNo": 1760526,
+          "mcdpCd": "111210",
+          "mcrcYmd": "20230803",
+          "mcdpNm": "피부과",
+          "istyCd": "90",
+          "mcrcRno": 3,
+          "rcpcAmt": 0,
+          "thdyBlclYn": "N",
+          "istyAsstCd": "00",
+          "mddrId": "8888016",
+          "ptno": "01741002",
+          "mcclWorkPrkyVl": "20230803324506",
+          "mddrNm": "주의사",
+          "ptntNm": "홍길동",
+          "mdcrYmd": "20230809"
+        }
+      ],
+      "unacceptableCd": null,
+      "guideMsg": null,
+      "unacceptableRmk": null
+    }
+  ]
+}

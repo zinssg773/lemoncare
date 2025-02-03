@@ -1,0 +1,25 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "dateInfo": "20210409",
+      "drugNo": 128,
+      "location": "원외처방전 존재 합니다. 수납창구에서 처방전을 발급받으세요"
+    },
+    {
+      "dateInfo": "20210409",
+      "drugNo": "",
+      "location": "원외처방전 존재 합니다. 수납창구에서 처방전을 발급받으세요"
+    },
+    {
+      "dateInfo": "20210409",
+      "drugNo": 130,
+      "location": "다음 진료는 감염내과입니다. 감염내과로 방문해주세요"
+    }
+  ]
+}

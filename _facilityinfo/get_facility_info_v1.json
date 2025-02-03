@@ -1,0 +1,100 @@
+{
+  "elapsedTime": 0,
+  "status": 200,
+  "errors": null,
+  "message": null,
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "기타",
+      "facilityNm": "핸드메이드 플래닛 ",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 :  10:00 ~ 20:00 / 주말 :  10:00 ~ 20:00 　\r\n2. 취급품목 : \r\n- 핸드메이드 상품 (목걸이, 귀걸이, 모자, 양말)\r\n3. 가격 : 1,000원 ~ 50,000원　\r\n4. 위치 : 대한외래 지하1층",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/9a04321e6a61405eab84c9a2b6ec26a4.jpg,http://www.snuh.org/upload/guide/conven/inter/4484df92b1ad4b52946fc5c887b4085c.jpg,http://www.snuh.org/upload/guide/conven/inter/7d7858d0cc9842bc880f5ce9de17999f.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "매점/마트",
+      "facilityNm": "GS25",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 06:00 ~ 22:00 / 주말 : 06:00 ~ 22:00 \r\n2. 취급품목 : 음료, 스낵, 도시락, 장난감, 위생용품　\r\n3. 위치 : 대한외래 지하1층",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/cce9eaf6184a4475bc6f2df958e39e6f.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "기타",
+      "facilityNm": "헤어온",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 10:00 ~ 20:00 / 주말 : 10:00 ~ 17:00 　\r\n2. 취급품목 : 커트, 염색, 펌, 가발\r\n3. 가격 : \r\n- 커트 : 17,000원(남) 18,000원(여) \r\n- 염색 : 70,000원(남) 80,000원(여)\r\n4. 위치 : 대한외래 지하1층",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/cb601d69cfd54aa2a2a1e5d7d39b0b30.jpg,http://www.snuh.org/upload/guide/conven/inter/69956e8d0f0946e78a2d59b11561242d.jpg,http://www.snuh.org/upload/guide/conven/inter/f2bf76426df1433eac7154118ddb01d8.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "매점/마트",
+      "facilityNm": "삼진 어묵 ",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 09:00 ~ 21:00 / 주말 : 09:00 ~ 21:00 \r\n2. 대표메뉴 : 어묵고로케, 튀김어묵, 치즈스틱　\r\n3. 가격 : 1,500원 ~ 7,000원　　 \r\n4. 위치 : 대한외래 지하1층 ",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/ae252a759c8749889ab74f363a1627e2.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "매점/마트",
+      "facilityNm": "잠바주스",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 09:00 ~ 21:00 / 주말 : 09:00 ~ 21:00 \r\n2. 대표메뉴 : 과일스무디, 주스, 티\r\n3. 가격 : 4,900원 ~\r\n4. 위치 : 대한외래 지하1층",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/2c86a2b3d550451ab6084c2be56d3873.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "매점/마트",
+      "facilityNm": "던킨도너츠",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 07:00 ~ 22:00 / 주말 07:00 ~ 21:00　\r\n\r\n2. 위치 : 대한외래 지하1층",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/faee22d30f314457a8a538100b2eb863.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "매점/마트",
+      "facilityNm": "파리크라상",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 07:00 ~ 22:00 / 주말 07:00 ~ 21:00\r\n\r\n2. 위치 : 대한외래 지하1층",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/311bef99553d4b94a4f913f11457b9f4.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "매점/마트",
+      "facilityNm": "배스킨라빈스31 ",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 09:00 ~ 21:00 / 주말 : 09:00 ~ 21:00 \r\n\r\n2. 위치 : 대한외래 지하1층 ",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/6bf24cd175b64e869cec66cfea14c208.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "식당/커피숍",
+      "facilityNm": "파스쿠찌",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 07:00~21:00 / 주말 : 07:00~21:00　\r\n\r\n2. 위치 : 대한외래 지하1층 ",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/8b4b8ccafd3343bd901204dd941910b6.jpg,http://www.snuh.org/upload/guide/conven/inter/dece1ff8a9a04f2faa83756e11ee80fa.jpg,http://www.snuh.org/upload/guide/conven/inter/c5f36d60ebb04d05996b2b9b4733a1ec.jpg"
+    },
+    {
+      "hospitalCd": "1",
+      "hospitalClsNo": null,
+      "facilityCls": "식당/커피숍",
+      "facilityNm": "가화원",
+      "phoneNo": null,
+      "facilityGuide": "1. 운영시간 : \r\n- 평일 : 11:00 ~ 20:30 / 주말(토요일) 11:00 ~ 15:00　\r\n2. 대표메뉴 : \r\n- 활전복바지락미역국, 가화원산채비빔밥, 왕갈비탕\r\n3. 가격 : 11,000원 ~ 21,000원\r\n4. 위치 : 대한외래 지하1층 ",
+      "imgUri": "http://www.snuh.org/upload/guide/conven/inter/d3e3b0f58a614543b771e72684d18f04.jpg,http://www.snuh.org/upload/guide/conven/inter/28da650576014aa98a4436cb8737a0ce.jpg,http://www.snuh.org/upload/guide/conven/inter/4e1b90bf7dcf42a080a0a1feb58b76b6.jpg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "visitDt": "20240319",
+      "reservationTm": "1500",
+      "deptCd": "OT",
+      "deptNm": "안과",
+      "doctorId": "65992",
+      "doctorNm": "권*태",
+      "visitStatusCd": "A",
+      "receiptNo": "0008132229",
+      "dailyPatientId": null,
+      "commonCls": "t",
+      "orderNm": null,
+      "medicalGuide": "",
+      "location": "별관 B2(지하2층) 안과 ",
+      "payYn": "N",
+      "hospitalClsNo": "05",
+      "firstTreatYn": "N"
+    }
+  ]
+}

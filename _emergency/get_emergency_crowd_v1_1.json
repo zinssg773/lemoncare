@@ -1,0 +1,14 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "OBJECT",
+  "body": {
+      "emergencyCrowdCd": "3",
+      "emergencyCrowdTm": "1시간 30분",
+      "emergencyCrowdNo": "50명",
+      "memo": "진료까지 예상 소요 : 2시간"
+  }
+}

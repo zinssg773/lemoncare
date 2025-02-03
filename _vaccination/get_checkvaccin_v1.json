@@ -1,0 +1,29 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-11 09:41:06",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "questYn1": "Y",
+      "questYn2": "N",
+      "questYn3": "N",
+      "questYn4": "Y",
+      "questYn5": "N",
+      "questYn6": "N",
+      "questYn7": "Y",
+      "questYn8": "N",
+      "questYn9": "N",
+      "questYn10": "Y",
+      "questYn11": "Y",
+      "questYn12": "Y",
+      "questText4": "테스트1",
+      "questText6": "",
+      "questText7": "테스트2",
+      "questText9": "",
+      "questText12": "테스트3"
+    }
+  ]
+}

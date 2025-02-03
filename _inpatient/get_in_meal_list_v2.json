@@ -1,0 +1,52 @@
+{
+    "elapsedTime": 589,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2024-05-24 15:44:12",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "mealCd": "D01ZZ1100",
+            "mealChangeYn": "N",
+            "mealKindCd": "AA1",
+            "mealKindNm": "A식단",
+            "mealNm": null,
+            "mealRemark": null,
+            "mealShapeCd": null,
+            "mealShapeNm": "일반식 상식",
+            "mealShapeTypeCd": null,
+            "mealShapeTypeNm": null,
+            "mealTypeCd": "1",
+            "mealTypeNm": "조식"
+        },
+        {
+            "mealCd": "D01ZZ1100",
+            "mealChangeYn": "Y",
+            "mealKindCd": "AA2",
+            "mealKindNm": "B식단",
+            "mealNm": null,
+            "mealRemark": null,
+            "mealShapeCd": null,
+            "mealShapeNm": "일반식 상식",
+            "mealShapeTypeCd": null,
+            "mealShapeTypeNm": null,
+            "mealTypeCd": "2",
+            "mealTypeNm": "중식"
+        },
+        {
+            "mealCd": "D01ZZ1100",
+            "mealChangeYn": "N",
+            "mealKindCd": "AA2",
+            "mealKindNm": "B식단",
+            "mealNm": null,
+            "mealRemark": null,
+            "mealShapeCd": null,
+            "mealShapeNm": "일반식 상식",
+            "mealShapeTypeCd": null,
+            "mealShapeTypeNm": null,
+            "mealTypeCd": "3",
+            "mealTypeNm": "석식"
+        }
+    ]
+}

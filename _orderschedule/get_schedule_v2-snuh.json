@@ -1,0 +1,58 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptNm": "가정의학과",
+      "doctorId": "20060051",
+      "doctorNm": "최재경",
+      "reservationYn": "Y",
+      "appointYn": "N",
+      "monCd": "AM:R,PM:R",
+      "tueCd": "AM:R,PM:R",
+      "wedCd": "AM:C",
+      "thuCd": null,
+      "friCd": "AM:R,PM:R,PM:C",
+      "satSch": "PM:C",
+      "scheduleInfo": "",
+      "memo": "[세부전공] 건강증진, 비만, 만성질환 관리",
+      "phoneNo": "01012345678"
+    },
+    {
+      "deptNm": "가정의학과",
+      "doctorId": "20060052",
+      "doctorNm": "최한길",
+      "reservationYn": "N",
+      "appointYn": "N",
+      "monCd": null,
+      "tueCd": null,
+      "wedCd": null,
+      "thuCd": null,
+      "friCd": null,
+      "satSch": null,
+      "scheduleInfo": "장기연수",
+      "memo": "[세부전공] 건강증진, 비만, 만성질환 관리",
+      "phoneNo": "01012345678"
+    },
+    {
+      "deptNm": "가정의학과",
+      "doctorId": "20060053",
+      "doctorNm": "김호성",
+      "reservationYn": null,
+      "appointYn": "N",
+      "monCd": "AM:C",
+      "tueCd": "PM:C",
+      "wedCd": null,
+      "thuCd": "AM:C,PM:C",
+      "friCd": null,
+      "satSch": "AM:R,PM:C",
+      "scheduleInfo": "",
+      "memo": "[세부전공] 건강증진, 비만, 만성질환 관리",
+      "phoneNo": "01012345678"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "000192",
+      "deptNm": "소화기내과",
+      "doctorId": "20090195",
+      "doctorNm": "황향란",
+      "roundTreatWeekdayTm": "수 AM:8:00 / PM:전임의 17:00",
+      "wardCd": "000055",
+      "wardNm": "071병동"
+    }
+  ]
+}

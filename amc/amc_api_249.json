@@ -1,0 +1,57 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2021-04-01 14:54:25",
+  "bodyType": "OBJECT",
+  "body": {
+    "PhrRcivPatBasic": [
+      {
+        "rcptUnitKey": "",
+        "rcivPatno": "60463386",
+        "rcivVistSn": "1",
+        "vistDt": "20210101",
+        "vistTm": "",
+        "rcivShapCd": "I",
+        "dchrgDt": "20210331",
+        "dchrgTm": "",
+        "kioskId": "VV00010",
+        "rcivDt": "",
+        "rcivTm": "",
+        "rcmm": "6450000"
+      }
+    ],
+    "PatList": [
+      {
+        "rcivPatno": "60463386",
+        "rcivVistSn": "1",
+        "vistDt": "20210101",
+        "vistTm": "",
+        "insurTypCd": "10",
+        "insurTypAsistCd": "G",
+        "insurSn": "1",
+        "mammYn": "",
+        "crtaSymbCd": "F005",
+        "drgKndCd": "",
+        "profShapCd": "",
+        "rcivKndCd": "",
+        "mdexSrvcCd": "",
+        "mdexExamDivCd": "",
+        "rcivShapCd": "",
+        "vistPsnCd": "",
+        "mdexPuposCd": "",
+        "inqryStDt": "20210101",
+        "inqryEndDt": "",
+        "maxApplyEndDt": "99991231",
+        "aldyRcivAmt": "206950",
+        "rcmm": "6450000",
+        "totRcivAmt": "0",
+        "progrmDivCd": "",
+        "dchrgDt": "",
+        "dchrgTm": "",
+        "mdexRsltCd": ""
+      }
+    ]
+  }
+}

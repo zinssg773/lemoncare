@@ -1,0 +1,556 @@
+{
+  "elapsedTime": 0,
+  "status": 200,
+  "errors": null,
+  "message": null,
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "HM",
+      "deptNm": "가정의학과",
+      "reservationYn": "Y",
+      "deptSeq": "1"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G6",
+      "deptNm": "간담췌외과",
+      "reservationYn": "Y",
+      "deptSeq": "2"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M7",
+      "deptNm": "감염내과",
+      "reservationYn": "Y",
+      "deptSeq": "3"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G8",
+      "deptNm": "갑상선내분비외과",
+      "reservationYn": "Y",
+      "deptSeq": "4"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "FC",
+      "deptNm": "국제진료소",
+      "reservationYn": "Y",
+      "deptSeq": "5"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M5",
+      "deptNm": "내분비내과",
+      "reservationYn": "Y",
+      "deptSeq": "6"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "MG",
+      "deptNm": "노년내과",
+      "reservationYn": "Y",
+      "deptSeq": "7"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G5",
+      "deptNm": "대장항문외과",
+      "reservationYn": "Y",
+      "deptSeq": "8"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M9",
+      "deptNm": "류마티스내과",
+      "reservationYn": "Y",
+      "deptSeq": "9"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "AN",
+      "deptNm": "마취통증의학과",
+      "reservationYn": "Y",
+      "deptSeq": "10"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "PA",
+      "deptNm": "병리과",
+      "reservationYn": "N",
+      "deptSeq": "11"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "UR",
+      "deptNm": "비뇨의학과",
+      "reservationYn": "Y",
+      "deptSeq": "12"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "OB",
+      "deptNm": "산부인과",
+      "reservationYn": "Y",
+      "deptSeq": "13"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "PS",
+      "deptNm": "성형외과",
+      "reservationYn": "Y",
+      "deptSeq": "14"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M1",
+      "deptNm": "소화기내과",
+      "reservationYn": "Y",
+      "deptSeq": "15"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "NM",
+      "deptNm": "신경과",
+      "reservationYn": "Y",
+      "deptSeq": "16"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "NS",
+      "deptNm": "신경외과",
+      "reservationYn": "Y",
+      "deptSeq": "17"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M8",
+      "deptNm": "신장내과",
+      "reservationYn": "Y",
+      "deptSeq": "18"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M6",
+      "deptNm": "알레르기내과",
+      "reservationYn": "Y",
+      "deptSeq": "19"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "RD",
+      "deptNm": "영상의학과",
+      "reservationYn": "Y",
+      "deptSeq": "20"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G9",
+      "deptNm": "외상외과",
+      "reservationYn": "Y",
+      "deptSeq": "21"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G4",
+      "deptNm": "위장관외과",
+      "reservationYn": "Y",
+      "deptSeq": "22"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G7",
+      "deptNm": "유방외과",
+      "reservationYn": "Y",
+      "deptSeq": "23"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "EM",
+      "deptNm": "응급의학과",
+      "reservationYn": "Y",
+      "deptSeq": "24"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "G3",
+      "deptNm": "이식외과",
+      "reservationYn": "Y",
+      "deptSeq": "25"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "CP",
+      "deptNm": "임상약리학과",
+      "reservationYn": "Y",
+      "deptSeq": "26"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "PY",
+      "deptNm": "정신건강의학과",
+      "reservationYn": "Y",
+      "deptSeq": "27"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "OS",
+      "deptNm": "정형외과",
+      "reservationYn": "Y",
+      "deptSeq": "28"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "OE",
+      "deptNm": "직업환경의학과",
+      "reservationYn": "Y",
+      "deptSeq": "29"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "LB",
+      "deptNm": "진단검사의학과",
+      "reservationYn": "N",
+      "deptSeq": "30"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "MU",
+      "deptNm": "통합내과",
+      "reservationYn": "N",
+      "deptSeq": "31"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "SK",
+      "deptNm": "피부과",
+      "reservationYn": "Y",
+      "deptSeq": "32"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "NU",
+      "deptNm": "핵의학과",
+      "reservationYn": "Y",
+      "deptSeq": "33"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "M2",
+      "deptNm": "혈액내과",
+      "reservationYn": "Y",
+      "deptSeq": "34"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "CM",
+      "deptNm": "호흡기내과",
+      "reservationYn": "Y",
+      "deptSeq": "35"
+    },
+    {
+      "deptCls": "세브란스병원",
+      "deptCd": "C1",
+      "deptNm": "흉부외과",
+      "reservationYn": "Y",
+      "deptSeq": "36"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JA",
+      "deptNm": "간암센터",
+      "reservationYn": "N",
+      "deptSeq": "37"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JB",
+      "deptNm": "갑상선암센터",
+      "reservationYn": "N",
+      "deptSeq": "38"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JU",
+      "deptNm": "개인맞춤치료센터",
+      "reservationYn": "N",
+      "deptSeq": "39"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JF",
+      "deptNm": "대장암센터",
+      "reservationYn": "N",
+      "deptSeq": "40"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JE",
+      "deptNm": "두경부암센터",
+      "reservationYn": "N",
+      "deptSeq": "41"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JG",
+      "deptNm": "부인암센터",
+      "reservationYn": "N",
+      "deptSeq": "42"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JH",
+      "deptNm": "비뇨기암센터",
+      "reservationYn": "N",
+      "deptSeq": "43"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JI",
+      "deptNm": "소아청소년암센터",
+      "reservationYn": "N",
+      "deptSeq": "44"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JJ",
+      "deptNm": "식도암센터",
+      "reservationYn": "N",
+      "deptSeq": "45"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JP",
+      "deptNm": "암예방센터",
+      "reservationYn": "N",
+      "deptSeq": "46"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JQ",
+      "deptNm": "완화의료센터",
+      "reservationYn": "N",
+      "deptSeq": "47"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JL",
+      "deptNm": "위암센터",
+      "reservationYn": "N",
+      "deptSeq": "48"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JK",
+      "deptNm": "유방암센터",
+      "reservationYn": "N",
+      "deptSeq": "49"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JM",
+      "deptNm": "췌장담도암센터",
+      "reservationYn": "N",
+      "deptSeq": "50"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JN",
+      "deptNm": "폐암센터",
+      "reservationYn": "N",
+      "deptSeq": "51"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "JO",
+      "deptNm": "혈액암센터",
+      "reservationYn": "N",
+      "deptSeq": "52"
+    },
+    {
+      "deptCls": "연세암병원",
+      "deptCd": "SG",
+      "deptNm": "흉터성형레이저센터",
+      "reservationYn": "N",
+      "deptSeq": "53"
+    },
+    {
+      "deptCls": "재활병원",
+      "deptCd": "RH",
+      "deptNm": "재활의학과",
+      "reservationYn": "Y",
+      "deptSeq": "54"
+    },
+    {
+      "deptCls": "심혈관병원",
+      "deptCd": "P2",
+      "deptNm": "소아심장과",
+      "reservationYn": "Y",
+      "deptSeq": "55"
+    },
+    {
+      "deptCls": "심혈관병원",
+      "deptCd": "M3",
+      "deptNm": "심장내과",
+      "reservationYn": "Y",
+      "deptSeq": "56"
+    },
+    {
+      "deptCls": "심혈관병원",
+      "deptCd": "A2",
+      "deptNm": "심장마취통증의학과",
+      "reservationYn": "N",
+      "deptSeq": "57"
+    },
+    {
+      "deptCls": "심혈관병원",
+      "deptCd": "RC",
+      "deptNm": "심장영상의학과",
+      "reservationYn": "Y",
+      "deptSeq": "58"
+    },
+    {
+      "deptCls": "심혈관병원",
+      "deptCd": "C2",
+      "deptNm": "심장혈관외과",
+      "reservationYn": "Y",
+      "deptSeq": "59"
+    },
+    {
+      "deptCls": "안이병원",
+      "deptCd": "EY",
+      "deptNm": "안과",
+      "reservationYn": "Y",
+      "deptSeq": "60"
+    },
+    {
+      "deptCls": "안이병원",
+      "deptCd": "EN",
+      "deptNm": "이비인후과",
+      "reservationYn": "Y",
+      "deptSeq": "61"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PI",
+      "deptNm": "소아감염면역과",
+      "reservationYn": "Y",
+      "deptSeq": "62"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PE",
+      "deptNm": "소아내분비과",
+      "reservationYn": "Y",
+      "deptSeq": "63"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P6",
+      "deptNm": "소아비뇨의학과",
+      "reservationYn": "Y",
+      "deptSeq": "64"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PG",
+      "deptNm": "소아소화기영양과",
+      "reservationYn": "Y",
+      "deptSeq": "65"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P8",
+      "deptNm": "소아신경과",
+      "reservationYn": "Y",
+      "deptSeq": "66"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P4",
+      "deptNm": "소아신경외과",
+      "reservationYn": "Y",
+      "deptSeq": "67"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PN",
+      "deptNm": "소아신장과",
+      "reservationYn": "Y",
+      "deptSeq": "68"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "G2",
+      "deptNm": "소아외과",
+      "reservationYn": "Y",
+      "deptSeq": "69"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PP",
+      "deptNm": "소아응급의학과",
+      "reservationYn": "N",
+      "deptSeq": "70"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P9",
+      "deptNm": "소아재활의학과",
+      "reservationYn": "N",
+      "deptSeq": "71"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P3",
+      "deptNm": "소아정신과",
+      "reservationYn": "Y",
+      "deptSeq": "72"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P5",
+      "deptNm": "소아정형외과",
+      "reservationYn": "Y",
+      "deptSeq": "73"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PB",
+      "deptNm": "소아청소년부인과",
+      "reservationYn": "Y",
+      "deptSeq": "74"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PH",
+      "deptNm": "소아혈액종양과2",
+      "reservationYn": "N",
+      "deptSeq": "75"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "PR",
+      "deptNm": "소아호흡기 알레르기과",
+      "reservationYn": "Y",
+      "deptSeq": "76"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "P7",
+      "deptNm": "신생아과",
+      "reservationYn": "Y",
+      "deptSeq": "77"
+    },
+    {
+      "deptCls": "어린이병원",
+      "deptCd": "CG",
+      "deptNm": "임상유전과",
+      "reservationYn": "Y",
+      "deptSeq": "78"
+    }
+  ]
+}

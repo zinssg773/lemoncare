@@ -1,0 +1,28 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-23 18:56:44",
+  "bodyType": "ARRAY",
+  "body": [],
+  "data": {
+    "responseCode": "0000",
+    "data": {
+      "items": [
+        {
+          "title": "실천 제목1",
+          "content": "내용1"
+        },
+        {
+          "title": "실천 제목2",
+          "content": "내용2"
+        },
+        {
+          "title": "실천 제목3",
+          "content": "내용3"
+        }
+      ]
+    }
+  }
+}

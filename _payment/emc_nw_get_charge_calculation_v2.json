@@ -1,0 +1,136 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+        "dw_dcgm1":[]
+        , "dw_opmi":[
+            {
+                "opmiaamt":13520
+                , "opmiaclm":6820
+                , "opmiahcf":0
+                , "opmiapay":6700
+                , "opmiasap":0
+                , "opmibamt":0
+                , "opmiblam":0
+                , "opmicamt":0
+                , "opmiclno":1
+                , "opmicrec":0
+                , "opmidamt":0
+                , "opmidate":"20210325"
+                , "opmidcam":0
+                , "opmidept":"ABBLAA"
+                , "opmidoct":"20201695"
+                , "opmigmam":0
+                , "opmiidno":"00000009"
+                , "opmiinco":"-"
+                , "opmikind":11
+                , "opmimetp":"O"
+                , "opmimsam":0
+                , "opmimscs":"M"
+                , "opmiogam":0
+                , "opmiorec":0
+                , "opmipamt":0
+                , "opmiprec":6700
+                , "opmircdt":"-"
+                , "opmircno":0
+                , "opmircsn":1
+                , "opmirdam":0
+                , "opmirecv":6700
+                , "opmisbkd":"-"
+                , "opmisdoc":"20201695"
+                , "opmistat":"Y"
+                , "opmitrns":"N"
+                , "opmiuser":"-"
+                , "opmiwkdt":"-"
+                , "opmiwktm":"-"
+            },
+			{
+                "opmiaamt":13521
+                , "opmiaclm":6820
+                , "opmiahcf":0
+                , "opmiapay":4700
+                , "opmiasap":0
+                , "opmibamt":0
+                , "opmiblam":0
+                , "opmicamt":0
+                , "opmiclno":1
+                , "opmicrec":0
+                , "opmidamt":0
+                , "opmidate":"20220325"
+                , "opmidcam":0
+                , "opmidept":"ABBLAA"
+                , "opmidoct":"20201695"
+                , "opmigmam":0
+                , "opmiidno":"00000009"
+                , "opmiinco":"-"
+                , "opmikind":11
+                , "opmimetp":"O"
+                , "opmimsam":0
+                , "opmimscs":"M"
+                , "opmiogam":0
+                , "opmiorec":0
+                , "opmipamt":0
+                , "opmiprec":4700
+                , "opmircdt":"-"
+                , "opmircno":0
+                , "opmircsn":1
+                , "opmirdam":0
+                , "opmirecv":4700
+                , "opmisbkd":"-"
+                , "opmisdoc":"20201695"
+                , "opmistat":"Y"
+                , "opmitrns":"N"
+                , "opmiuser":"-"
+                , "opmiwkdt":"-"
+                , "opmiwktm":"-"
+            },
+			{
+                "opmiaamt":13522
+                , "opmiaclm":6820
+                , "opmiahcf":0
+                , "opmiapay":0
+                , "opmiasap":0
+                , "opmibamt":0
+                , "opmiblam":0
+                , "opmicamt":0
+                , "opmiclno":1
+                , "opmicrec":0
+                , "opmidamt":0
+                , "opmidate":"20230325"
+                , "opmidcam":0
+                , "opmidept":"ABBLAA"
+                , "opmidoct":"20201695"
+                , "opmigmam":0
+                , "opmiidno":"00000009"
+                , "opmiinco":"-"
+                , "opmikind":11
+                , "opmimetp":"O"
+                , "opmimsam":0
+                , "opmimscs":"M"
+                , "opmiogam":0
+                , "opmiorec":0
+                , "opmipamt":0
+                , "opmiprec":0
+                , "opmircdt":"-"
+                , "opmircno":0
+                , "opmircsn":1
+                , "opmirdam":0
+                , "opmirecv":0
+                , "opmisbkd":"-"
+                , "opmisdoc":"20201695"
+                , "opmistat":"Y"
+                , "opmitrns":"N"
+                , "opmiuser":"-"
+                , "opmiwkdt":"-"
+                , "opmiwktm":"-"
+            }
+        ]
+        , "dw_oscl":[]
+    }
+  ]
+}

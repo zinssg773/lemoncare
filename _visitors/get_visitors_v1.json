@@ -1,0 +1,35 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2024-04-25 12:15:00",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+		"visitorsDt": "20240430",
+		"visitorsTm": "1040",
+		"visitorsNm": "홍길동",
+		"visitorsHp": "01012343333",
+		"visitorsAvailableDate": "20240531",
+		"visitorsSeq": "1"
+	},
+	{
+		"visitorsDt": "20240430",
+		"visitorsTm": "1540",
+		"visitorsNm": "홍길순",
+		"visitorsHp": "01012345555",
+		"visitorsAvailableDate": "20240531",
+		"visitorsSeq": "2"
+	},
+	{
+		"visitorsDt": "20240512",
+		"visitorsTm": "1600",
+		"visitorsNm": "나방문",
+		"visitorsHp": "01012347777",
+		"visitorsAvailableDate": "20240630",
+		"visitorsSeq": "3"
+	}
+    ]
+}
+

@@ -1,0 +1,42 @@
+{
+  "elapsedTime": "511",
+  "status": "OK",
+  "errors": "[]",
+  "message": "",
+  "timestamp": "2023-10-19 14:07:12",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "admissionInfoMsg": "",
+      "assistingDeviceYn": "",
+      "bloodAmt": "0",
+      "changeAmt": "0",
+      "contribution": "0",
+      "customerAmt": "0",
+      "disabledFund": "0",
+      "discountAmt": "0",
+      "discountCdMsg": "",
+      "errorMsg": "",
+      "flatRateDiffer": "0",
+      "insureAmt": "6231",
+      "intermediateAmt": "0",
+      "npPatientMsg": "",
+      "patientTotalAmt": "9200",
+      "preAmt": "0",
+      "preAmtCheck": "",
+      "projectAmt": "0",
+      "proxyPayAmt": "0",
+      "raraIntratbSubsidy": "0",
+      "realAmt": "9200",
+      "receiptAmt": "9200",
+      "receiptSeq": "2",
+      "receivableAmt": "0",
+      "selectMedicalAmt": "0",
+      "selfPayment": "9200",
+      "surtax": "0",
+      "totalAmt": "15431",
+      "totalNonPayment": "0",
+      "totalPayment": "15431"
+    }
+  ]
+}

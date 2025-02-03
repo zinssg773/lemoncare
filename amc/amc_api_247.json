@@ -1,0 +1,22 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2021-04-01 14:36:54",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "rcptPageNum": "1",
+      "destLocCnte": "동관 2층 동관 일반촬영실 접수",
+      "descDtmCnte": "2021년 03월 31일 ",
+      "mdctNo": ""
+    },
+    {
+      "rcptPageNum": "1",
+      "destLocCnte": "서관 1층 서관 채혈실(평일;06:30~18:30)",
+      "descDtmCnte": "2021년 03월 31일 ",
+      "mdctNo": ""
+    }
+  ]
+}

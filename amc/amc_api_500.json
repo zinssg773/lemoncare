@@ -1,0 +1,160 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "progrmSetCode": "21MTCGL",
+      "programSetName": "CT A(흉부,복부,골반)",
+      "programSetCost": "400000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGD",
+      "programSetName": "척추디스크",
+      "programSetCost": "1480000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGB",
+      "programSetName": "경추디스크",
+      "programSetCost": "770000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGC",
+      "programSetName": "요추디스크",
+      "programSetCost": "770000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHB",
+      "programSetName": "뇌졸중",
+      "programSetCost": "1170000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGJ",
+      "programSetName": "치매/인지기능정밀평가",
+      "programSetCost": "1260000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGX",
+      "programSetName": "스트레스/우울평가",
+      "programSetCost": "170000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGI",
+      "programSetName": "남성",
+      "programSetCost": "380000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGK",
+      "programSetName": "골다공증",
+      "programSetCost": "95000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGO",
+      "programSetName": "갑상선",
+      "programSetCost": "240000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGA",
+      "programSetName": "심장기본",
+      "programSetCost": "460000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGU",
+      "programSetName": "협심증",
+      "programSetCost": "570000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGE",
+      "programSetName": "스포츠",
+      "programSetCost": "233000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHM",
+      "programSetName": "알레르기(NEW)",
+      "programSetCost": "280000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGR",
+      "programSetName": "기침",
+      "programSetCost": "354000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGT",
+      "programSetName": "호흡기",
+      "programSetCost": "330000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCGS",
+      "programSetName": "류마티스",
+      "programSetCost": "260000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHN",
+      "programSetName": "C형 간염",
+      "programSetCost": "133000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHA",
+      "programSetName": "B 형간염",
+      "programSetCost": "120000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHC",
+      "programSetName": "당뇨대사",
+      "programSetCost": "720000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHE",
+      "programSetName": "영양",
+      "programSetCost": "90000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHD",
+      "programSetName": "치과",
+      "programSetCost": "44000",
+      "programSetYn": "N"
+    },
+    {
+      "progrmSetCode": "21MTCHG",
+      "programSetName": "동맥경화추적관찰",
+      "programSetCost": "430000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHJ",
+      "programSetName": "심장경동맥",
+      "programSetCost": "750000",
+      "programSetYn": "Y"
+    },
+    {
+      "progrmSetCode": "21MTCHK",
+      "programSetName": "뇌혈관스크리닝",
+      "programSetCost": "1110000",
+      "programSetYn": "Y"
+    }
+  ]
+}

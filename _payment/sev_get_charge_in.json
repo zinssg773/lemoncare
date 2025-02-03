@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:26:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "HosCd":"01",
+      "UnitNo":"8838527",
+      "PatNm":"이동국",
+      "DeptCd":"G5",
+      "AdmiYmd":"20190827",
+      "ChosNo":"N19080109753I1",
+      "CalcStrYmd":"20190827",
+      "CalcEndYmd":"",
+      "ChosGb":"I",
+      "InfoMsg":"50-804-01096",
+      "MCarePayAll":"N",
+      "TotalPayAmt":"4615450",
+      "vatAmt":"0",
+      "AcptAmt":"0",
+      "ErrorMsg":"",
+      "DisCalcYn":"N",
+      "DeptNm":"대장항문외과",
+      "ClnDrId":"",
+      "UserNm":"이강영"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "visitDt":"20210910",
+      "reservationTm":"",
+      "deptCd":"OT",
+      "deptNm":"안과",
+      "doctorId":"OT003",
+      "doctorNm":"안과결과",
+      "visitStatusCd":"R",
+      "receiptNo":"0007900004",
+      "dailyPatientId":"A0021",
+      "commonCls":"t",
+      "orderNm":null,
+      "medicalGuide":"간호사실 앞에서 혈압을 측정하십시오\n심장 박동기가 있는 경우 심장박동기 검사실에서 박동기 검사를 하고오십시오\n전광판에 접수번호가 나타나면 진료실로 들어오십시오",
+      "location":"대한외래 지하3층 안과 ",
+      "payYn":"N",
+      "hospitalClsNo":"46",
+      "firstTreatYn":"Y"
+    },
+    {
+      "visitDt":"20210910",
+      "reservationTm":"1530",
+      "deptCd":"IMC",
+      "deptNm":"순환기내과",
+      "doctorId":"65483",
+      "doctorNm":"최의근",
+      "visitStatusCd":"A",
+      "receiptNo":"0007900064",
+      "dailyPatientId":"A0021",
+      "commonCls":"t",
+      "orderNm":null,
+      "medicalGuide":"간호사실 앞에서 혈압을 측정하십시오\r\n심장 박동기가 있는 경우 심장박동기 검사실에서 박동기 검사를 하고오십시오\r\n전광판에 접수번호가 나타나면 진료실로 들어오십시오",
+      "location":"본관 1층 순환기내과 2,8번 진료실",
+      "payYn":"N",
+      "hospitalClsNo":"01",
+      "firstTreatYn":"N"
+    }
+  ]
+}

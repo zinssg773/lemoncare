@@ -1,0 +1,19 @@
+{
+  "elapsedTime" : 0,
+  "status" : "OK",
+  "errors" : [ ],
+  "message" : "",
+  "timestamp" : "2023-09-20 16:00:27",
+  "bodyType" : "ARRAY",
+  "body" : [ {
+    "id" : 1,
+    "hospitalCd" : "12345678",
+    "hospitalName" : "테스트병원",
+    "name" : "전자금융거래 이용(테스트, 진료비결제화면)",
+    "type" : "PAY_USE_INFORMATION",
+    "order" : 10,
+    "version" : 0,
+    "contents" : "진료비결제화면에서 사용합니다.<br>약관타입 : PAY_USE_INFORMATION",
+    "required" : true
+  } ]
+}

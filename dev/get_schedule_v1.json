@@ -1,0 +1,52 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "appointYn": null,
+      "deptNm": "Family Medicine",
+      "doctorId": "20060051",
+      "doctorNm": "Steve",
+      "friCd": "Am",
+      "memo": null,
+      "monCd": "Al",
+      "reservationYn": null,
+      "satSch": "",
+      "thuCd": null,
+      "tueCd": "Am",
+      "wedCd": "Pm"
+    },
+    {
+      "appointYn": null,
+      "deptNm": "Family Medicine",
+      "doctorId": "20170392",
+      "doctorNm": "John",
+      "friCd": null,
+      "memo": null,
+      "monCd": "Am",
+      "reservationYn": null,
+      "satSch": "",
+      "thuCd": "Pm",
+      "tueCd": "Pm",
+      "wedCd": "Al"
+    },
+    {
+      "appointYn": null,
+      "deptNm": "Family Medicine",
+      "doctorId": "20170102",
+      "doctorNm": "cindy",
+      "friCd": "Al",
+      "memo": null,
+      "monCd": "Pm",
+      "reservationYn": null,
+      "satSch": "",
+      "thuCd": "Am",
+      "tueCd": "Am",
+      "wedCd": null
+    }
+  ]
+}

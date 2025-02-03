@@ -1,0 +1,25 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-07-06 11:52:05",
+  "bodyType": "ARRAY",
+  "body": [{
+    "availReservationDt": "20240805",
+    "dayCd": "MON",
+    "deptNm": "재활의학과",
+    "doctorNm": "정태두",
+    "memo": "TEST"
+  }, {
+    "availReservationDt": "20240818",
+    "dayCd": "MON",
+    "deptNm": "재활의학과",
+    "doctorNm": "정태두"
+  }, {
+    "availReservationDt": "20240825",
+    "dayCd": "MON",
+    "deptNm": "재활의학과",
+    "doctorNm": "정태두"
+  }]
+}

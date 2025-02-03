@@ -1,0 +1,40 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-07-04 11:44:40",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "patientNm": "감*화",
+      "deptCd": "OS",
+      "deptNm": "정형외과",
+      "doctorId": "115113",
+      "doctorNm": "강동근",
+      "visitDt": "20230704",
+      "visitTm": "0000",
+      "receiptNo": 105092923,
+      "calculationDt": "20230704",
+      "receiveTy": "후납",
+      "intermediatePayStDt": "20230704",
+      "intermediatePayEndDt": "20230704",
+      "insuranceCd": "H",
+      "totalAmt": 30044,
+      "realAmt": 14900,
+      "patientTotalAmt": 14900,
+      "discountAmt": 0,
+      "selfPayment": 14900,
+      "insureAmt": 15144,
+      "preAmt": 0,
+      "receivableAmt": 0,
+      "partChargeYn": "N",
+      "surtax": "0",
+      "dischargeYn": "N",
+      "errorMsg": null,
+      "privacyYN": "N",
+      "prescriptionIntCnt": 1,
+      "prescriptionOutCnt": 0
+    }
+  ]
+}

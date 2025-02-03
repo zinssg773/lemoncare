@@ -1,0 +1,66 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": [
+    {
+      "examDt": "20210406",
+      "title": "호흡기 검사 안내",
+      "contGb": "EXM",
+      "fileUrlAddr": "http://amcedu.kr/8Xlm",
+      "videUrlAddr": "http://amcedu.kr/P43r"
+    },
+    {
+      "examDt": "20210406",
+      "title": "전산화단층촬영(CT) 검사 안내 3 (금식X, 조영제X)",
+      "contGb": "EXM",
+      "fileUrlAddr": "http://amcedu.kr/qulG",
+      "videUrlAddr": ""
+    },
+    {
+      "examDt": "20210409",
+      "title": "잔뇨초음파 ",
+      "contGb": "EXM",
+      "fileUrlAddr": "",
+      "videUrlAddr": ""
+    },
+    {
+      "examDt": "20210222",
+      "title": "자기 공명 영상(MR) 검사 안내 1",
+      "contGb": "EXM",
+      "fileUrlAddr": "http://amcedu.kr/8gB6",
+      "videUrlAddr": "http://amcedu.kr/yXeL"
+    },
+    {
+      "examDt": "20210201",
+      "title": "호흡기 검사 안내",
+      "contGb": "EXM",
+      "fileUrlAddr": "http://amcedu.kr/8Xlm",
+      "videUrlAddr": "http://amcedu.kr/P43r"
+    },
+    {
+      "examDt": "20210208",
+      "title": "잔뇨초음파 ",
+      "contGb": "EXM",
+      "fileUrlAddr": "",
+      "videUrlAddr": "http://amcedu.kr/rGfo"
+    },
+    {
+      "examDt": "20210218",
+      "title": "잔뇨초음파 ",
+      "contGb": "EXM",
+      "fileUrlAddr": "",
+      "videUrlAddr": "http://amcedu.kr/rGfo"
+    },
+    {
+      "examDt": "20210218",
+      "title": "간헐적 청결 자가 도뇨(남성)",
+      "contGb": "EXM",
+      "fileUrlAddr": "https://amcedu.kr/79Fq",
+      "videUrlAddr": "http://amcedu.kr/7x02"
+    }
+  ]
+}

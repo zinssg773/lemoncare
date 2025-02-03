@@ -1,0 +1,50 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-11 09:41:06",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "hospitalCd": "11343214",
+      "patientId": "12312312",
+      "patientNm": "김길동",
+      "receiptNo": "13412315",
+      "cellphoneNo": "01012345678",
+      "birthDt": "910601",
+      "gender": "M",
+      "weight": "56.8",
+      "zipCd": "12345",
+      "zipCdTxt": "",
+      "address": "",
+      "reservationDt": "20210817",
+      "reservationTm": "1400",
+      "regDt": "20210805",
+      "surveyStatus": "Y",
+      "addField1": "",
+      "addField2": "",
+      "addField3": ""
+    },
+    {
+      "hospitalCd": "11343214",
+      "patientId": "12312312",
+      "patientNm": "홍길순",
+      "receiptNo": "12312312",
+      "cellphoneNo": "01046355678",
+      "birthDt": "810601",
+      "gender": "F",
+      "weight": "48.8",
+      "zipCd": "12345",
+      "zipCdTxt": "",
+      "address": "",
+      "reservationDt": "20210819",
+      "reservationTm": "0900",
+      "regDt": "20210808",
+      "surveyStatus": "N",
+      "addField1": "",
+      "addField2": "",
+      "addField3": ""
+    }
+  ]
+}

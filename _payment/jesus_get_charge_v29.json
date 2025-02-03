@@ -1,0 +1,68 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2022-10-28 14:20:35",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "receiptList": [
+        {
+          "mdrpNo": 202207060291957,
+          "mcdpCd": "101210",
+          "mcrcYmd": "20221028",
+          "mcdpNm": "심장혈관외과",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 8300,
+          "istyAsstCd": "00",
+          "mddrId": "001556",
+          "ptno": "01536523",
+          "mcclWorkPrkyVl": "20221028209802",
+          "mddrNm": "최종범",
+          "abrvMcdpCd": "CVS",
+          "apntExmnExstYn": "N",
+          "mdcrYmd": "20221028"
+        },
+        {
+          "mdrpNo": 202207060291964,
+          "mcdpCd": "101210",
+          "mcrcYmd": "20221028",
+          "mcdpNm": "심장혈관외과",
+          "istyCd": "11",
+          "mcrcRno": 2,
+          "rcpcAmt": 0,
+          "istyAsstCd": "00",
+          "mddrId": "001556",
+          "ptno": "01536523",
+          "mcclWorkPrkyVl": "20221028209802",
+          "mddrNm": "최종범",
+          "abrvMcdpCd": "CVS",
+          "apntExmnExstYn": "N",
+          "mdcrYmd": "20221031"
+        },
+        {
+          "mdrpNo": 202207060291964,
+          "mcdpCd": "101210",
+          "mcrcYmd": "20221028",
+          "mcdpNm": "심장혈관외과",
+          "istyCd": "11",
+          "mcrcRno": 2,
+          "rcpcAmt": 100,
+          "istyAsstCd": "00",
+          "mddrId": "001556",
+          "ptno": "01536523",
+          "mcclWorkPrkyVl": "20221028209802",
+          "mddrNm": "최종범",
+          "abrvMcdpCd": "CVS",
+          "apntExmnExstYn": "N",
+          "mdcrYmd": "20221031"
+        }
+      ],
+      "unacceptableCd": null,
+      "guideMsg": null,
+      "unacceptableRmk": null
+    }
+  ]
+}

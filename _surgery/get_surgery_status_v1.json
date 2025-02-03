@@ -1,0 +1,16 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [{
+      "surgeryNm": "Nitrazine test : test",
+      "surgeryStatus": "회복실",
+      "surgeryOutTy": "회복실",
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1634",
+      "memo": "수술 종료 후 회복실에 도착하였습니다."
+    }]
+}

@@ -1,0 +1,30 @@
+{
+    "elapsedTime": 0,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2021-09-10 10:10:00",
+    "bodyType": "ARRAY",
+    "body": [{
+        "patientId": "20097094",
+        "patientNm": "박성자",
+        "sequenceNo": "941333",
+        "birthDt": "19601110",
+        "deptNm": "",
+        "doctorNm": "장항석",
+        "admissionDt": "20240715",
+        "surgeryDt": "20240716",
+        "cellphoneNo1": "01022947340",
+        "cellphoneNo2": "01040039902",
+        "relCls1": "A",
+        "relCls2": "F",
+        "wardNurseCls": "Y",
+        "wardDoctorCls": "",
+        "roomCls1": "6",
+        "roomCls2": "2",
+        "roomCls3": "1",
+        "addItem1": "N",
+        "addItem2": "Y",
+        "addItem3": ""
+    }]
+}

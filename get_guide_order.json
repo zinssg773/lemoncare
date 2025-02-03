@@ -1,0 +1,9 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": "{ \"status\" : \"0\", \"data\" : [{\"dName\":\"김*진\",\"dGubun\":\"D\",\"dClinic\":\"1\",\"dLicense\":\"\",\"code\":\"g505a_SNUH\",\"title\":\"자기주도 상지재활 프로그램 안내 (GRASP 1단계)\",\"date\":\"2023-10-13 오후 4:51:47\",\"thumbnail\":\"/Uploads/VODHospital/T00000161/Thum/z/g505a_SNUH.jpg\"}] }"
+}

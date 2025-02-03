@@ -1,0 +1,55 @@
+{"elapsedTime":1,"status":"OK","errors":[],"message":"","timestamp":"2019-01-23 19:54:46","bodyType":"ARRAY","body":[
+
+  {
+    "id": "dongguk01",
+    "partnerCd": "XJe24tIaMA4ZIqfMTRH0cnijPl3GTfM4",
+    "posId": "DBS",
+    "hospitalCd": "31100881",
+    "description": "31100881",
+    "hospitalName": "동국대학교일산병원",
+    "businessNo": "1288208418",
+    "remoteIp": "127.0.0.1",
+    "cancelPassword": "1234",
+    "enabled": "Y",
+    "latestSerialNo": 47,
+    "createDate": "2022-10-12 10:42:54",
+    "updateDate": "2022-10-12 10:42:54",
+    "autoCancel": false,
+    "autoCancelInterval": null,
+    "pay": {
+      "id": 17,
+      "type": "FISERV",
+      "ip": "https://ps.firstpay.co.kr/jsp/common/req.jsp",
+      "port": 443,
+      "corpCodeSet": []
+    },
+    "remarkType": "DEFAULT",
+    "orderNo": 1
+  },
+  {
+    "id": "dongguk02",
+    "partnerCd": "Qzufuyz8FxBJaNjQpU4Z2ZdMQ7WJqrUa",
+    "posId": "DBS",
+    "hospitalCd": "31100881",
+    "description": "31920632",
+    "hospitalName": "동국대학교일산병원(한방)",
+    "businessNo": "1288208418",
+    "remoteIp": "127.0.0.1",
+    "cancelPassword": "1234",
+    "enabled": "Y",
+    "latestSerialNo": 47,
+    "createDate": "2022-10-12 10:42:54",
+    "updateDate": "2022-10-12 10:42:54",
+    "autoCancel": false,
+    "autoCancelInterval": null,
+    "pay": {
+      "id": 17,
+      "type": "FISERV",
+      "ip": "https://ps.firstpay.co.kr/jsp/common/req.jsp",
+      "port": 443,
+      "corpCodeSet": []
+    },
+    "remarkType": "DEFAULT",
+    "orderNo": 1
+  }
+]}

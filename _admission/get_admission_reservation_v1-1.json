@@ -1,0 +1,52 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "patientNm": "박수은",
+      "sequenceNo": "20201222-1",
+      "birthDt": "19760528",
+      "deptNm": "종양내과",
+      "doctorNm": "김*수",
+      "admissionDt": "20240315",
+      "surgeryDt": "20220525",
+      "cellphoneNo1": "010-1234-5678",
+      "cellphoneNo2": "",
+      "relCls1": "0",
+      "relCls2": "",
+      "wardNurseCls": "N",
+      "wardDoctorCls": "Y",
+      "roomCls1": "",
+      "roomCls2": "",
+      "roomCls3": "",
+      "addItem1": "",
+      "addItem2": "",
+      "addItem3": ""
+    },
+    {
+      "patientNm": "박수은",
+      "sequenceNo": "20220524-1",
+      "birthDt": "19760528",
+      "deptNm": "종양내과",
+      "doctorNm": "김*수",
+      "admissionDt": "20220524",
+      "surgeryDt": "20220531",
+      "cellphoneNo1": "010-1234-5678",
+      "cellphoneNo2": "",
+      "relCls1": "0",
+      "relCls2": "",
+      "wardNurseCls": "",
+      "wardDoctorCls": "N",
+      "roomCls1": "",
+      "roomCls2": "",
+      "roomCls3": "",
+      "addItem1": "",
+      "addItem2": "Y",
+      "addItem3": ""
+    }
+  ]
+}

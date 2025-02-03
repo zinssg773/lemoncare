@@ -1,0 +1,56 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "000000",
+      "doctorNm": "고영필",
+      "visitDt": "20210916",
+      "visitTm": "1600",
+      "visitKind": "복약상담",
+      "visitMemo": "",
+      "payYn": "Y",
+      "statusCd": "",
+      "statusNm": "",
+      "nextLoc": "2층",
+      "poiNm": "2층 가정의학과"
+    },
+    {
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "000000",
+      "doctorNm": "고영필",
+      "visitDt": "20210916",
+      "visitTm": "1600",
+      "visitKind": "복약상담",
+      "visitMemo": "",
+      "payYn": "Y",
+      "statusCd": "",
+      "statusNm": "",
+      "nextLoc": "2층",
+      "poiNm": "2층 가정의학과"
+    },
+    {
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "000000",
+      "doctorNm": "고영필",
+      "visitDt": "2021-09-17",
+      "visitTm": "1600",
+      "visitKind": "복약상담",
+      "visitMemo": "",
+      "payYn": "Y",
+      "statusCd": "",
+      "statusNm": "",
+      "nextLoc": "2층",
+      "poiNm": "2층 가정의학과"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "orderGbn": "일반혈액검사",
+      "checkupItmCd": "AC0089",
+      "orderNm": "WBC",
+      "orderResultVal": "7.4",
+      "referenceVal": "B",
+      "referenceMinVal": "4",
+      "referenceMaxVal": "10",
+      "unit": "x10³/uL",
+      "orderEngNm": "WBC (Qn)[ChemR-I],Blood"
+    },
+    {
+      "orderGbn": "일반혈액검사",
+      "checkupItmCd": "AC0091",
+      "orderNm": "Hb",
+      "orderResultVal": "9.8",
+      "referenceVal": "B",
+      "referenceMinVal": "13",
+      "referenceMaxVal": "17",
+      "unit": "g/dl",
+      "orderEngNm": "Hb (Qn)[ChemR-I],Blood"
+    },
+    {
+      "orderGbn": "일반혈액검사",
+      "checkupItmCd": "AC0093",
+      "orderNm": "PLT",
+      "orderResultVal": "192",
+      "referenceVal": "B",
+      "referenceMinVal": "150",
+      "referenceMaxVal": "350",
+      "unit": "x10³/uL",
+      "orderEngNm": "Platelet (Qn)[ChemR-I],Blood"
+    },
+    {
+      "orderGbn": "일반혈액검사",
+      "checkupItmCd": "AC0131",
+      "orderNm": "E-ANC",
+      "orderResultVal": "6290",
+      "referenceVal": "",
+      "referenceMinVal": "",
+      "referenceMaxVal": "",
+      "unit": "/uL",
+      "orderEngNm": "E-ANC (Qn)[ChemR-I],Blood"
+    },
+    {
+      "orderGbn": "일반화학검사",
+      "checkupItmCd": "BB0013",
+      "orderNm": "Na",
+      "orderResultVal": "137",
+      "referenceVal": "B",
+      "referenceMinVal": "135",
+      "referenceMaxVal": "145",
+      "unit": "mmol/L",
+      "orderEngNm": "Sodium (Qn)[EM],Blood"
+    },
+    {
+      "orderGbn": "일반화학검사",
+      "checkupItmCd": "BB0014",
+      "orderNm": "K",
+      "orderResultVal": "3.9",
+      "referenceVal": "B",
+      "referenceMinVal": "3.5",
+      "referenceMaxVal": "5.1",
+      "unit": "mmol/L",
+      "orderEngNm": "Potassium (Qn)[EM],Blood"
+    },
+    {
+      "orderGbn": "일반화학검사",
+      "checkupItmCd": "BC0023",
+      "orderNm": "CRP",
+      "orderResultVal": "2.82",
+      "referenceVal": "B",
+      "referenceMinVal": "0",
+      "referenceMaxVal": "0.6",
+      "unit": "mg/dL",
+      "orderEngNm": "CRP (Qn),Blood"
+    },
+    {
+      "orderGbn": "일반화학검사",
+      "checkupItmCd": "BD0011",
+      "orderNm": "Creatinine",
+      "orderResultVal": "0.44",
+      "referenceVal": "B",
+      "referenceMinVal": "0.70",
+      "referenceMaxVal": "1.40",
+      "unit": "mg/dL",
+      "orderEngNm": "Creatinine (Qn)[ChemR-I],Blood"
+    },
+    {
+      "orderGbn": "일반화학검사",
+      "checkupItmCd": "BD0014",
+      "orderNm": "BUN",
+      "orderResultVal": "16",
+      "referenceVal": "B",
+      "referenceMinVal": "10",
+      "referenceMaxVal": "26",
+      "unit": "mg/dL",
+      "orderEngNm": "BUN (Qn)[ChemR-I],Blood"
+    }
+  ]
+}

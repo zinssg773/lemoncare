@@ -1,0 +1,13 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-12-17 15:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "waitNumber" : "12"
+    }
+  ]
+}

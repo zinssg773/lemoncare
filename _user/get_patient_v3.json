@@ -1,0 +1,28 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "birthDt": "19370214",
+      "cellphoneNo": "010-9856-8916",
+      "gender": "F",
+      "inHospitalYn": null,
+      "patientNm": "이경희",
+      "vehicleNo": null,
+      "zipCd": "10811",
+      "zipCdTxt": "경기도 파주시 문산읍 장승배기로61번길 52-13",
+      "address": "3동 1000호",
+      "roadNameCd": "1234",
+      "buildingCd": "ABCD",
+      "bCode": "법정동코드",
+      "jibunAddr": "지번주소",
+      "jibunAddrEng": "지번영문주소"
+    }
+  ]
+}
+

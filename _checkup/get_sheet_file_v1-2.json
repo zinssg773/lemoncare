@@ -1,0 +1,16 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-10-29 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupRlstTitle": "이미지 URL",
+      "checkupRlstFileNo": "12345678",
+      "checkupRlstFile": "https://dtd31o1ybbmk8.cloudfront.net/photos/bd241c9afede512b3e70f9e8dd63823c/thumb.png",
+      "checkupRltFileType": "IU"
+    }
+  ]
+}

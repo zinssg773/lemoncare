@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 17,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-08-17 14:31:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnCd": "0000",
+    "returnMsg": "수납 여부 체크 완료 !"
+  }
+}

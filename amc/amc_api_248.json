@@ -1,0 +1,22 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2021-04-01 14:54:23",
+  "bodyType": "OBJECT",
+  "body": {
+    "rcptUnitKey": "",
+    "rcivPatno": "60463386",
+    "rcivVistSn": "1",
+    "vistDt": "20210101",
+    "vistTm": "",
+    "rcivShapCd": "I",
+    "dchrgDt": "20210331",
+    "dchrgTm": "",
+    "kioskId": "VV00010",
+    "rcivDt": "",
+    "rcivTm": "",
+    "rcmm": ""
+  }
+}

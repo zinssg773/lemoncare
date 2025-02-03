@@ -1,0 +1,62 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupNm": "전문의상담",
+      "checkupDetailNm": "문진상담, 전문의 결과상담"
+    },
+    {
+      "checkupNm": "복부검사",
+      "checkupDetailNm": "복부초음파"
+    },
+    {
+      "checkupNm": "대소변검사",
+      "checkupDetailNm": "대변(잠혈, 기생충), 소변검사"
+    },
+    {
+      "checkupNm": "문진,영양",
+      "checkupDetailNm": "식생활평가"
+    },
+    {
+      "checkupNm": "신체계측",
+      "checkupDetailNm": "신장, 체중, 허리둘레, 비만도"
+    },
+    {
+      "checkupNm": "심장검사",
+      "checkupDetailNm": "혈압측정, 심전도"
+    },
+    {
+      "checkupNm": "혈액검사",
+      "checkupDetailNm": "AIDS, A형,B형,C형 간염, 간기능, 갑상선기능, 고지혈증, 당뇨병, 매독, 빈혈, 신장기능, 요산, 인슐린, 일반혈액, 전해질, 헬리코박터균, 혈액응고"
+    },
+    {
+      "checkupNm": "골다공증검사",
+      "checkupDetailNm": "골밀도, 흉추요추X-선 "
+    },
+    {
+      "checkupNm": "소화기검사",
+      "checkupDetailNm": "위내시경"
+    },
+    {
+      "checkupNm": "청력,안과",
+      "checkupDetailNm": "근거리시력, 시력, 안압, 안저, 청력"
+    },
+    {
+      "checkupNm": "호흡기검사",
+      "checkupDetailNm": "흉부X-선 (정면/측면) , 폐기능"
+    },
+    {
+      "checkupNm": "맞춤SET",
+      "checkupDetailNm": "협심증 SET (관상동맥CT, 심장초음파, 심장운동부하)"
+    },
+    {
+      "checkupNm": "추가검사",
+      "checkupDetailNm": "전립선초음파, 직장수지검사, 뇌MRI+MRA"
+    }
+  ]
+}

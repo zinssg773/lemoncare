@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnMsg": "다른 사용자가 추가하였습니다. 재조회 후 다시 입력해주십시오.",
+    "returnCd": "0001"
+  }
+}

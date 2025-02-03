@@ -1,0 +1,17 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "availReservationCnt": 1,
+      "availReservationTm": "10:45",
+      "patmasRowid": 1961169,
+      "scheduleRowid": "188||154235"
+    }
+  ]
+}

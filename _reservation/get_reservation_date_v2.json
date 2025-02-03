@@ -1,0 +1,34 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "availReservationDt": "20240805",
+      "dayCd": "MON",
+      "deptNm": "조성진",
+      "doctorNm": "정형외과",
+      "deptFirstTreatCls": "D",
+      "memo": "메모내용 1..."
+    },
+    {
+      "availReservationDt": "20240821",
+      "dayCd": "TUE",
+      "deptNm": "고영필",
+      "doctorNm": "피부과",
+      "deptFirstTreatCls": "R",
+      "memo": "메모내용 2..."
+    },
+    {
+      "availReservationDt": "20240822",
+      "dayCd": "WEN",
+      "deptNm": "서현",
+      "doctorNm": "성형외과",
+      "deptFirstTreatCls": "M",
+      "memo": "메모내용 3... 살짝 긴 메모 테스트..."
+    }
+  ]
+}

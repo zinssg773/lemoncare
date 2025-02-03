@@ -1,0 +1,310 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-06-26 11:45:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+        "intake": "189.84",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "01",
+        "standard": null,
+        "statusCd": null,
+        "title": "당질",
+        "unit": "g"
+    },
+    {
+        "intake": "44.47",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "02",
+        "standard": null,
+        "statusCd": null,
+        "title": "단백질",
+        "unit": "g"
+    },
+    {
+        "intake": "15.66",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "05",
+        "standard": null,
+        "statusCd": null,
+        "title": "지질",
+        "unit": "g"
+    },
+    {
+        "intake": "13.97",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "08",
+        "standard": "20",
+        "statusCd": "02",
+        "title": "식이섬유소",
+        "unit": "g"
+    },
+    {
+        "intake": "381.94",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "09",
+        "standard": "300",
+        "statusCd": "01",
+        "title": "콜레스테롤",
+        "unit": "mg"
+    },
+    {
+        "intake": "506.79",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "10",
+        "standard": "700~2500",
+        "statusCd": "02",
+        "title": "칼슘",
+        "unit": "mg"
+    },
+    {
+        "intake": "666.78",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "11",
+        "standard": "700~3500",
+        "statusCd": "02",
+        "title": "인",
+        "unit": "mg"
+    },
+    {
+        "intake": "8.62",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "12",
+        "standard": "8~45",
+        "statusCd": null,
+        "title": "철분",
+        "unit": "mg"
+    },
+    {
+        "intake": "5068.38",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "13",
+        "standard": "1200~2000",
+        "statusCd": "01",
+        "title": "나트륨",
+        "unit": "mg"
+    },
+    {
+        "intake": "1473.16",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "14",
+        "standard": "3500",
+        "statusCd": "02",
+        "title": "칼륨",
+        "unit": "mg"
+    },
+    {
+        "intake": "6.61",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "15",
+        "standard": "7~35",
+        "statusCd": "02",
+        "title": "아연",
+        "unit": "mg"
+    },
+    {
+        "intake": "624.38",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "16",
+        "standard": "600~3000",
+        "statusCd": null,
+        "title": "비타민A",
+        "unit": "㎍"
+    },
+    {
+        "intake": "6.45",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "17",
+        "standard": "10~540",
+        "statusCd": "02",
+        "title": "비타민E",
+        "unit": "mg"
+    },
+    {
+        "intake": "0.56",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "18",
+        "standard": "1.10",
+        "statusCd": "02",
+        "title": "비타민B1",
+        "unit": "mg"
+    },
+    {
+        "intake": "0.52",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "19",
+        "standard": "1.20",
+        "statusCd": "02",
+        "title": "비타민B2",
+        "unit": "mg"
+    },
+    {
+        "intake": "0.97",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "20",
+        "standard": "1.40~100",
+        "statusCd": "02",
+        "title": "비타민B6",
+        "unit": "mg"
+    },
+    {
+        "intake": "6.01",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "21",
+        "standard": "14~1000",
+        "statusCd": "02",
+        "title": "나이아신",
+        "unit": "mg"
+    },
+    {
+        "intake": "46.10",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "22",
+        "standard": "100~2000",
+        "statusCd": "02",
+        "title": "비타민C",
+        "unit": "mg"
+    },
+    {
+        "intake": "398.44",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "23",
+        "standard": "400~1000",
+        "statusCd": "02",
+        "title": "엽산",
+        "unit": "㎍"
+    },
+    {
+        "intake": "5.22",
+        "resultTypeCd": "K",
+        "resultTypeNm": "영양소 섭취 상태",
+        "seq": "24",
+        "standard": "2.40",
+        "statusCd": null,
+        "title": "비타민B12",
+        "unit": "㎍"
+    },
+    {
+        "intake": "1078",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "1",
+        "standard": "1600",
+        "statusCd": null,
+        "title": "열량 섭취량",
+        "unit": "kcal"
+    },
+    {
+        "intake": "70",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "2",
+        "standard": "55~70",
+        "statusCd": null,
+        "title": "당질",
+        "unit": "%"
+    },
+    {
+        "intake": "16",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "3",
+        "standard": "7~20",
+        "statusCd": null,
+        "title": "단백질",
+        "unit": "%"
+    },
+    {
+        "intake": "13",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "4",
+        "standard": "15~25",
+        "statusCd": null,
+        "title": "지질 열량비",
+        "unit": "%"
+    },
+    {
+        "intake": "21",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "5",
+        "standard": "20~30",
+        "statusCd": null,
+        "title": "아침 열량비",
+        "unit": "%"
+    },
+    {
+        "intake": "25",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "6",
+        "standard": "20~30",
+        "statusCd": null,
+        "title": "점심 열량비",
+        "unit": "%"
+    },
+    {
+        "intake": "25",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "7",
+        "standard": "20~30",
+        "statusCd": null,
+        "title": "저녁 열량비",
+        "unit": "%"
+    },
+    {
+        "intake": "29",
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "8",
+        "standard": "10~20",
+        "statusCd": null,
+        "title": "간식 열량비",
+        "unit": "%"
+    },
+    {
+        "intake": null,
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "9",
+        "standard": "0",
+        "statusCd": null,
+        "title": "술 열량비",
+        "unit": "%"
+    },
+    {
+        "intake": null,
+        "resultTypeCd": "N",
+        "resultTypeNm": "열량 섭취 상태",
+        "seq": "10",
+        "standard": "0",
+        "statusCd": null,
+        "title": "보충제 열량비",
+        "unit": "%"
+    }
+]
+}

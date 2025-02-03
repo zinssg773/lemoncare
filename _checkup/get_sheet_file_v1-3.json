@@ -1,0 +1,16 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-10-29 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupRlstTitle": "PDF URL",
+      "checkupRlstFileNo": "12345678",
+      "checkupRlstFile": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "checkupRltFileType": "PU"
+    }
+  ]
+}

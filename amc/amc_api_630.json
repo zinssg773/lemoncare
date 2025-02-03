@@ -1,0 +1,70 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "scheduleCls": "A",
+      "reservationDt": "20180531",
+      "reservationTm": "0720",
+      "patientId": "43388783",
+      "visitNo": "23",
+      "checkupDt": "20180531",
+      "programName": "건강검진(법인오전현대차협심증정밀남자)",
+      "checkupCost": "1583250"
+    },
+    {
+      "scheduleCls": "T",
+      "reservationDt": "20180704",
+      "reservationTm": "1430",
+      "patientId": "43388783",
+      "visitNo": "23",
+      "checkupDt": "20180531",
+      "programName": "결과상담 - 민선양",
+      "checkupCost": "0"
+    },
+    {
+      "scheduleCls": "A",
+      "reservationDt": "20191212",
+      "reservationTm": "0740",
+      "patientId": "43388783",
+      "visitNo": "26",
+      "checkupDt": "20191212",
+      "programName": "건강검진(법인오전주요암남자)",
+      "checkupCost": "1711500"
+    },
+    {
+      "scheduleCls": "T",
+      "reservationDt": "20191226",
+      "reservationTm": "1415",
+      "patientId": "43388783",
+      "visitNo": "26",
+      "checkupDt": "20191212",
+      "programName": "결과상담 - 민선양",
+      "checkupCost": "0"
+    },
+    {
+      "scheduleCls": "A",
+      "reservationDt": "20201215",
+      "reservationTm": "0720",
+      "patientId": "43388783",
+      "visitNo": "31",
+      "checkupDt": "20201215",
+      "programName": "건강검진(법인오전기본남자)",
+      "checkupCost": "1643420"
+    },
+    {
+      "scheduleCls": "C",
+      "reservationDt": "20201224",
+      "reservationTm": "1315",
+      "patientId": "43388783",
+      "visitNo": "31",
+      "checkupDt": "20201215",
+      "programName": "1회대사증후군클리닉",
+      "checkupCost": "0"
+    }
+  ]
+}

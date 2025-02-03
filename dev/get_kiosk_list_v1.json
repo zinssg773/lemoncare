@@ -1,0 +1,53 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 19:10:15",
+  "bodyType": "OBJECT",
+  "body": [{
+    "id": 3,
+    "hospitalCd": "11100800",
+    "sectionCd": "10.10.10.112",
+    "sectionNm": "1st Floor",
+    "bizCd": "100",
+    "bizNm": "Desk",
+    "kioskStartTime" : "0800",
+    "kioskEndTime" : "1800",
+    "seq": 1,
+    "remark": "Main Building",
+    "waitingCnt" : "2",
+    "waitingStatus" : "1",
+    "callNo" : "5000",
+    "status" : "Y"
+  }, {
+    "id": 4,
+    "hospitalCd": "11100800",
+    "sectionNm": "2nd Floor",
+    "bizCd": "100",
+    "bizNm": "Desk",
+    "kioskStartTime" : "0800",
+    "kioskEndTime" : "1800",
+    "seq": 1,
+    "remark": "Main Building",
+    "waitingCnt" : "3",
+    "waitingStatus" : "2",
+    "callNo" : "1000",
+    "status" : "Y"
+  }, {
+    "id": 7,
+    "hospitalCd": "11100800",
+    "sectionCd": "Z2002",
+    "sectionNm": "1st Floor",
+    "bizCd": "100",
+    "bizNm": "Desk",
+    "kioskStartTime" : "0800",
+    "kioskEndTime" : "1800",
+    "seq": 1,
+    "remark": "Annexe Building",
+    "waitingCnt" : "6",
+    "waitingStatus" : "5",
+    "callNo" : "3100",
+    "status" : "Y"
+  }]
+}

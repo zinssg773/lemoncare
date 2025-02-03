@@ -1,0 +1,30 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2022-06-03 11:43:53",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "HosCd": "01",
+      "UnitNo": "5838798",
+      "PatNm": "이은경",
+      "MCareOrdId": null,
+      "MCareSiteId": null,
+      "ChosNo": "N22040813901O1",
+      "ClnYmd": "",
+      "ClnHms": "",
+      "MCarePayAll": "Y",
+      "ChosGb": "O",
+      "PayAmt": "2000",
+      "AddTaxAmt": "0",
+      "McareServiceAmt": null,
+      "McareApproval": null,
+      "ErrorMsg": "",
+      "DisCalcYn": "",
+      "PharmCnt": "2000",
+      "OtherCnt": "1"
+    }
+  ]
+}

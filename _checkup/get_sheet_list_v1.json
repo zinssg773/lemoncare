@@ -1,0 +1,30 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupRlstTitle": "(HC)체성분검사지(INBODY)",
+      "checkupRlstFileNo": "emrdataIMGDATA20211107761678684189500000274.jpg"
+    },
+    {
+      "checkupRlstTitle": "(HC)골밀도검사지(BMD)",
+      "checkupRlstFileNo": "emrdataIMGDATA2021110776167868419322021110816080531217858_0_1"
+    },
+    {
+      "checkupRlstTitle": "(HC)골밀도검사지(BMD)",
+      "checkupRlstFileNo": "emrdataIMGDATA2021110776167868419332021110816080531217858_0_2"
+    },
+    {
+      "checkupRlstTitle": "(HC)골밀도검사지(BMD)",
+      "checkupRlstFileNo": "emrdataIMGDATA2021110776167868419342021110816080531217920_0_3"
+    },
+    {
+      "checkupRlstTitle": "(HC)골밀도검사지(BMD)",
+      "checkupRlstFileNo": "emrdataIMGDATA2021110776167868419352021110816080631217920_0_4"
+    }
+  ]
+}

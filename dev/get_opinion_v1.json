@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "OpinionCont": "normal",
+      "OpinionSeq": "01",
+      "OpinionTitle": "Electrocardiogram"
+    },
+    {
+      "OpinionCont": "Chronic gastritis observed",
+      "OpinionSeq": "07",
+      "OpinionTitle": "Gastroscopy"
+    },
+    {
+      "OpinionCont": "Not applicable",
+      "OpinionSeq": "08",
+      "OpinionTitle": "Gastric biopsy"
+    },
+    {
+      "OpinionCont": "hemorrhoid has been observed",
+      "OpinionSeq": "10",
+      "OpinionTitle": "Colonoscopy"
+    }
+  ]
+}

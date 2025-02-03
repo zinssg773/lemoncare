@@ -1,0 +1,17 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-14 17:33:54",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+        patientId: "11774767",
+        visitDt: "20240305",
+        visitNo: "369",
+        deptCd: "HSC",
+        deptNm: "건강증진센터"
+    }
+  ]
+}

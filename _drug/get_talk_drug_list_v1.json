@@ -1,0 +1,22 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-11-03 12:00:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "drugNm": "타이레놀",
+	  "orderNo": "AAAAAA"
+    },
+	{
+      "drugNm": "RU-21",
+	  "orderNo": "AAABBB"
+    },
+	{
+      "drugNm": "항히스타민제",
+	  "orderNo": "AABBCC"
+    }
+  ]
+}

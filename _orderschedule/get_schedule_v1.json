@@ -1,0 +1,52 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "appointYn": null,
+      "deptNm": "가정의학과",
+      "doctorId": "20060051",
+      "doctorNm": "최재경",
+      "friCd": "Am",
+      "memo": null,
+      "monCd": "aman",
+      "reservationYn": null,
+      "satSch": "3",
+      "thuCd": null,
+      "tueCd": "Am",
+      "wedCd": "Pm"
+    },
+    {
+      "appointYn": null,
+      "deptNm": "가정의학과",
+      "doctorId": "20170392",
+      "doctorNm": "신진영",
+      "friCd": "pman",
+      "memo": null,
+      "monCd": "Al",
+      "reservationYn": "Y",
+      "satSch": "4",
+      "thuCd": "AlAn",
+      "tueCd": "Pm",
+      "wedCd": "Am"
+    },
+    {
+      "appointYn": null,
+      "deptNm": "가정의학과",
+      "doctorId": "20170102",
+      "doctorNm": "김경진",
+      "friCd": "Pm",
+      "memo": "메모내용...",
+      "monCd": "Pm",
+      "reservationYn": null,
+      "satSch": "2",
+      "thuCd": "Am",
+      "tueCd": "Am",
+      "wedCd": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "visitDt" : "20210910",
+      "visitTm" : "2000",
+      "deptCd": "000516",
+      "deptNm": "가정의학과",
+      "doctorId": "20060051",
+      "doctorNm": "최재경",
+      "visitStatusCd": "A",
+      "rankingSeq": "3",
+      "delayTm": "0분",
+      "memo": "전달할 내용(메모)..."
+    },
+    {
+      "visitDt" : "20220410",
+      "visitTm" : "2000",
+      "deptCd": "000517",
+      "deptNm": "소화기내과",
+      "doctorId": "20050051",
+      "doctorNm": "홍길동",
+      "visitStatusCd": "W",
+      "rankingSeq": "19",
+      "delayTm": null,
+      "memo": "전달할 내용(메모)..."
+    },
+    {
+      "visitDt" : "20220411",
+      "visitTm" : "2000",
+      "deptCd": "000517",
+      "deptNm": "내과",
+      "doctorId": "20050051",
+      "doctorNm": "홍길동",
+      "visitStatusCd": "W",
+      "rankingSeq": "15",
+      "delayTm": "1500",
+      "memo": "전달할 내용(메모)..."
+    }
+  ]
+}

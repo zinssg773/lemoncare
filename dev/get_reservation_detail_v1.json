@@ -1,0 +1,34 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "000240",
+      "deptNm": "Ophthalmology",
+      "doctorId": "20030057",
+      "doctorNm": "John",
+      "payYn": "Y",
+      "receiptKindNm": "N",
+      "receiptNo": "2",
+      "reservationDt": "20210117",
+      "reservationPath": "Mobile",
+      "reservationTm": "1400"
+    },
+    {
+      "deptCd": "000255",
+      "deptNm": "department of surgery",
+      "doctorId": "20050025",
+      "doctorNm": "Steve",
+      "payYn": "N",
+      "receiptKindNm": "N",
+      "receiptNo": "1",
+      "reservationDt": "20210117",
+      "reservationPath": "Mobile",
+      "reservationTm": "1530"
+    }
+  ]
+}

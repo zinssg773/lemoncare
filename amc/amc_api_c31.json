@@ -1,0 +1,34 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "aerdate": "20210303",
+      "aerid": "1826",
+      "aftime": "2115",
+      "afvalue": "1",
+      "am8tm": "0800",
+      "am8value": "10",
+      "bftime": "0715",
+      "bfvalue": "30",
+      "pm8tm": "2000",
+      "pm8value": "20"
+    },
+    {
+      "aerdate": "20210302",
+      "aerid": "1830",
+      "aftime": "2015",
+      "afvalue": "12",
+      "am8tm": "0800",
+      "am8value": "11",
+      "bftime": "0815",
+      "bfvalue": "12",
+      "pm8tm": "2000",
+      "pm8value": "22"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "AER",
+      "deptNm": "응급실",
+      "doctorId": "51113",
+      "doctorNm": "문O",
+      "emergencyStatusCd": "as",
+      "emergencyStatusNm": "응급실병상배정",
+      "outType": "전원",
+      "sickbedNo": "B08",
+      "sickroomNo": null,
+      "statusYn": "Y"
+    }
+  ]
+}

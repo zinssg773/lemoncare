@@ -1,0 +1,65 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-14 17:33:54",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "dayNm": "월요일",
+      "deptNm": "비뇨의학과",
+      "doctorNm": "김명",
+      "examGuide": "",
+      "iconLink": "",
+      "mdexDivCdPc": "O",
+      "nextLocImgUri": "URO",
+      "nextLocNm": "동관4층 비뇨의학과 외래",
+      "orderCd": "",
+      "schdPuposCd": "L",
+      "scheduleGbn": "외래진료",
+      "scheduleTitle": "비뇨의학과/김명",
+      "visitDt": "20220711",
+      "visitKind": "C",
+      "visitNo": "56",
+      "visitTm": "1415"
+    },
+    {
+      "dayNm": "월요일",
+      "deptNm": "비뇨의학과",
+      "doctorNm": "김명",
+      "examGuide": "",
+      "iconLink": "",
+      "mdexDivCdPc": "O",
+      "nextLocImgUri": "URO",
+      "nextLocNm": "동관4층 비뇨의학과 외래",
+      "orderCd": "",
+      "schdPuposCd": "O",
+      "scheduleGbn": "외래진료",
+      "scheduleTitle": "비뇨의학과/김명",
+      "visitDt": "20220711",
+      "visitKind": "O",
+      "visitNo": "13",
+      "visitTm": "1315"
+    },
+    {
+      "dayNm": "수요일",
+      "deptNm": "가정간호",
+      "doctorNm": "가정간호의사",
+      "examGuide": "",
+      "iconLink": "",
+      "mdexDivCdPc": "O",
+      "nextLocImgUri": "XURO",
+      "nextLocNm": "동관3층 비뇨기검사실",
+      "orderCd": "QC0100",
+      "schdPuposCd": "R",
+      "scheduleGbn": "검사",
+      "scheduleTitle": "방광루관교환술 [메뉴얼]",
+      "visitDt": "20220713",
+      "visitKind": "O",
+      "visitNo": "58",
+      "visitTm": "1515"
+    }
+
+  ]
+}

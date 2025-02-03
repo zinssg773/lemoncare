@@ -1,0 +1,70 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-14 17:33:54",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "patientId": "54846397",
+      "visitNo": "52",
+      "visitDt": "20210112",
+      "profShapCd": "O",
+      "rcivShapCd": "O",
+      "mddpCd": "NS",
+      "deptNm": "신경외과",
+      "doctorNm": "홍석호",
+      "dayInfo": "2021/01/12 (화)",
+      "profShapNm": "외래"
+    },
+    {
+      "patientId": "54846397",
+      "visitNo": "39",
+      "visitDt": "20210106",
+      "profShapCd": "O",
+      "rcivShapCd": "O",
+      "mddpCd": "RM",
+      "deptNm": "재활의학과",
+      "doctorNm": "전민호",
+      "dayInfo": "2021/01/06 (수)",
+      "profShapNm": "외래"
+    },
+    {
+      "patientId": "54846397",
+      "visitNo": "41",
+      "visitDt": "20210106",
+      "profShapCd": "O",
+      "rcivShapCd": "O",
+      "mddpCd": "ON",
+      "deptNm": "종양내과",
+      "doctorNm": "김상위",
+      "dayInfo": "2021/01/06 (수)",
+      "profShapNm": "외래"
+    },
+    {
+      "patientId": "54846397",
+      "visitNo": "45",
+      "visitDt": "20210106",
+      "profShapCd": "O",
+      "rcivShapCd": "O",
+      "mddpCd": "NS",
+      "deptNm": "신경외과",
+      "doctorNm": "홍석호",
+      "dayInfo": "2021/01/06 (수)",
+      "profShapNm": "외래"
+    },
+    {
+      "patientId": "54846397",
+      "visitNo": "39",
+      "visitDt": "20201021",
+      "profShapCd": "I",
+      "rcivShapCd": "I",
+      "mddpCd": "RM",
+      "deptNm": "재활의학과",
+      "doctorNm": "전민호",
+      "dayInfo": "2020/10/21 (수) ~ 2020/12/23 (수)",
+      "profShapNm": "입원"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "admissionDt": "20210916",
+      "billNo": "1",
+      "billReceiptDt": "20210922",
+      "billReceiptNo": "282",
+      "deptCd": "000192",
+      "deptNm": "Family Medicine",
+      "dischargeDt": "20210922",
+      "discountAmt": 2000,
+      "doctorId": "19910025",
+      "doctorNm": "Steve",
+      "exceptSelectMedicalAmt": 49865,
+      "fullPatientAmt": 620025,
+      "insureAmt": 1723964,
+      "mainSubCd": "M",
+      "patientTotalAmt": 620025,
+      "receiptAmt": 237110,
+      "receiptTyNm": null,
+      "receivableAmt": 0,
+      "selectMedicalAmt": 0,
+      "totalAmt": 2343989,
+      "treatCls": "O",
+      "visitDt": "20210404",
+      "etcSprtAmt1": 212399
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-12-21 14:15:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "patientNm": "박수은",
+      "birthDt": "19760528",
+      "deptNm": "종양내과",
+      "doctorNm": "김종양",
+      "admissionDt": "20231017",
+      "surgeryDt": "20231025",
+      "receiptYn": "N",
+      "receiptNo": "123456"
+    },
+    {
+      "patientNm": "박수은",
+      "birthDt": "19760528",
+      "deptNm": "이비인후과",
+      "doctorNm": "황독감",
+      "admissionDt": "20231117",
+      "surgeryDt": "20231125",
+      "receiptYn": "Y",
+      "receiptNo": "456789"
+    }
+  ]
+}

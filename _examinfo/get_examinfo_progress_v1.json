@@ -1,0 +1,43 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "examNm": "심전도검사",
+      "examinStatusCd": "st",
+      "examinStatusNm": "대기",
+      "memo": "",
+      "examinOutTy": "",
+      "statusYn": ""
+    },
+    {
+      "examNm": "심전도검사",
+      "examinStatusCd": "ex",
+      "examinStatusNm": "검사",
+      "memo": "",
+      "examinOutTy": "",
+      "statusYn": ""
+    },
+    {
+      "examNm": "심전도검사",
+      "examinStatusCd": "re",
+      "examinStatusNm": "회복",
+      "memo": "현재상태의 메모입니다.",
+      "examinOutTy": "",
+      "statusYn": "Y"
+    },
+    {
+      "examNm": "심전도검사",
+      "examinStatusCd": "le",
+      "examinStatusNm": "퇴실",
+      "memo": "현재상태의 메모를 보여준다.",
+      "examinOutTy": "",
+      "statusYn": ""
+    }
+  ]
+}

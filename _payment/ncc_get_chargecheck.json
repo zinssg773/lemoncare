@@ -1,0 +1,33 @@
+{"elapsedTime":1,"status":"OK","errors":[],"message":"","timestamp":"2019-01-23 19:54:46","bodyType":"ARRAY","body":[
+  {
+    "alreadyPayment": 0,
+    "bloodReductionAmt": 0,
+    "chargeAmt": 0,
+    "discountAmt": 0,
+    "discountCd": null,
+    "insuKind": "건강보험중증환자/암질환",
+    "insuranceCd": "B3",
+    "insureAmt": 16550,
+    "insureTatalAmt": 17350,
+    "middleAmt": 800,
+    "partnerBorneAmt": 0,
+    "partnerCd": null,
+    "patientTotalAmt": 800,
+    "prescriptionInNo": null,
+    "prescriptionOutNo": null,
+    "receiptAmt": 101,
+    "receiptDt": 1678719600000,
+    "receiptId": null,
+    "receiptStatus": "1",
+    "receiptType": "S",
+    "receivableAmt": 0,
+    "receivableCd": null,
+    "returnCd": "0000",
+    "returnMsg": null,
+    "selectMedicalAmt": 0,
+    "sequenceNo": 2,
+    "subInsuranceCd": "HK",
+    "totalAmt": 17350,
+    "uninsureTatalAmt": 0
+  }
+]}

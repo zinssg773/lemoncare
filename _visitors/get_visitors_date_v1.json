@@ -1,0 +1,26 @@
+{ 
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2024-04-25 12:15:00",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+		"availReservationDt": "20240805",
+		"memo": "첫번째 메모"
+	},
+	{
+		"availReservationDt": "20240808",
+		"memo": ""
+	},
+	{
+		"availReservationDt": "20240815",
+		"memo": null
+	},
+	{
+		"availReservationDt": "20240822",
+		"memo": "네번째 메모"
+	}
+    ]
+}

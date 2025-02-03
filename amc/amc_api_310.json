@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "decisionChk": "자퇴",
+    "chkAge": "83",
+    "chkNm": "신하록",
+    "visitTm": "638",
+    "nurseCharge": "송서정",
+    "deptArea": "5",
+    "chkSex": "M",
+    "doctorCharge": ""
+  }
+}

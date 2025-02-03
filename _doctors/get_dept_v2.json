@@ -1,0 +1,255 @@
+{
+    "elapsedTime": 2,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2024-02-21 13:40:36",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "deptCd": "FM",
+            "deptCls": "01",
+            "deptClsNm": "진료과1",
+            "deptNm": "가정의학과",
+            "deptSeq": 1
+        },
+        {
+            "deptCd": "IMI",
+            "deptCls": "01",
+            "deptClsNm": "진료과2",
+            "deptNm": "감염내과",
+            "deptSeq": 2
+        },
+        {
+            "deptCd": "IME",
+            "deptCls": "01",
+            "deptClsNm": "진료과3",
+            "deptNm": "내분비내과",
+            "deptSeq": 3
+        },
+        {
+            "deptCd": "LEVC",
+            "deptCls": "01",
+            "deptClsNm": "진료과4",
+            "deptNm": "다리혈관센터",
+            "deptSeq": 4
+        },
+        {
+            "deptCd": "IMJ",
+            "deptCls": "01",
+            "deptClsNm": "진료과5",
+            "deptNm": "류마티스내과",
+            "deptSeq": 5
+        },
+        {
+            "deptCd": "AN",
+            "deptCls": "01",
+            "deptClsNm": "진료과6",
+            "deptNm": "마취통증의학과",
+            "deptSeq": 6
+        },
+        {
+            "deptCd": "RO",
+            "deptCls": "01",
+            "deptClsNm": "진료과7",
+            "deptNm": "방사선종양학과",
+            "deptSeq": 7
+        },
+        {
+            "deptCd": "PA",
+            "deptCls": "01",
+            "deptClsNm": "진료과8",
+            "deptNm": "병리과",
+            "deptSeq": 8
+        },
+        {
+            "deptCd": "UR",
+            "deptCls": "01",
+            "deptClsNm": "진료과9",
+            "deptNm": "비뇨의학과",
+            "deptSeq": 9
+        },
+        {
+            "deptCd": "OG",
+            "deptCls": "01",
+            "deptClsNm": "진료과10",
+            "deptNm": "산부인과",
+            "deptSeq": 10
+        },
+        {
+            "deptCd": "PS",
+            "deptCls": "01",
+            "deptClsNm": "진료과11",
+            "deptNm": "성형외과",
+            "deptSeq": 11
+        },
+        {
+            "deptCd": "PED",
+            "deptCls": "01",
+            "deptClsNm": "진료과12",
+            "deptNm": "소아청소년과",
+            "deptSeq": 12
+        },
+        {
+            "deptCd": "GIC",
+            "deptCls": "01",
+            "deptClsNm": "진료과13",
+            "deptNm": "소화기내과",
+            "deptSeq": 13
+        },
+        {
+            "deptCd": "NR",
+            "deptCls": "01",
+            "deptClsNm": "진료과14",
+            "deptNm": "신경과",
+            "deptSeq": 14
+        },
+        {
+            "deptCd": "NS",
+            "deptCls": "01",
+            "deptClsNm": "진료과15",
+            "deptNm": "신경외과",
+            "deptSeq": 15
+        },
+        {
+            "deptCd": "IMN",
+            "deptCls": "01",
+            "deptClsNm": "진료과16",
+            "deptNm": "신장내과",
+            "deptSeq": 16
+        },
+        {
+            "deptCd": "CCVSC",
+            "deptCls": "01",
+            "deptClsNm": "진료과17",
+            "deptNm": "심장내과",
+            "deptSeq": 17
+        },
+        {
+            "deptCd": "TS",
+            "deptCls": "01",
+            "deptClsNm": "진료과18",
+            "deptNm": "심장혈관흉부외과",
+            "deptSeq": 18
+        },
+        {
+            "deptCd": "OT",
+            "deptCls": "01",
+            "deptClsNm": "진료과19",
+            "deptNm": "안과",
+            "deptSeq": 19
+        },
+        {
+            "deptCd": "IMA",
+            "deptCls": "01",
+            "deptClsNm": "진료과20",
+            "deptNm": "알레르기내과",
+            "deptSeq": 20
+        },
+        {
+            "deptCd": "DR",
+            "deptCls": "01",
+            "deptClsNm": "진료과21",
+            "deptNm": "영상의학과",
+            "deptSeq": 21
+        },
+        {
+            "deptCd": "GS",
+            "deptCls": "01",
+            "deptClsNm": "진료과22",
+            "deptNm": "외과",
+            "deptSeq": 22
+        },
+        {
+            "deptCd": "EM",
+            "deptCls": "01",
+            "deptClsNm": "진료과23",
+            "deptNm": "응급의학과",
+            "deptSeq": 23
+        },
+        {
+            "deptCd": "OL",
+            "deptCls": "01",
+            "deptClsNm": "진료과24",
+            "deptNm": "이비인후과",
+            "deptSeq": 24
+        },
+        {
+            "deptCd": "CPT",
+            "deptCls": "01",
+            "deptClsNm": "진료과25",
+            "deptNm": "임상약리학과",
+            "deptSeq": 25
+        },
+        {
+            "deptCd": "RH",
+            "deptCls": "01",
+            "deptClsNm": "진료과26",
+            "deptNm": "재활의학과",
+            "deptSeq": 26
+        },
+        {
+            "deptCd": "NP",
+            "deptCls": "01",
+            "deptClsNm": "진료과27",
+            "deptNm": "정신건강의학과",
+            "deptSeq": 27
+        },
+        {
+            "deptCd": "OS",
+            "deptCls": "01",
+            "deptClsNm": "진료과28",
+            "deptNm": "정형외과",
+            "deptSeq": 28
+        },
+        {
+            "deptCd": "LM",
+            "deptCls": "01",
+            "deptClsNm": "진료과39",
+            "deptNm": "진단검사의학과",
+            "deptSeq": 29
+        },
+        {
+            "deptCd": "DS",
+            "deptCls": "01",
+            "deptClsNm": "진료과30",
+            "deptNm": "치과",
+            "deptSeq": 30
+        },
+        {
+            "deptCd": "IMT",
+            "deptCls": "01",
+            "deptClsNm": "진료과31",
+            "deptNm": "통합내과",
+            "deptSeq": 31
+        },
+        {
+            "deptCd": "DM",
+            "deptCls": "01",
+            "deptClsNm": "진료과32",
+            "deptNm": "피부과",
+            "deptSeq": 32
+        },
+        {
+            "deptCd": "NM",
+            "deptCls": "01",
+            "deptClsNm": "진료과33",
+            "deptNm": "핵의학과",
+            "deptSeq": 33
+        },
+        {
+            "deptCd": "IMH",
+            "deptCls": "01",
+            "deptClsNm": "진료과34",
+            "deptNm": "혈액종양내과",
+            "deptSeq": 34
+        },
+        {
+            "deptCd": "IMR",
+            "deptCls": "01",
+            "deptClsNm": "진료과35",
+            "deptNm": "호흡기내과",
+            "deptSeq": 35
+        }
+    ]
+}

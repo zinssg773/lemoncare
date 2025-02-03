@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "dischargeAftActCnte": "일상생활",
+      "dischargeAftMealCnte": "일반식",
+      "dischargeAftBathCnte": "샤워",
+      "dischargeAftEtcCnte": "* 2022년 5월 2일 월요일 오후 2시 소화기내과 이윤빈 교수님 외래 있습니다.\r\n-> 외래 보기 2시간 전까지 채혈을 완료하세요. 금식은 필요없습니다.",
+      "dischargeAftCapnCnte": "처방된 약을 정확하게 복용하십시오",
+      "dischargeDt": "2022-12-12"
+    }
+  ]
+}

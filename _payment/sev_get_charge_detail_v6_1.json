@@ -1,0 +1,30 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2024-05-23 14:22:54",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "HosCd": "10",
+      "UnitNo": "9247572",
+      "PatNm": "유혜나",
+      "MCareOrdId": "null",
+      "MCareSiteId": "null",
+      "ChosNo": "90240424O06502",
+      "ClnYmd": "",
+      "ClnHms": "",
+      "MCarePayAll": "Y",
+      "ChosGb": "O",
+      "PayAmt": "52500",
+      "AddTaxAmt": "0",
+      "McareServiceAmt": "null",
+      "McareApproval": "null",
+      "ErrorMsg": "",
+      "DisCalcYn": "",
+      "PharmCnt": "0",
+      "OtherCnt": "37"
+    }
+  ]
+}

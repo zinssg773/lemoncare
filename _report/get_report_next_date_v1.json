@@ -1,0 +1,16 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-01-12 14:00:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "deptNm": "순환기내과",
+      "location": "본관 2층 순환기내과",
+      "doctorNm": "강*재",
+      "visitDtm": "2022-04-05 (화) 11:00"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "patno": "62817390",
+    "patNm": "황세학",
+    "patBirthdt": "19381030",
+    "sexCd": "M",
+    "rsltCd": "2",
+    "mpnPatno": "36205291",
+    "mpnPatNm": "황세학",
+    "mpnSexCd": "M",
+    "mpnPatBirthdt": "19381030"
+  }
+}

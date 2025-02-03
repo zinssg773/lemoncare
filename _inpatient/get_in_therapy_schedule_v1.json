@@ -1,0 +1,21 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+	  "patientId": "5473594D504769774F644B414954375A6A4E707454513D3D",
+	  "trpTypeCd": "RO",
+	  "trpReservationDt": "2022-11-01",
+	  "reservationTm": "07:05",
+	  "location": "본관 지하 1층 방사선 1치료실",
+	  "roTrpFmtYn": "N",
+	  "rhtrLclsCd": null,
+	  "tyrmNm": null,
+	  "roNewYn": "N"
+	}
+  ]
+}

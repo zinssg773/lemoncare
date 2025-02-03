@@ -1,0 +1,28 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupCls": "20대 검진 프로그램(여)",
+      "checkupDt": "20190122",
+      "checkupRstOpenYn": "",
+      "receiptNo": "AABB++AA"
+    },
+    {
+      "checkupCls": "통합",
+      "checkupDt": "20181212",
+      "checkupRstOpenYn": "",
+      "receiptNo": "AABBCC++"
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "20170102",
+      "checkupRstOpenYn": "N",
+      "receiptNo": "++AABBCC"
+    }
+  ]
+}

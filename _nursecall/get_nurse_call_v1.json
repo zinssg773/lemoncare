@@ -1,0 +1,26 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":   [
+    {
+      "requestDt": "20210910",
+      "requestCd": "nurseCall2",
+      "requestNm": "면담요청",
+      "requestMemo": "면담요청 합니다.",
+      "receiveDt": "20210910",
+      "receiveTm": "123040"
+    },
+    {
+      "requestDt": "20210911",
+      "requestCd": "nurseCall3",
+      "requestNm": "청소요청",
+      "requestMemo": "청소요청 합니다.",
+      "receiveDt": "20210911",
+      "receiveTm": "145010"
+    }
+  ]
+}

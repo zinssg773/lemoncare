@@ -1,0 +1,112 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000020899",
+      "locDesc": "에스컬레이터 지하 1층>직진>H24 Green 편의점\r\n운영 시간 : 평일 07:00 ~ 22:00 / 토요일 09:30 ~ 15:00 (운영 시간 외에는 별관 H24+ 편의점을 이용하시기 바랍니다)",
+      "locNm": "H24 Green 편의점",
+      "titleNm": "동관 H24 Green 편의점"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000020900",
+      "locDesc": "에스컬레이터  지하1층>직진>H마트\r\n운영 시간 : 평일 08:00 ~ 21:00 (운영 시간 외에는 H24Green 편의점이나 별관 H24+ 편의점을 이용하시기 바랍니다)",
+      "locNm": "H마트",
+      "titleNm": "동관 H마트"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021229",
+      "locDesc": "동관 1층 정문>에스컬레이터>우측 방향>구두수선\r\n운영 시간 : 08:30 ~ 18:00 (토요일, 공휴일 휴무) ",
+      "locNm": "구두수선",
+      "titleNm": "동관 구두수선"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000020905",
+      "locDesc": "에스컬레이터 지하1층>좌측 방향 직진>도서열람실\r\n운영 시간 : 09:00 ~ 18:00 (토요일, 공휴일 휴무)",
+      "locNm": "도서열람실",
+      "titleNm": "동관 도서열람실"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021050",
+      "locDesc": "에스컬레이터 지하1층>우측>동관 외환은행\r\n운영 시간 : 09:00 ~ 16:00 (토요일, 공휴일 휴무) ",
+      "locNm": "동관 외환은행",
+      "titleNm": "동관 동관 외환은행"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021141",
+      "locDesc": "동관 1층 정문>에스컬레이터 지하1층>직진(새마을금고 방향)>왼쪽(직원식당)으로 직진\r\n암으로 진단 받은 환자를 세밀히 진찰하고 각종 검사결과를 분석한 후 방사선 치료가 필요한지 결정하여 방사선치료 전반적인 사항을 관리 감독하는 과입니다.",
+      "locNm": "방사선종양학과",
+      "titleNm": "동관 방사선종양학과"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021142",
+      "locDesc": "에스컬레이터 지하1층>우측 방향 직진>좌측 방향>베이커리카페\r\n대표 메뉴 : 베이커리, 음료, 아이스크림 등 (운영시간 : 07:30 ~ 20:30)",
+      "locNm": "베이커리카페(베즐리)",
+      "titleNm": "동관 베이커리카페(베즐리)"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021047",
+      "locDesc": "에스컬레이터 지하1층>좌측 방향 직진>좌회전>새마을금고\r\n운영 시간 : 09:00 ~ 16:00 (토요일, 공휴일 휴무)",
+      "locNm": "새마을금고",
+      "titleNm": "동관 새마을금고"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021049",
+      "locDesc": "에스컬레이터 지하1층>좌측>의료용품점\r\n운영 시간 : 평일 08:00 ~ 19:00 / 토요일 08 : 30 ~ 12 : 30 (공휴일 휴무) ",
+      "locNm": "의료용품점",
+      "titleNm": "동관 의료용품점"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021232",
+      "locDesc": "에스컬레이터 지하1층>우측 방향 직진>일식당(나미)\r\n대표 메뉴 : 생대구탕, 생선초밥, 알탕 (운영 시간 : 11:00 ~ 20:30)",
+      "locNm": "일식당(나미)",
+      "titleNm": "동관 일식당(나미)"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021130",
+      "locDesc": "에스컬레이터 지하1층>좌측 방향 직진>새마을금고 안\r\n운영 시간 : 평일 09:00 ~ 16:00",
+      "locNm": "자동차보험",
+      "titleNm": "동관 자동차보험"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000020914",
+      "locDesc": "에스컬레이터 지하1층>직진>좌회전>푸드코트(한식)\r\n대표 메뉴 : 비빔밥, 찌개, 죽 등 (운영 시간 : 07:30 ~ 20:30)",
+      "locNm": "푸드코트(한식)",
+      "titleNm": "동관 푸드코트(한식)"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021230",
+      "locDesc": "에스컬레이터 지하1층>우측 방향 직진>한식당(금강산)\r\n대표 메뉴 : 사골우거지탕, 양곰탕 등 (운영 시간 : 07:30 ~ 20:30)",
+      "locNm": "한식당(금강산)",
+      "titleNm": "동관 한식당(금강산)"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021145",
+      "locDesc": "에스컬레이터 지하 1층>우측 방향 직진>좌회전>한식당(한강)\r\n대표 메뉴 : 설렁탕, 육개장, 수육 등 (운영 시간 : 평일 10:00 ~ 16:00, 토,일요일, 공휴일 휴무)",
+      "locNm": "한식당(한강)",
+      "titleNm": "동관 한식당(한강)"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021143",
+      "locDesc": "에스컬레이터 지하1층>우측 방향 직진>현대드림투어\r\n운영 시간 : 08:00 ~ 18:30 (토요일, 공휴일 휴무)",
+      "locNm": "현대드림투어",
+      "titleNm": "동관 현대드림투어"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000020906",
+      "locDesc": "에스컬레이터 지하1층>직진>동관화원\r\n대표 상품 : 생화, 동양란, 팬시류 (운영 시간 : 08:00 ~ 19:30, 토요일 09:00 ~15:00, 일요일, 공휴일 휴무)",
+      "locNm": "화원",
+      "titleNm": "동관 화원"
+    },
+    {
+      "fileUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021051",
+      "locDesc": "동관 1층 정문>에스컬레이터 지하1층>의료용품점 우측 길>휴대전화 대리점\r\n다양한 휴대전화 및 악세사리를 구매할 수 있으며 무선랜 대여가 가능합니다. (운영 시간 : 평일 08:00~20:00 / 토요일 10:00~17:00)",
+      "locNm": "휴대전화 대리점",
+      "titleNm": "동관 휴대전화 대리점"
+    }
+  ]
+}

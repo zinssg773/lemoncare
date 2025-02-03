@@ -1,0 +1,59 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "GI",
+      "deptNm": "소화기내과",
+      "doctorId": "007471",
+      "doctorNm": "김형준",
+      "examGuide": null,
+      "nextLocImgUri": "https://mobile.ncc.re.kr/image/outpatientBrochure/exam1.PNG",
+      "nextLocNm": "소화기센터",
+      "payYn": "N",
+      "visitKind": "진료",
+      "visitMemo": "진료 전 1층으로 오세요.\r진료 후 2층으로 오세요.\n진료 전 3층으로 오세요. \r\n진료 후 4층으로 오세요.",
+      "visitStatusCd": "C",
+      "visitDt": "20241014",
+      "visitTm": "0910",
+      "onlineChatUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDVlMjlhMjgtNGM1MC00ZTU0LWI4YzItNzZiMWRlZGYzMmU0%40thread.v2/0?context=%7b%22Tid%22%3a%220591b0eb-0fca-4bd9-9e01-da961c8da8b8%22%2c%22Oid%22%3a%22757cbcad-292e-4d3a-b747-ec2b182f0e48%22%7d",
+      "onlineViewNo": "104"
+    },
+    {
+      "deptCd": "GI",
+      "deptNm": "내과",
+      "doctorId": "007471",
+      "doctorNm": "박형준",
+      "examGuide": "검사안내 문구 추가 예정",
+      "nextLocImgUri": null,
+      "nextLocNm": "채혈실",
+      "payYn": "Y",
+      "visitKind": "진료",
+      "visitMemo": null,
+      "visitStatusCd": "A",
+      "visitDt": "20241110",
+      "visitTm": "1430",
+      "onlineChatUrl": ""
+    },
+    {
+      "deptCd": "GI",
+      "deptNm": "호흡기내과",
+      "doctorId": "007471",
+      "doctorNm": "고형준",
+      "examGuide": null,
+      "nextLocImgUri": null,
+      "nextLocNm": "폐기능검사실",
+      "payYn": "NN",
+      "visitKind": "진료",
+      "visitMemo": null,
+      "visitStatusCd": "R",
+      "visitDt": "20241116",
+      "visitTm": "1350",
+      "onlineChatUrl": ""
+    }
+  ]
+}

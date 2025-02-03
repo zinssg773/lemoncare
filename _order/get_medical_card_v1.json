@@ -1,0 +1,24 @@
+{
+    "elapsedTime": 0,
+    "status": "OK",
+    "errors": [],
+    "message": null,
+    "timestamp": "2024-04-26 16:52:12",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "cardClsCd": "cd00",
+            "cardClsNm": "약물안전카드",
+            "cardIssueDt": "20230126",
+            "birthDt": "20000603",
+            "memo": "위 환자는 Eperison 에 의해서<BR>Anaphylaxis가 발생하는 환자로<BR>동일계열 약물 사용에 주의를 기울여야 합니다"
+        },
+        {
+            "cardClsCd": "cd01",
+            "cardClsNm": "심장삽입전기장치카드",
+            "cardIssueDt": "20221226",
+            "birthDt": "20000603",
+            "memo": "<B>ㆍ삽입일자 : </B>2022.12.26<BR><B>ㆍ기기종류 : </B>Pacemaker<BR><B>ㆍ회사명 : </B>Medtronic<BR><div class=\"fold-card__caution\"><B>ㆍ주의사항 : </B>MRI 1.5T 안전보드로 변경 후 촬영 가능합니다.</div>"
+        }
+    ]
+}

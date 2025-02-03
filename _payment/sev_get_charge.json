@@ -1,0 +1,32 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2022-06-03 11:47:51",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "HosCd": "01",
+      "ClnDeptCd": "SK",
+      "DeptNm": "피부과",
+      "ClnDrId": "0114433",
+      "UserNm": "김태균",
+      "ClnYmd": "20220603",
+      "ClnHms": "141001",
+      "ChosNo": "N22040813901O1",
+      "AcptYmd": "20220603",
+      "AcptGb": "",
+      "CalcStrYmd": "",
+      "CalcEndYmd": "",
+      "ChosGb": "O",
+      "InfoMsg": "10||세브란스병원",
+      "ErrorMsg": "",
+      "PatNm": "이은경",
+      "UnitNo": "5838798",
+      "DisCalcYn": "",
+      "PharmCnt": "0",
+      "OtherCnt": "1"
+    }
+  ]
+}

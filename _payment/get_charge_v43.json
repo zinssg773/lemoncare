@@ -1,0 +1,56 @@
+{
+  "elapsedTime": 1332,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-08-07 16:33:24",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "GS",
+      "deptNm": "외과",
+      "doctorId": "19510003",
+      "doctorNm": "유경탁",
+      "errorMsg": "정상",
+      "insTypeCd": "11",
+      "insTypeNm": "건강보험",
+      "medDvsn": "O",
+      "patientNm": "류화청",
+      "realAmt": "400",
+      "receiptNo": "20231120O00632",
+      "visitDt": "20231120"
+    },
+    {
+      "deptCd": "GS",
+      "deptNm": "이비인후과",
+      "doctorId": "19510003",
+      "doctorNm": "유경탁",
+      "errorMsg": "정상",
+      "insTypeCd": "11",
+      "insTypeNm": "건강보험",
+      "medDvsn": "O",
+      "patientNm": "류화청test",
+      "realAmt": "99",
+      "receiptNo": "20231120O00632",
+      "visitDt": "20231120"
+    },
+    {
+      "deptCd": "CAM",
+      "deptNm": "내과 - 순환기",
+      "doctorId": "22510030",
+      "doctorNm": "김태훈",
+      "errorMsg": "정상",
+      "insTypeCd": "11",
+      "insTypeNm": "건강보험",
+      "medDvsn": "O",
+      "patientNm": "오경선",
+      "realAmt": "0",
+      "receiptNo": "20240508O00068",
+      "visitDt": "20240508"
+    },
+    {
+      "error-code": "FAIL",
+      "error-message": "납부할 내역이 없습니다."
+    }
+  ]
+}

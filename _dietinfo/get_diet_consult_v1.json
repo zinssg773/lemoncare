@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "dietInfoDt": "20210210",
+      "dietInfoKind": "영양상담",
+      "dietInfoPlan": "식사계획 : \r\n - c balance diet ",
+      "dietInfoEdu": "<b>교육<br>내용\n1</b> : \r\n* 좋은 식습관 유지 (제때, 알맞게, 골고루, 싱겁게)\r\n* 균형잡힌식생활\r\n* 적절한 체중 유지를 위한 식사요령 및 주의사항\r\n",
+      "memo": "메모1"
+    },
+    {
+      "dietInfoDt": "20210211",
+      "dietInfoKind": "영양상담",
+      "dietInfoPlan": "식사계획 : \r\n - c balance diet ",
+      "dietInfoEdu": "교육내용2 : \r\n* 좋은 식습관 유지 (제때, 알맞게, 골고루, 싱겁게)\r\n* 균형잡힌식생활\r\n* 적절한 체중 유지를 위한 식사요령 및 주의사항\r\n",
+      "memo": "메모2"
+    },
+    {
+      "dietInfoDt": "20210213",
+      "dietInfoKind": "교육의뢰",
+      "dietInfoPlan": "식사계획 : \r\n - c balance diet ",
+      "dietInfoEdu": "교육내용3 : \r\n* 좋은 식습관 유지 (제때, 알맞게, 골고루, 싱겁게)\r\n* 균형잡힌식생활\r\n* 적절한 체중 유지를 위한 식사요령 및 주의사항\r\n",
+      "memo": "메모3"
+    }
+  ]
+}

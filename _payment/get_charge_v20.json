@@ -1,0 +1,40 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-08-31 15:26:22",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "calculationDt": "-",
+      "deptCd": "D0101",
+      "deptNm": "소화기내과",
+      "dischargeYn": "",
+      "discountAmt": "0.0",
+      "doctorId": "2008135",
+      "doctorNm": "이문원",
+      "errorMsg": "",
+      "insuranceCd": "H",
+      "insureAmt": "",
+      "intermediatePayEndDt": "",
+      "intermediatePayStDt": "",
+      "partChargeYn": "",
+      "patientNm": "홍길동",
+      "patientTotalAmt": "21426",
+      "preAmt": "",
+      "prescriptionIntCnt": "",
+      "prescriptionOutCnt": "",
+      "privacyYN": "",
+      "realAmt": "21400",
+      "receiptNo": "116829837",
+      "receivableAmt": "",
+      "receiveTy": "",
+      "selfPayment": "21426.0",
+      "surtax": "",
+      "totalAmt": "25170.0",
+      "visitDt": "20230831",
+      "visitTm": "0930"
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "certificateCd": "0001",
+      "certificate": "일반진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "1"
+    },
+    {
+      "certificateCd": "0002",
+      "certificate": "입원사실증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "2"
+    },
+    {
+      "certificateCd": "0004",
+      "certificate": "통원진료확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "3"
+    },
+    {
+      "certificateCd": "0007",
+      "certificate": "일반소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "4"
+    },
+    {
+      "certificateCd": "0003",
+      "certificate": "수술확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "5"
+    },
+    {
+      "certificateCd": "0025",
+      "certificate": "소득공제용 장애인 증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "6"
+    },
+    {
+      "certificateCd": "0006",
+      "certificate": "사망진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "7"
+    },
+    {
+      "certificateCd": "0005",
+      "certificate": "사산증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "9"
+    },
+    {
+      "certificateCd": "0008",
+      "certificate": "출생증명서(퇴원후)",
+      "deptCd": "ZZZ",
+      "sortSeq": "10"
+    },
+    {
+      "certificateCd": "0009",
+      "certificate": "출생증명서(퇴원시)",
+      "deptCd": "ZZZ",
+      "sortSeq": "11"
+    },
+    {
+      "certificateCd": "0010",
+      "certificate": "요양급여회송서",
+      "deptCd": "ZZZ",
+      "sortSeq": "12"
+    },
+    {
+      "certificateCd": "0011",
+      "certificate": "영문사산증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "13"
+    },
+    {
+      "certificateCd": "0012",
+      "certificate": "영문일반진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "14"
+    },
+    {
+      "certificateCd": "0013",
+      "certificate": "영문입원사실증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "15"
+    },
+    {
+      "certificateCd": "0014",
+      "certificate": "영문수술확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "16"
+    },
+    {
+      "certificateCd": "0015",
+      "certificate": "영문출생증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "17"
+    },
+    {
+      "certificateCd": "0016",
+      "certificate": "영문일반소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "18"
+    },
+    {
+      "certificateCd": "0017",
+      "certificate": "영문사망진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "19"
+    },
+    {
+      "certificateCd": "0018",
+      "certificate": "영문통원진료확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "20"
+    },
+    {
+      "certificateCd": "0019",
+      "certificate": "일반소견서(자유서식)",
+      "deptCd": "ZZZ",
+      "sortSeq": "21"
+    },
+    {
+      "certificateCd": "0020",
+      "certificate": "방사선치료확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "22"
+    },
+    {
+      "certificateCd": "0021",
+      "certificate": "병무용진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "23"
+    },
+    {
+      "certificateCd": "0023",
+      "certificate": "의료급여일수 연장 승인 신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "25"
+    },
+    {
+      "certificateCd": "0024",
+      "certificate": "시체검안서",
+      "deptCd": "ZZZ",
+      "sortSeq": "26"
+    },
+    {
+      "certificateCd": "0026",
+      "certificate": "상해진단서(3주미만)",
+      "deptCd": "ZZZ",
+      "sortSeq": "28"
+    },
+    {
+      "certificateCd": "0027",
+      "certificate": "상해진단서(3주이상)",
+      "deptCd": "ZZZ",
+      "sortSeq": "29"
+    },
+    {
+      "certificateCd": "0028",
+      "certificate": "외래진료확인서(원무)",
+      "deptCd": "ZZZ",
+      "sortSeq": "30"
+    },
+    {
+      "certificateCd": "0029",
+      "certificate": "입원확인서(원무)",
+      "deptCd": "ZZZ",
+      "sortSeq": "31"
+    },
+    {
+      "certificateCd": "0030",
+      "certificate": "영문외래진료확인서(원무)",
+      "deptCd": "ZZZ",
+      "sortSeq": "32"
+    },
+    {
+      "certificateCd": "0031",
+      "certificate": "영문입원확인서(원무)",
+      "deptCd": "ZZZ",
+      "sortSeq": "33"
+    },
+    {
+      "certificateCd": "0032",
+      "certificate": "후유장해진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "34"
+    },
+    {
+      "certificateCd": "0033",
+      "certificate": "향후치료비추정서(1000만원 미만)",
+      "deptCd": "ZZZ",
+      "sortSeq": "35"
+    },
+    {
+      "certificateCd": "0034",
+      "certificate": "향후치료비추정서(1000만원 이상)",
+      "deptCd": "ZZZ",
+      "sortSeq": "36"
+    },
+    {
+      "certificateCd": "0035",
+      "certificate": "장해진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "37"
+    },
+    {
+      "certificateCd": "0037",
+      "certificate": "국민연금 장애 심사용 진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "39"
+    },
+    {
+      "certificateCd": "0038",
+      "certificate": "건강보험 보조기기검수확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "40"
+    },
+    {
+      "certificateCd": "0039",
+      "certificate": "미숙아 등의 출생보고서",
+      "deptCd": "ZZZ",
+      "sortSeq": "41"
+    },
+    {
+      "certificateCd": "0040",
+      "certificate": "산소치료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "42"
+    },
+    {
+      "certificateCd": "0041",
+      "certificate": "2차 홍역 예방접종증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "43"
+    },
+    {
+      "certificateCd": "0042",
+      "certificate": "의료급여 보조기기검수확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "44"
+    },
+    {
+      "certificateCd": "0044",
+      "certificate": "노인장기요양보험 의사소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "46"
+    },
+    {
+      "certificateCd": "0045",
+      "certificate": "임신확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "47"
+    },
+    {
+      "certificateCd": "0046",
+      "certificate": "예방접종증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "48"
+    },
+    {
+      "certificateCd": "0047",
+      "certificate": "영문예방접종 증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "49"
+    },
+    {
+      "certificateCd": "0048",
+      "certificate": "근로능력평가용진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "50"
+    },
+    {
+      "certificateCd": "0049",
+      "certificate": "동사무소용 장애 정도 심사용 진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "51"
+    },
+    {
+      "certificateCd": "0050",
+      "certificate": "동사무소용 장애 정도 심사용 진단서(지적장애)",
+      "deptCd": "ZZZ",
+      "sortSeq": "52"
+    },
+    {
+      "certificateCd": "0051",
+      "certificate": "건강보험 인공호흡기 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "53"
+    },
+    {
+      "certificateCd": "0052",
+      "certificate": "방문간호지시서",
+      "deptCd": "ZZZ",
+      "sortSeq": "54"
+    },
+    {
+      "certificateCd": "0053",
+      "certificate": "방문간호지시서(치과의사용)",
+      "deptCd": "ZZZ",
+      "sortSeq": "55"
+    },
+    {
+      "certificateCd": "0054",
+      "certificate": "동사무소용 지체장애용(상하지기능장애,척추장애) 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "56"
+    },
+    {
+      "certificateCd": "0055",
+      "certificate": "동사무소용 뇌병변 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "57"
+    },
+    {
+      "certificateCd": "0056",
+      "certificate": "동사무소용 지체장애용(관절 장애) 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "58"
+    },
+    {
+      "certificateCd": "0057",
+      "certificate": "동사무소용 뇌전증장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "59"
+    },
+    {
+      "certificateCd": "0058",
+      "certificate": "동사무소용 시각 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "60"
+    },
+    {
+      "certificateCd": "0059",
+      "certificate": "동사무소용 심장 장애 판정 기준표",
+      "deptCd": "ZZZ",
+      "sortSeq": "61"
+    },
+    {
+      "certificateCd": "0060",
+      "certificate": "자동복막투석 소모성재료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "62"
+    },
+    {
+      "certificateCd": "0061",
+      "certificate": "당뇨병환자 소모성재료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "63"
+    },
+    {
+      "certificateCd": "0062",
+      "certificate": "당뇨병환자 등록 신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "64"
+    },
+    {
+      "certificateCd": "0063",
+      "certificate": "전원소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "65"
+    },
+    {
+      "certificateCd": "0064",
+      "certificate": "취학아동 예방접종증명서",
+      "deptCd": "ZZZ",
+      "sortSeq": "66"
+    },
+    {
+      "certificateCd": "0065",
+      "certificate": "건강보험 자가도뇨 소모성재료 급여대상자등록신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "67"
+    },
+    {
+      "certificateCd": "0066",
+      "certificate": "항 혈전제/응고제 중단 확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "68"
+    },
+    {
+      "certificateCd": "0067",
+      "certificate": "SPC 상담소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "69"
+    },
+    {
+      "certificateCd": "0068",
+      "certificate": "국민연금 악성신생물(고형암) 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "70"
+    },
+    {
+      "certificateCd": "0069",
+      "certificate": "국민연금 심장 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "71"
+    },
+    {
+      "certificateCd": "0070",
+      "certificate": "국민연금 간 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "72"
+    },
+    {
+      "certificateCd": "0071",
+      "certificate": "국민연금 신장 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "73"
+    },
+    {
+      "certificateCd": "0072",
+      "certificate": "국민연금 호흡기 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "74"
+    },
+    {
+      "certificateCd": "0073",
+      "certificate": "국민연금 척추 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "75"
+    },
+    {
+      "certificateCd": "0074",
+      "certificate": "국민연금 사지마비 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "76"
+    },
+    {
+      "certificateCd": "0075",
+      "certificate": "국민연금 혈액·조혈기 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "77"
+    },
+    {
+      "certificateCd": "0076",
+      "certificate": "국민연금 팔·다리 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "78"
+    },
+    {
+      "certificateCd": "0077",
+      "certificate": "국민연금 복부·골반장기 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "79"
+    },
+    {
+      "certificateCd": "0078",
+      "certificate": "국민연금 정신·신경계통 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "80"
+    },
+    {
+      "certificateCd": "0079",
+      "certificate": "국민연금 눈 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "81"
+    },
+    {
+      "certificateCd": "0080",
+      "certificate": "국민연금 입 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "82"
+    },
+    {
+      "certificateCd": "0081",
+      "certificate": "국민연금 귀 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "83"
+    },
+    {
+      "certificateCd": "0082",
+      "certificate": "국민연금 안면 장애 소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "84"
+    },
+    {
+      "certificateCd": "0083",
+      "certificate": "영문일반소견서(자유서식)",
+      "deptCd": "ZZZ",
+      "sortSeq": "85"
+    },
+    {
+      "certificateCd": "0084",
+      "certificate": "E2 채용신체검사서",
+      "deptCd": "ZZZ",
+      "sortSeq": "86"
+    },
+    {
+      "certificateCd": "0085",
+      "certificate": "자가도뇨 소모성 재료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "87"
+    },
+    {
+      "certificateCd": "0086",
+      "certificate": "건강보험 인공호흡기 등록신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "88"
+    },
+    {
+      "certificateCd": "0087",
+      "certificate": "의료급여 인공호흡기 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "89"
+    },
+    {
+      "certificateCd": "0088",
+      "certificate": "의료급여 당뇨병환자 소모성 재료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "90"
+    },
+    {
+      "certificateCd": "0089",
+      "certificate": "의료급여 자가도뇨 소모성 재료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "91"
+    },
+    {
+      "certificateCd": "0090",
+      "certificate": "노인장기요양보험의사소견서(치매진단의견서)",
+      "deptCd": "ZZZ",
+      "sortSeq": "92"
+    },
+    {
+      "certificateCd": "0091",
+      "certificate": "공무원채용신체검사서",
+      "deptCd": "ZZZ",
+      "sortSeq": "93"
+    },
+    {
+      "certificateCd": "0092",
+      "certificate": "일반채용신체검사서",
+      "deptCd": "ZZZ",
+      "sortSeq": "94"
+    },
+    {
+      "certificateCd": "0093",
+      "certificate": "건강진단서(가정의학과)",
+      "deptCd": "ZZZ",
+      "sortSeq": "95"
+    },
+    {
+      "certificateCd": "0094",
+      "certificate": "방사선 관계 종사자 건강진단표(의료법)",
+      "deptCd": "ZZZ",
+      "sortSeq": "96"
+    },
+    {
+      "certificateCd": "0095",
+      "certificate": "방사선 작업 종사자 건강진단서(원자력법)",
+      "deptCd": "ZZZ",
+      "sortSeq": "97"
+    },
+    {
+      "certificateCd": "0100",
+      "certificate": "성별감정서",
+      "deptCd": "ZZZ",
+      "sortSeq": "102"
+    },
+    {
+      "certificateCd": "0101",
+      "certificate": "일반신체검사",
+      "deptCd": "ZZZ",
+      "sortSeq": "103"
+    },
+    {
+      "certificateCd": "0102",
+      "certificate": "총포소지허가신검",
+      "deptCd": "ZZZ",
+      "sortSeq": "104"
+    },
+    {
+      "certificateCd": "0104",
+      "certificate": "장해보상청구용진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "106"
+    },
+    {
+      "certificateCd": "0105",
+      "certificate": "정신감정서",
+      "deptCd": "ZZZ",
+      "sortSeq": "107"
+    },
+    {
+      "certificateCd": "0106",
+      "certificate": "산재 장해진단서",
+      "deptCd": "ZZZ",
+      "sortSeq": "108"
+    },
+    {
+      "certificateCd": "0107",
+      "certificate": "산재 폐질신고서",
+      "deptCd": "ZZZ",
+      "sortSeq": "109"
+    },
+    {
+      "certificateCd": "0108",
+      "certificate": "산재 요양비청구서",
+      "deptCd": "ZZZ",
+      "sortSeq": "110"
+    },
+    {
+      "certificateCd": "0109",
+      "certificate": "산재 요양급여신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "111"
+    },
+    {
+      "certificateCd": "0110",
+      "certificate": "산재 진료계획서(1회)",
+      "deptCd": "ZZZ",
+      "sortSeq": "112"
+    },
+    {
+      "certificateCd": "0111",
+      "certificate": "산재 진료계획서(2회)",
+      "deptCd": "ZZZ",
+      "sortSeq": "113"
+    },
+    {
+      "certificateCd": "0112",
+      "certificate": "산재 진료계획서(3회)",
+      "deptCd": "ZZZ",
+      "sortSeq": "113"
+    },
+    {
+      "certificateCd": "0113",
+      "certificate": "산재 특별진찰소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "114"
+    },
+    {
+      "certificateCd": "0114",
+      "certificate": "산재 신체감정서",
+      "deptCd": "ZZZ",
+      "sortSeq": "115"
+    },
+    {
+      "certificateCd": "0115",
+      "certificate": "산재 소견회신서",
+      "deptCd": "ZZZ",
+      "sortSeq": "116"
+    },
+    {
+      "certificateCd": "0116",
+      "certificate": "산재 요양신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "117"
+    },
+    {
+      "certificateCd": "0117",
+      "certificate": "산재 보장구검수확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "118"
+    },
+    {
+      "certificateCd": "0118",
+      "certificate": "산재 보장구처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "119"
+    },
+    {
+      "certificateCd": "0119",
+      "certificate": "산재 다차원심리검사(L형)",
+      "deptCd": "ZZZ",
+      "sortSeq": "120"
+    },
+    {
+      "certificateCd": "0120",
+      "certificate": "건강보험 기침유발기 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "121"
+    },
+    {
+      "certificateCd": "0121",
+      "certificate": "기초수급자 자가도뇨 소모성 재료 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "122"
+    },
+    {
+      "certificateCd": "0122",
+      "certificate": "건강보험 기침유발기 급여대상자 등록 신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "123"
+    },
+    {
+      "certificateCd": "0123",
+      "certificate": "의뢰환자 소견 회신서",
+      "deptCd": "ZZZ",
+      "sortSeq": "124"
+    },
+    {
+      "certificateCd": "0124",
+      "certificate": "영문회송소견서",
+      "deptCd": "ZZZ",
+      "sortSeq": "125"
+    },
+    {
+      "certificateCd": "0125",
+      "certificate": "임산부 및 신생아 사망 사산 보고서",
+      "deptCd": "ZZZ",
+      "sortSeq": "126"
+    },
+    {
+      "certificateCd": "0126",
+      "certificate": "신종인플루엔자 예방접종용 진료확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "127"
+    },
+    {
+      "certificateCd": "0128",
+      "certificate": "조산아 및 저체중 출생아 외래진료비 본인부담률 경감 신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "129"
+    },
+    {
+      "certificateCd": "0129",
+      "certificate": "의료급여 2종 조산아 및 저체중출생아 등록 신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "130"
+    },
+    {
+      "certificateCd": "0130",
+      "certificate": "권리고지",
+      "deptCd": "ZZZ",
+      "sortSeq": "131"
+    },
+    {
+      "certificateCd": "0131",
+      "certificate": "퇴원등 통지서",
+      "deptCd": "ZZZ",
+      "sortSeq": "132"
+    },
+    {
+      "certificateCd": "0132",
+      "certificate": "퇴원등 거부사유 및 퇴원등심사청구권",
+      "deptCd": "ZZZ",
+      "sortSeq": "133"
+    },
+    {
+      "certificateCd": "0133",
+      "certificate": "입원등 연장 심사청구서 (서식9호)",
+      "deptCd": "ZZZ",
+      "sortSeq": "134"
+    },
+    {
+      "certificateCd": "0134",
+      "certificate": "입원등 및 입원등 기간 연장 통지서",
+      "deptCd": "ZZZ",
+      "sortSeq": "135"
+    },
+    {
+      "certificateCd": "0135",
+      "certificate": "퇴원등 사실 통보서",
+      "deptCd": "ZZZ",
+      "sortSeq": "136"
+    },
+    {
+      "certificateCd": "0136",
+      "certificate": "응급입원 통지서",
+      "deptCd": "ZZZ",
+      "sortSeq": "137"
+    },
+    {
+      "certificateCd": "0137",
+      "certificate": "입원등 환자 퇴원등 의사 확인서",
+      "deptCd": "ZZZ",
+      "sortSeq": "138"
+    },
+    {
+      "certificateCd": "0138",
+      "certificate": "입원등 연장 심사청구서 (서식12호)",
+      "deptCd": "ZZZ",
+      "sortSeq": "139"
+    },
+    {
+      "certificateCd": "0139",
+      "certificate": "의료급여 기침유발기 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "140"
+    },
+    {
+      "certificateCd": "0140",
+      "certificate": "이송지시서",
+      "deptCd": "ZZZ",
+      "sortSeq": "141"
+    },
+    {
+      "certificateCd": "0141",
+      "certificate": "응급환자 진료의뢰서",
+      "deptCd": "ZZZ",
+      "sortSeq": "142"
+    },
+    {
+      "certificateCd": "0159",
+      "certificate": "산정특례 등록신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "143"
+    },
+    {
+      "certificateCd": "0162",
+      "certificate": "건강보험 양압기 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "144"
+    },
+    {
+      "certificateCd": "0163",
+      "certificate": "건강보험 양압기 급여대상자 등록 신청서",
+      "deptCd": "ZZZ",
+      "sortSeq": "145"
+    },
+    {
+      "certificateCd": "0164",
+      "certificate": "의료급여 양압기 처방전",
+      "deptCd": "ZZZ",
+      "sortSeq": "146"
+    },
+    {
+      "certificateCd": "0165",
+      "certificate": "보험급여 당뇨병환자 소모성 재료 처방전(연속혈당측정용 전극용)",
+      "deptCd": "ZZZ",
+      "sortSeq": "147"
+    },
+    {
+      "certificateCd": "0166",
+      "certificate": "의료급여회송서",
+      "deptCd": "ZZZ",
+      "sortSeq": "148"
+    }
+  ]
+}

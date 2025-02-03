@@ -1,0 +1,24 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-23 18:56:44",
+  "bodyType": "ARRAY",
+  "body": [],
+  "data": {
+    "responseCode": "0000",
+    "bioPatient": "고프로",
+    "data": {
+      "caa": 1,
+      "paa": 2,
+      "hea": 3,
+      "rea": 4,
+      "pua": 5,
+      "baa": 6,
+      "aoa": 7,
+      "bfa": 8,
+      "bioBaAge": 9
+    }
+  }
+}

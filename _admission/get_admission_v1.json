@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "patientNm": "이경희",
+      "admissionDt": "20210916",
+      "dischargeDt": "20210922"
+    },
+    {
+      "patientNm": "이경희",
+      "admissionDt": "20211218",
+      "dischargeDt": "20211223"
+    },
+    {
+      "patientNm": "이경희",
+      "admissionDt": "20210524",
+      "dischargeDt": "20210530"
+    },
+    {
+      "patientNm": "이경희",
+      "admissionDt": "20160420",
+      "dischargeDt": "20200420"
+    }
+  ]
+}

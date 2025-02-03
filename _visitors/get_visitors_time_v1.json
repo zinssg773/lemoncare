@@ -1,0 +1,35 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2024-04-25 12:15:00",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+		"availReservationTm": "0900"
+	},
+	{
+		"availReservationTm": "0930"
+	},
+	{
+		"availReservationTm": "1000"
+	},
+	{
+		"availReservationTm": "1030"
+	},
+	{
+		"availReservationTm": "1230"
+	},
+	{
+		"availReservationTm": "1400"
+	},
+	{
+		"availReservationTm": "1500"
+	},
+	{
+		"availReservationTm": "1530"
+	}
+    ]
+}
+

@@ -1,0 +1,38 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "examDt": "2021-09-10",
+      "examTm": null,
+      "examTy": "N",
+      "examCd": "L2019",
+      "examNm": "CBC(Differential count 제외,24H가능)",
+      "location": "어린이병원 1층 소아채혈실",
+      "payYn": "N"
+    },
+    {
+      "examDt": "2021-09-10",
+      "examTm": null,
+      "examTy": "M",
+      "examCd": "RG2011",
+      "examNm": "Chest PA",
+      "location": "어린이병원 1층 소아영상의학과 접수",
+      "payYn": "N"
+    },
+    {
+      "examDt": "2021-09-10",
+      "examTm": null,
+      "examTy": "M",
+      "examCd": "L2019",
+      "examNm": "CBC(Differential count 제외,24H가능)",
+      "location": "어린이병원 1층 소아채혈실",
+      "payYn": "N"
+    }
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnCd": "0001",
+    "returnMsg": "변경/취소하려는 접수정보 조회가 없습니다.\n\n다른창구에서 먼저 변경/취소되었을 가능성이 있으므로 다시한번 조회해 보시기 바랍니다."
+  }
+}

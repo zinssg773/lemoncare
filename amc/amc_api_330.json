@@ -1,0 +1,28 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "dietDt": "20210113",
+      "dietTimeNm": "석식",
+      "dietTitle": "경관유동식 간헐적 [그린비아장솔루션] ",
+      "dietGuide": ""
+    },
+    {
+      "dietDt": "20210113",
+      "dietTimeNm": "조식",
+      "dietTitle": "경관유동식 간헐적 [그린비아장솔루션] ",
+      "dietGuide": ""
+    },
+    {
+      "dietDt": "20210113",
+      "dietTimeNm": "중식",
+      "dietTitle": "경관유동식 간헐적 [그린비아장솔루션] ",
+      "dietGuide": ""
+    }
+  ]
+}

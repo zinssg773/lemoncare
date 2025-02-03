@@ -1,0 +1,27 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "nextLocImgUri": "-",
+      "nextLocNm": "재활의학과",
+      "visitDt": "202110111220",
+      "visitKind": "핵의",
+      "visitMemo": "실시 / 실시일 : 20210908114651 / 참고 : -",
+      "visitTm": "1630"
+    },
+    {
+      "nextLocImgUri": "-",
+      "nextLocNm": "재활의학과",
+      "visitDt": "202112121630",
+      "visitKind": "핵의",
+      "visitMemo": "실시 / 실시일 : 20210908114651 / 참고 : -",
+      "visitTm": "1630"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "elapsedTime": 1,
+    "status": "OK",
+    "errors": [],
+    "message": null,
+    "timestamp": "2023-12-11 14:16:50",
+    "bodyType": "OBJECT",
+    "body": [
+        {
+            "returnCd": "0000",
+            "returnMsg": "입원수속이 정상적으로 진행되었습니다.\r\n금일 전화 안내 받으신 층의 원무창구로\r\n방문하시어 병실 안내 받으시기 바랍니다.\r\n감사합니다."
+        }
+    ]
+}

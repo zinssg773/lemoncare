@@ -1,0 +1,58 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-02-02 09:59:18",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "IME",
+      "deptNm": "내분비대사내과",
+      "doctorId": "13354",
+      "doctorNm": "김병준",
+      "receiptAmt": "52300",
+      "receiptNo": "0010460511",
+      "reservationPath": "기타(연속오더)",
+      "returnCd": "0001",
+      "returnMsg": "에러메세지 테스트",
+      "visitDt": "20230405"
+    },
+    {
+      "deptCd": "LIMR",
+      "deptNm": "호흡기알레르기내과 (호흡기통합진료센터)",
+      "doctorId": "06236",
+      "doctorNm": "정성환",
+      "receiptAmt": "100",
+      "receiptNo": "0014319040",
+      "reservationPath": "기타(연속오더)",
+      "returnCd": "0000",
+      "returnMsg": null,
+      "visitDt": "20240820"
+    },
+    {
+      "deptCd": "OS",
+      "deptNm": "정형외과",
+      "doctorId": "13354",
+      "doctorNm": "김병준",
+      "receiptAmt": "0",
+      "receiptNo": "0010460513",
+      "reservationPath": "기타(연속오더)",
+      "returnCd": "0000",
+      "returnMsg": null,
+      "visitDt": "20230405"
+    },
+    {
+      "deptCd": "OS",
+      "deptNm": "정형외과",
+      "doctorId": "13354",
+      "doctorNm": "김병준",
+      "receiptAmt": "56000",
+      "receiptNo": "0010460513",
+      "reservationPath": "기타(연속오더)",
+      "returnCd": "0000",
+      "returnMsg": null,
+      "visitDt": "20230405"
+    }
+  ]
+}

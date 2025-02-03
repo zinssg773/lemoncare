@@ -1,0 +1,13 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2024-05-17 14:38:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "patientId": "12345678"
+    }
+  ]
+}

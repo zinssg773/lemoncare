@@ -1,0 +1,37 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-23 18:56:44",
+  "bodyType": "ARRAY",
+  "body": [],
+  "data": {
+    "responseCode": "0000",
+    "data": {
+      "items": [
+        {
+          "individualName": "미만",
+          "individualCode": "AAA",
+          "value": -5,
+          "gubun": "age",
+          "unit": 25
+        },
+        {
+          "individualName": "정상",
+          "individualCode": "BBB",
+          "value": 3,
+          "gubun": "age",
+          "unit": 28
+        },
+        {
+          "individualName": "초과",
+          "individualCode": "CCC",
+          "value": 6,
+          "gubun": "age",
+          "unit": 23
+        }
+      ]
+    }
+  }
+}

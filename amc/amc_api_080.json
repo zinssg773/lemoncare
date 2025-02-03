@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnCd": "0001",
+    "returnMsg": "이미 등록된 차량번호입니다"
+  }
+}

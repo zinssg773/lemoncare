@@ -1,0 +1,23 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "availReservationCnt": "1",
+      "availReservationTmType": "2",
+      "availReservationTm": "오전",
+      "availReservationMsg": "해당과는 당일이 아니지만 안내문구가 필요.\r 오전/오후 예약만 가능합니다.\n줄바꿈 처리 확인..."
+    },
+    {
+      "availReservationCnt": "1",
+      "availReservationTmType": "2",
+      "availReservationTm": "오후",
+      "availReservationMsg": "해당과는 당일이 아니지만 안내문구가 필요.\r 오전/오후 예약만 가능합니다.\n줄바꿈 처리 확인..."
+    }
+  ]
+}

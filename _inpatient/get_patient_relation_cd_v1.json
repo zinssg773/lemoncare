@@ -1,0 +1,60 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "comnCd": "0",
+      "comnNm": "본인",
+      "seqNo": "1"
+    },
+    {
+      "comnCd": "1",
+      "comnNm": "배우자",
+      "seqNo": "2"
+    },
+    {
+      "comnCd": "2",
+      "comnNm": "자",
+      "seqNo": "3"
+    },
+    {
+      "comnCd": "3",
+      "comnNm": "부모",
+      "seqNo": "4"
+    },
+    {
+      "comnCd": "4",
+      "comnNm": "조부모",
+      "seqNo": "5"
+    },
+    {
+      "comnCd": "5",
+      "comnNm": "손자",
+      "seqNo": "6"
+    },
+    {
+      "comnCd": "6",
+      "comnNm": "친척",
+      "seqNo": "7"
+    },
+    {
+      "comnCd": "7",
+      "comnNm": "형제",
+      "seqNo": "8"
+    },
+    {
+      "comnCd": "8",
+      "comnNm": "보험회사직원",
+      "seqNo": "9"
+    },
+    {
+      "comnCd": "9",
+      "comnNm": "기타",
+      "seqNo": "10"
+    }
+  ]
+}

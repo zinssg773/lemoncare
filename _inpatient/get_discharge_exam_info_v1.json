@@ -1,0 +1,66 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-01-12 14:00:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "visitDtm": "2022-03-28 (월) 13:30",
+      "location": "본관 1층 영상의학과",
+      "examCtg": "영상예약검사",
+      "examNm": "CT Chest + 3D (noncontrast)",
+      "fastGuide": null,
+      "cautionPoint": null
+    },
+    {
+      "visitDtm": "2022-03-28 (월) 14:00",
+      "location": "별관 B1(지하1층) MRI",
+      "examCtg": "영상예약검사",
+      "examNm": "MRI Chest (contrast)",
+      "fastGuide": "별도\r안내",
+      "cautionPoint": null
+    },
+    {
+      "visitDtm": "2022-03-28 (월)",
+      "location": "본관 1층 영상의학과",
+      "examCtg": "일반영상검사",
+      "examNm": "Chest PA",
+      "fastGuide": null,
+      "cautionPoint": null
+    },
+    {
+      "visitDtm": "2022-04-05 (화) 10:00",
+      "location": "본관 3층 심장초음파실",
+      "examCtg": null,
+      "examNm": "Echocardiography-일반 ",
+      "fastGuide": "별도\r안내",
+      "cautionPoint": "별도안내"
+    },
+    {
+      "visitDtm": "2022-04-05 (화)",
+      "location": "본관 1층 내과계 채혈실",
+      "examCtg": "채혈실검사",
+      "examNm": "Admission Panel (Cholesterol 제외) (검사24시간가능)",
+      "fastGuide": "8시간",
+      "cautionPoint": "8시간 공복 후 채혈"
+    },
+    {
+      "visitDtm": "2022-04-05 (화)",
+      "location": "본관 1층 내과계 채혈실",
+      "examCtg": "채혈실검사",
+      "examNm": "CBC(Diff포함),ESR(검사24시간가능)",
+      "fastGuide": null,
+      "cautionPoint": null
+    },
+    {
+      "visitDtm": "2022-04-05 (화)",
+      "location": "본관 1층 내과계 채혈실",
+      "examCtg": "채혈실검사",
+      "examNm": "Electrolyte Panel-TCO2제외 (검사24시간가능)",
+      "fastGuide": null,
+      "cautionPoint": null
+    }
+  ]
+}

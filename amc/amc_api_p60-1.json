@@ -1,0 +1,19 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "patno": "21676512",
+    "patNm": "나장희",
+    "patBirthdt": "19611115",
+    "sexCd": "M",
+    "rsltCd": "1",
+    "mpnPatno": "",
+    "mpnPatNm": "나장희",
+    "mpnSexCd": "M",
+    "mpnPatBirthdt": "19611115"
+  }
+}

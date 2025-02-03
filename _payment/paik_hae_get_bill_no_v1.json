@@ -1,0 +1,11 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-01-23 19:54:46",
+  "bodyType": "OBJECT",
+  "body": {
+    "billNo": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "availReservationDt": "20240805",
+      "deptNm": "조성진",
+      "doctorNm": "정형외과",
+      "dayCd": "al",
+      "memo": "해당진료일은 외부일정으로 오전진료만 가능합니다."
+    },
+    {
+      "availReservationDt": "20240821",
+      "deptNm": "고영필",
+      "doctorNm": "피부과",
+      "dayCd": "am",
+      "memo": ""
+    },
+    {
+      "availReservationDt": "20240822",
+      "deptNm": "서현",
+      "doctorNm": "성형외과",
+      "dayCd": "pm",
+      "memo": "해당진료일은 외부일정으로 오후진료만 가능합니다."
+    },
+    {
+      "availReservationDt": "20240823",
+      "dayCd": "WEN",
+      "deptNm": "서현",
+      "doctorNm": "성형외과"
+    }
+  ]
+}

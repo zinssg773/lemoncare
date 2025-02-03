@@ -1,0 +1,62 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2022-07-11 16:25:51",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "receiptList": [
+        {
+          "mdrpNo": 202111291229509,
+          "mcdpCd": "101490",
+          "mcrcYmd": "20220711",
+          "mcdpNm": "혈액내과",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 3410,
+          "istyAsstCd": "00",
+          "mddrId": "01240",
+          "ptno": "01545764",
+          "mcclWorkPrkyVl": "20220711596816",
+          "mddrNm": "박용",
+          "mdcrYmd": "20220711"
+        },
+        {
+          "mdrpNo": 202111291229510,
+          "mcdpCd": "101490",
+          "mcrcYmd": "20220711",
+          "mcdpNm": "테스트",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 54300,
+          "istyAsstCd": "00",
+          "mddrId": "01240",
+          "ptno": "01545764",
+          "mcclWorkPrkyVl": "20220711596810",
+          "mddrNm": "박용사",
+          "mdcrYmd": "20220711"
+        },
+        {
+          "mdrpNo": 202111291229510,
+          "mcdpCd": "101490",
+          "mcrcYmd": "20220711",
+          "mcdpNm": "테스트0",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 0,
+          "istyAsstCd": "00",
+          "mddrId": "01240",
+          "ptno": "01545764",
+          "mcclWorkPrkyVl": "20220711596810",
+          "mddrNm": "박용사",
+          "mdcrYmd": "20220711"
+        }
+      ],
+      "unacceptableCd": null,
+      "guideMsg": null,
+      "unacceptableRmk": null
+    }
+  ]
+}

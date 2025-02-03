@@ -1,0 +1,51 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 14:00:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "sequenceNo": "1001",
+      "warfarinExamDt": "20210725",
+      "warfarinInrVal": "2.81",
+      "warfarinInrMg": "1mg->2mg(일 3mg)",
+      "warfarinNextDt": "20210825",
+      "memo": "메모메모메모메모야. 나는 메모메모메모메모야. 나는 지금 테스트중이지111"
+    },
+    {
+      "sequenceNo": "1002",
+      "warfarinExamDt": "20210726",
+      "warfarinInrVal": "2.82",
+      "warfarinInrMg": "2mg->3mg(일 5mg)",
+      "warfarinNextDt": "20210826",
+      "memo": "메모메모메모메모야. 나는 메모메모메모메모야. 나는 지금 테스트중이지222"
+    },
+    {
+      "sequenceNo": "1003",
+      "warfarinExamDt": "20210726",
+      "warfarinInrVal": "2.83",
+      "warfarinInrMg": "1mg->3mg(일 7mg)",
+      "warfarinNextDt": "20210826",
+      "memo": "메모메모메모메모야. 나는 메모메모메모메모야. 나는 지금 테스트중이지333. 중간이니까 좀 많이 길게 가볼까나????"
+    },
+    {
+      "sequenceNo": "1004",
+      "warfarinExamDt": "20210726",
+      "warfarinInrVal": "2.84",
+      "warfarinInrMg": "2mg->3mg(일 5mg)",
+      "warfarinNextDt": "20210826",
+      "memo": "메모메모메모메모야. 나는 메모메모메모메모야. 나는 지금 테스트중이지444"
+    },
+    {
+      "sequenceNo": "1005",
+      "warfarinExamDt": "20210727",
+      "warfarinInrVal": "2.85",
+      "warfarinInrMg": "4mg->6mg(일 9mg)",
+      "warfarinNextDt": "20210826",
+      "memo": "메모메모메모메모야. 나는 메모메모메모메모야. 나는 지금 테스트중이지555"
+    }
+  ]
+}

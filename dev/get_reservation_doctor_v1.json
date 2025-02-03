@@ -1,0 +1,46 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20020023",
+      "doctorNm": "Steve",
+      "majorPartNm": "척추:디스크.노인성 척추질환.측만증 및 후만 변형(목,허리)",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20150194",
+      "doctorNm": "John",
+      "majorPartNm": "반월상 연골판 이식술.슬관절.스포츠손상",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20040034",
+      "doctorNm": "cindy",
+      "majorPartNm": "손.손목 및 팔꿈치 관절(관절경 수술)",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20180056",
+      "doctorNm": "hong",
+      "majorPartNm": "고관절(엉덩이) 인공관절 수술.고관절(엉덩이) 보존수술.골다공증.노인성골절",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20110223",
+      "doctorNm": "kim",
+      "majorPartNm": "어깨 및 팔꿈치 관절",
+      "specialYn": "N"
+    }
+  ]
+}

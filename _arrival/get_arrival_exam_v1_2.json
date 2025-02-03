@@ -1,0 +1,55 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+        "examDt": "2024-03-19",
+        "examTm": "11:00",
+        "examCd": "KL1100",
+        "examNm": "ECG",
+        "location": "대한외래 B3(지하3층) 심전도실",
+        "payYn": "N",
+        "examTy": "M"
+    },
+    {
+        "examDt": "2024-03-19",
+        "examTm": "11:00",
+        "examCd": "RG7051L",
+        "examNm": "Ankle Lt AP",
+        "location": "본관 1층 영상의학과",
+        "payYn": "N",
+        "examTy": "M"
+    },
+    {
+        "examDt": "2024-03-19",
+        "examTm": "11:00",
+        "examCd": "RG2011",
+        "examNm": "Chest PA",
+        "location": "본관 1층 영상의학과",
+        "payYn": "N",
+        "examTy": "N"
+    },
+    {
+        "examDt": "2024-03-19",
+        "examTm": "12:00",
+        "examCd": "L2019",
+        "examNm": "CBC(Differential count 제외,24H가능)",
+        "location": "본관 1층 내과계 채혈실",
+        "payYn": "N",
+        "examTy": "N"
+    },
+    {
+        "examDt": "2024-03-19",
+        "examTm": "12:00",
+        "examCd": "L30011",
+        "examNm": "Admission Panel (Cholesterol 제외) (검사24시간가능)",
+        "location": "본관 1층 내과계 채혈실",
+        "payYn": "N",
+        "examTy": "N"
+    }
+]
+}

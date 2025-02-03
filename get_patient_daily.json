@@ -1,0 +1,14 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 14:00:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "decryptPatientId": "T0001808",
+      "dailyPatientId": null
+    }
+  ]
+}

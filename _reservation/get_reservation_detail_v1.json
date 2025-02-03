@@ -1,0 +1,101 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "000240",
+      "deptNm": "내분비대사내과",
+      "doctorId": "20030057",
+      "doctorNm": "김동림",
+      "payYn": "Y",
+      "receiptKindNm": "X",
+      "receiptNo": "2",
+      "reservationDt": "20210117",
+      "reservationPath": "모바일",
+      "reservationTm": "1400",
+      "onlineChatUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDVlMjlhMjgtNGM1MC00ZTU0LWI4YzItNzZiMWRlZGYzMmU0%40thread.v2/0?context=%7b%22Tid%22%3a%220591b0eb-0fca-4bd9-9e01-da961c8da8b8%22%2c%22Oid%22%3a%22757cbcad-292e-4d3a-b747-ec2b182f0e48%22%7d"
+    },
+    {
+      "deptCd": "000255",
+      "deptNm": "감염내과",
+      "doctorId": "20050025",
+      "doctorNm": "기현균",
+      "payYn": "N",
+      "receiptKindNm": "N",
+      "receiptNo": "1",
+      "reservationDt": "20210117",
+      "reservationPath": "모바일",
+      "reservationTm": "1530",
+      "onlineChatUrl": ""
+    },
+    {
+      "deptCd": "000320",
+      "deptNm": "성형외과",
+      "doctorId": "20010023",
+      "doctorNm": "신동혁",
+      "payYn": "N",
+      "receiptKindNm": "C",
+      "receiptNo": "1",
+      "reservationDt": "20210118",
+      "reservationPath": "모바일",
+      "reservationTm": "0928",
+      "onlineChatUrl": ""
+    },
+    {
+      "deptCd": "000516",
+      "deptNm": "가정의학과",
+      "doctorId": "20060051",
+      "doctorNm": "최재경",
+      "payYn": "N",
+      "receiptKindNm": "C",
+      "receiptNo": "1",
+      "reservationDt": "20210129",
+      "reservationPath": "모바일",
+      "reservationTm": "0920",
+      "onlineChatUrl": ""
+    },
+    {
+      "deptCd": "000240",
+      "deptNm": "내분비대사내과",
+      "doctorId": "20040127",
+      "doctorNm": "김숙경",
+      "payYn": "N",
+      "receiptKindNm": "N",
+      "receiptNo": "1",
+      "reservationDt": "20210201",
+      "reservationPath": "모바일",
+      "reservationTm": "0855",
+      "onlineChatUrl": ""
+    },
+    {
+      "deptCd": "000224",
+      "deptNm": "호흡기·알레르기내과",
+      "doctorId": "20010025",
+      "doctorNm": "유광하",
+      "payYn": "Y",
+      "receiptKindNm": "N",
+      "receiptNo": "2",
+      "reservationDt": "20210304",
+      "reservationPath": "과예약",
+      "reservationTm": "1022",
+      "onlineChatUrl": ""
+    },
+    {
+      "deptCd": "000204",
+      "deptNm": "심장혈관내과",
+      "doctorId": "20050040",
+      "doctorNm": "김현중",
+      "payYn": "Y",
+      "receiptKindNm": "N",
+      "receiptNo": "2",
+      "reservationDt": "20210304",
+      "reservationPath": "과예약",
+      "reservationTm": "1200",
+      "onlineChatUrl": ""
+    }
+  ]
+}

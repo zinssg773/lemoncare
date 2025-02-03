@@ -1,0 +1,40 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "deptCd": "000250",
+      "deptNm": "류마티스내과",
+      "doctorId": "20050039",
+      "doctorNm": "신하재",
+      "reservationTm": "0850",
+      "visitDt": "20230328",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "deptCd": "000204",
+      "deptNm": "심장혈관내과",
+      "doctorId": "20050040",
+      "doctorNm": "신주구",
+      "reservationTm": "0855",
+      "visitDt": "20230328",
+      "visitStatusCd": "C",
+      "receiptNo": "-"
+    },
+    {
+      "deptCd": "000340",
+      "deptNm": "안과",
+      "doctorId": "20100152",
+      "doctorNm": "가자호",
+      "reservationTm": "1000",
+      "visitDt": "20230328",
+      "visitStatusCd": "A",
+      "receiptNo": "-"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "basicPackCd": "WGCD001",
+      "basicPackNm": "기본건강진단"
+    },
+    {
+      "basicPackCd": "WGCD002",
+      "basicPackNm": "암전문건강진단"
+    },
+    {
+      "basicPackCd": "WGCD003",
+      "basicPackNm": "생활습관 전문건강진단"
+    },
+    {
+      "basicPackCd": "WGCD004",
+      "basicPackNm": "1일 정밀"
+    },
+    {
+      "basicPackCd": "WGCD005",
+      "basicPackNm": "숙박정밀"
+    },
+    {
+      "basicPackCd": "WGCD006",
+      "basicPackNm": "1030 건강진단"
+    },
+    {
+      "basicPackCd": "WGCD007",
+      "basicPackNm": "웰빙시니어"
+    }
+  ]
+}

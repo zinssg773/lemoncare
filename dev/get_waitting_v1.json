@@ -1,0 +1,23 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "visitDt" : "20220910",
+      "visitTm" : "2000",
+      "deptCd": "000516",
+      "deptNm": "Ophthalmology",
+      "doctorId": "20060051",
+      "doctorNm": "douglas",
+      "visitStatusCd": "A",
+      "rankingSeq": "3",
+      "delayTm": "1000",
+      "memo": ""
+    }
+  ]
+}

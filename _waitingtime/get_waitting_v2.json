@@ -1,0 +1,36 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "visitDt" : "20210910",
+      "visitTm" : "2000",
+      "deptCd": "000516",
+      "deptNm": "가정의학과",
+      "doctorId": "20060051",
+      "doctorNm": "최재경",
+      "visitStatusCd": "A",
+      "rankingSeq": "3",
+      "delayTm": "1000",
+      "location": "가야할위치정보",
+      "dailyPatientId": "A1234"
+    },
+    {
+      "visitDt" : "20210910",
+      "visitTm" : "2100",
+      "deptCd": "000516",
+      "deptNm": "흉부외과",
+      "doctorId": "20060051",
+      "doctorNm": "아무개",
+      "visitStatusCd": "A",
+      "rankingSeq": "3",
+      "delayTm": "1000",
+      "location": "가야할위치정보",
+      "dailyPatientId": "A1234"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+    "elapsedTime": 0,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2024-05-08 15:24:50",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "id": 300,
+            "hospitalCd": "38100509",
+            "hospitalName": "양산부산대학교병원",
+            "name": "하이패스 이용약관 동의",
+            "type": "HIPASS_PAY",
+            "order": null,
+            "version": 1,
+            "contents": "textcontents1",
+            "required": true
+        },
+        {
+            "id": 280,
+            "hospitalCd": "38100509",
+            "hospitalName": "양산부산대학교병원",
+            "name": "고유식별정보 제3자 제공 동의",
+            "type": "HIPASS_PAY_THIRD_PARTY_USE",
+            "order": null,
+            "version": 1,
+            "contents": "textcontents2",
+            "required": true
+        },
+        {
+            "id": 281,
+            "hospitalCd": "38100509",
+            "hospitalName": "양산부산대학교병원",
+            "name": "개인정보 수집 및 이용 동의",
+            "type": "HIPASS_PAY_PERSONAL_INFORMATION",
+            "order": null,
+            "version": 1,
+            "contents": "textcontents3",
+            "required": true
+        },
+        {
+            "id": 282,
+            "hospitalCd": "38100509",
+            "hospitalName": "양산부산대학교병원",
+            "name": "개인정보 수집 및 이용 동의(하이패스환자조회)_가족등록시에만노출!!",
+            "type": "HIPASS_PROXY_PERSONAL_INFORMATION",
+            "order": null,
+            "version": 1,
+            "contents": "textcontents4",
+            "required": true
+        },
+        {
+            "id": 283,
+            "hospitalCd": "38100509",
+            "hospitalName": "양산부산대학교병원",
+            "name": "개인정보 제3자 제공동의(기존에있던 약관)",
+            "type": "HOSPITAL_PERSONAL_INFORMATION_THIRD_PARTY",
+            "order": null,
+            "version": 1,
+            "contents": "textcontents5",
+            "required": true
+        }
+    ]
+}

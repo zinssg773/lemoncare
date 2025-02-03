@@ -1,0 +1,13 @@
+{"elapsedTime":1,"status":"OK","errors":[],"message":"","timestamp":"2019-01-23 19:54:46","bodyType":"ARRAY","body":[
+  {
+    "DEPTCD": "CVRO",
+    "DEPTNM": "건강보험중증환자/암질환",
+    "DOCTORID": "12130",
+    "DOCTORNM": "홍길동",
+    "PATIENTNM": "이순신",
+    "RETURNCD": "0000",
+    "RETURNMSG": "",
+    "VISITDT": "2021-02-30",
+    "VISITTM": "1020"
+  }
+]}

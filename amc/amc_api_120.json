@@ -1,0 +1,373 @@
+
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-07-30 15:56:44",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "deptCd": "FM",
+      "deptNm": "가정의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "HBP",
+      "deptNm": "간담도췌외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "LTS",
+      "deptNm": "간이식및간담도외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "INF",
+      "deptNm": "감염내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "HM",
+      "deptNm": "건강의학과",
+      "reservationYn": "N"
+    },
+    {
+      "deptCd": "INT",
+      "deptNm": "국제진료센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "END",
+      "deptNm": "내분비내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ES",
+      "deptNm": "내분비외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "GIM",
+      "deptNm": "노년내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "CRS",
+      "deptNm": "대장항문외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "RHE",
+      "deptNm": "류마티스내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ANS",
+      "deptNm": "마취통증의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "RO",
+      "deptNm": "방사선종양학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "URO",
+      "deptNm": "비뇨의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "MBC",
+      "deptNm": "비만대사통합진료센터",
+      "reservationYn": "N"
+    },
+    {
+      "deptCd": "OBY",
+      "deptNm": "산부인과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PS",
+      "deptNm": "성형외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PID",
+      "deptNm": "소아감염과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PEM",
+      "deptNm": "소아내분비대사과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PUR",
+      "deptNm": "소아비뇨의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PGN",
+      "deptNm": "소아소화기 영양과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PNR",
+      "deptNm": "소아신경과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PNS",
+      "deptNm": "소아신경외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "NEO",
+      "deptNm": "소아신생아과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "NEP",
+      "deptNm": "소아신장과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PCS",
+      "deptNm": "소아심장외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PEY",
+      "deptNm": "소아안과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "SP",
+      "deptNm": "소아외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PRM",
+      "deptNm": "소아재활의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PPS",
+      "deptNm": "소아정신건강의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "POS",
+      "deptNm": "소아정형외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PCC",
+      "deptNm": "소아중환자과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "CAA",
+      "deptNm": "소아천식.아토피센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PCD",
+      "deptNm": "소아청소년심장과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PAM",
+      "deptNm": "소아청소년전문과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PHO",
+      "deptNm": "소아청소년종양혈액과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PDN",
+      "deptNm": "소아치과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PPA",
+      "deptNm": "소아호흡기 알레르기과",
+      "reservationYn": "N"
+    },
+    {
+      "deptCd": "GI",
+      "deptNm": "소화기내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "HOS",
+      "deptNm": "수부외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "SPC",
+      "deptNm": "스트레스 상담센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "SMC",
+      "deptNm": "스포츠건강의학센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "KT",
+      "deptNm": "신.췌장이식외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "NR",
+      "deptNm": "신경과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "NS",
+      "deptNm": "신경외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "NPH",
+      "deptNm": "신장내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "CV",
+      "deptNm": "심장내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "OPH",
+      "deptNm": "안과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ALG",
+      "deptNm": "알레르기내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ACC",
+      "deptNm": "암통합진료센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "DR",
+      "deptNm": "영상의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ST",
+      "deptNm": "위장관외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "BR",
+      "deptNm": "유방외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "EM",
+      "deptNm": "응급의학과",
+      "reservationYn": "N"
+    },
+    {
+      "deptCd": "MG",
+      "deptNm": "의학유전학센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ENT",
+      "deptNm": "이비인후과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "CPT",
+      "deptNm": "임상약리학과",
+      "reservationYn": "N"
+    },
+    {
+      "deptCd": "RM",
+      "deptNm": "재활의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PSY",
+      "deptNm": "정신건강의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "OS",
+      "deptNm": "정형외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ONC",
+      "deptNm": "종양내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ACS",
+      "deptNm": "중환자.외상외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "SCO",
+      "deptNm": "척추측만증센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "ASC",
+      "deptNm": "천식·COPD센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "DNT",
+      "deptNm": "치과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PHT",
+      "deptNm": "폐고혈압.정맥혈전센터",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "DER",
+      "deptNm": "피부과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "NM",
+      "deptNm": "핵의학과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "VAS",
+      "deptNm": "혈관외과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "HEM",
+      "deptNm": "혈액내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "PLM",
+      "deptNm": "호흡기내과",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "CS",
+      "deptNm": "흉부외과",
+      "reservationYn": "Y"
+    }
+  ]
+}
+
+

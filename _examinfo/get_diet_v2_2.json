@@ -1,0 +1,29 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+        "patientNm": "김민호",
+        "admissionDt": "20230612",
+        "deptCd": "CM",
+        "deptNm": "호흡기내과",
+        "wardNm": "152",
+        "roomNm": "N1552",
+        "dietDt": "20230823",
+        "dietKindNm": "자가식",
+        "dietTimeNm": "저녁",
+        "dietTimeCd": "3",
+        "dietGuide": "",
+        "sequenceNo": "3721275326",
+        "dietPhoto": null,
+        "dietChoiceYn": "N",
+        "dietChoiceCls": "N",
+        "choiceTimeMemo": null,
+        "dietChoiceChk": "Y"
+    }
+  ]
+}

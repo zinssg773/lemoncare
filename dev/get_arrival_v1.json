@@ -1,0 +1,30 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "deptCd": "000250",
+      "deptNm": "Ophthalmology",
+      "doctorId": "20050039",
+      "doctorNm": "douglas",
+      "reservationTm": "0850",
+      "visitDt": "20220830",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "deptCd": "000250",
+      "deptNm": "Ophthalmology",
+      "doctorId": "20050039",
+      "doctorNm": "douglas",
+      "reservationTm": "0850",
+      "visitDt": "20220901",
+      "visitStatusCd": "A",
+      "receiptNo": "-"
+    }
+  ]
+}

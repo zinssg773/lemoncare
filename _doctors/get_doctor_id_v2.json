@@ -1,0 +1,29 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "academicBg": null,
+      "centerCd": null,
+      "centerNm": null,
+      "clinicCd": null,
+      "clinicNm": null,
+      "deptCd": "000312",
+      "deptNm": "정형외과",
+      "deptSeq": null,
+      "doctorId": "20020023",
+      "doctorNm": "이석하",
+      "doctorNmEng": null,
+      "profilePhotoUrl": null,
+      "reservationYn": "Y",
+      "scheduleYn": null,
+      "specialYn": "N",
+      "specialty": "척추:디스크.노인성 척추질환.측만증 및 후만 변형(목,허리)"
+    }
+  ]
+}

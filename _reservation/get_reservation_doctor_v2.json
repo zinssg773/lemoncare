@@ -1,0 +1,102 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20020023",
+      "doctorNm": "이석하",
+      "majorPartNm": "척추:디스크.노인성 척추질환.측만증 및 후만 변형(목,허리)",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20150194",
+      "doctorNm": "김진구",
+      "majorPartNm": "반월상 연골판 이식술.슬관절.스포츠손상",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20040034",
+      "doctorNm": "이승준",
+      "majorPartNm": "손.손목 및 팔꿈치 관절(관절경 수술)",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20180056",
+      "doctorNm": "김태영",
+      "majorPartNm": "고관절(엉덩이) 인공관절 수술.고관절(엉덩이) 보존수술.골다공증.노인성골절",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20110223",
+      "doctorNm": "오경수",
+      "majorPartNm": "어깨 및 팔꿈치 관절",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20120516",
+      "doctorNm": "정석원",
+      "majorPartNm": "어깨.팔꿈치 관절:오십견.회전근개 질환.테니스 엘보우.스포츠 손상 및 외상.관절경 전문",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20170245",
+      "doctorNm": "손인석",
+      "majorPartNm": "척추.정형외과 일반진료",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20170247",
+      "doctorNm": "이동원",
+      "majorPartNm": "무릎관절염.인공관절수술.줄기세포치료",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20130072",
+      "doctorNm": "기세영",
+      "majorPartNm": "어깨.정형외과 일반진료",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20180135",
+      "doctorNm": "오승목",
+      "majorPartNm": "무릎.정형외과 일반진료",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20180325",
+      "doctorNm": "이재일",
+      "majorPartNm": "무릎.정형외과 일반진료",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20180140",
+      "doctorNm": "장한길",
+      "majorPartNm": "무릎.정형외과 일반진료",
+      "specialYn": "N"
+    },
+    {
+      "deptNm": "정형외과",
+      "doctorId": "20180143",
+      "doctorNm": "정승희",
+      "majorPartNm": "무릎.정형외과 일반진료",
+      "specialYn": "N"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "IPHSADDT": "20210121",
+      "IPHSBSSG": "N",
+      "IPHSDEPT": "ABBLAA",
+      "IPHSDOCT": "20201695",
+      "IPHSDPNM": "감염내과",
+      "IPHSIDNO": "00000001",
+      "IPHSKIND": "51",
+      "IPHSMSCS": "M",
+      "IPHSSBKD": "-",
+      "T_ADPYPREC": 21520,
+      "T_ISCLAPAY": 3811120
+    },
+	{
+      "IPHSADDT": "20240921",
+      "IPHSBSSG": "N",
+      "IPHSDEPT": "ABBLAA",
+      "IPHSDOCT": "20201695",
+      "IPHSDPNM": "방사선과",
+      "IPHSIDNO": "00000001",
+      "IPHSKIND": "51",
+      "IPHSMSCS": "M",
+      "IPHSSBKD": "-",
+      "T_ADPYPREC": 21520,
+      "T_ISCLAPAY": 811120
+    }
+  ]
+}

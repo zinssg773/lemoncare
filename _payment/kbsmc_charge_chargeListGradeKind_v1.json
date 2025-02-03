@@ -1,0 +1,31 @@
+{
+    "elapsedTme": 0,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "tmestamp": "2024-01-24 16:39:56",
+    "bodyType": "OBJECT",
+    "body": [{
+        "S_CODE10": "",
+        "S_CODE1": "",
+        "S_CODE2": "OA121444",
+        "S_CODE3": "test",
+        "S_CODE4": "OA121555",
+        "S_CODE5": "",
+        "S_CODE6": "DRE_TEST",
+        "S_CODE7": "",
+        "S_CODE8": "",
+        "S_CODE9": "",
+        "S_DATE1": "",
+        "S_FROMDATE": "2024-01-01",
+        "S_NAME1": "A11",
+        "S_NAME2": "",
+        "S_NAME3": "OA121222",
+        "S_NAME4": "OA121333",
+        "S_RCPDATE": "2024-06-25",
+        "S_STAT1": "Y",
+        "S_TODATE": "2024-01-23",
+        "S_TYPE1": "I",
+        "S_TYPE2": "OA121"
+    }]
+}

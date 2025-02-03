@@ -1,0 +1,25 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "birthDt": "19821020",
+      "cellphoneNo": "010-1234-5678",
+      "gender": "M",
+      "inHospitalYn": null,
+      "patientNm": "정진석",
+      "engPatientNm": "JUNG JINSUK",
+      "vehicleNo": null,
+      "zipCd": "08506",
+      "zipCdTxt": "서울시 금천구 가산디지털1로 145(에이스하이엔드타워 3차)",
+      "address": "1005호",
+      "roadNameCd": "1234",
+      "buildingCd": "ABCD"
+    }
+  ]
+}

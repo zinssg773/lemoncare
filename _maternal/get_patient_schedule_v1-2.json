@@ -1,0 +1,20 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-08-12 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "OB",
+      "deptNm": "산부인과",
+      "doctorId": "0108332",
+      "doctorNm": "권자영",
+      "admissDayNo": "2",
+      "requestDataDt": "20220817",
+      "admissGuide": "주치의 회진이 오후에 있습니다.\n금일 석식부터 금식입니다.",
+      "admissGuideUrl": "http://www.naver.com"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "elapsedTime": 1,
+    "status": "OK",
+    "errors": [],
+    "message": null,
+    "timestamp": "2023-12-26 14:14:55",
+    "bodyType": "OBJECT",
+    "body": [
+        {
+            "hospitalCd": null,
+            "hospitalClsNo": null,
+            "deptSeq": null,
+            "deptCd": null,
+            "deptNm": null,
+            "deptCls": null,
+            "deptClsNm": null,
+            "scheduleYn": null,
+            "clinicCd": null,
+            "clinicNm": null,
+            "centerCd": null,
+            "centerNm": null,
+            "doctorId": null,
+            "specialYn": null,
+            "reservationYn": null,
+            "academicBg": null,
+            "specialty": "폐렴, 모세기관지염, 뇌막염, 임파선염, 급성부비동염, 급성중이염, 여행자감염, 패혈증, 수족구병, 성홍열, 결핵, 열(발열), 발진, 예방접종(일반, 항암/이식환자), 가와사키",
+            "doctorNmEng": null,
+            "doctorNm": null,
+            "profilePhotoUrl": null,
+            "phoneNo": null
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "bldNm": "동관",
+      "fileNm": "가정의학과.jpg",
+      "filePath": "/location/동관1층/",
+      "floor": "1F",
+      "gbnNm": "진료과",
+      "locDesc": "동관 1층 정문 > 동관 후문 방향 > 좌측 방향 > 가정의학과",
+      "locNm": "가정의학과",
+      "titleNm": "동관1층 가정의학과"
+    }
+  ]
+}

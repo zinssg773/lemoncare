@@ -1,0 +1,161 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 3,
+      "mealNm": "식단테스트1",
+      "mealNum": 1,
+      "patientId": "00000000",
+      "regDt": "2018-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 1.36,
+      "mealCount": 3,
+      "mealNm": "3:1",
+      "mealNum": 1,
+      "patientId": "00000000",
+      "regDt": "2018-10-23",
+      "totalAmout": 3,
+      "totalKcal": 7.53
+    },
+    {
+      "ketonRate": 0.12,
+      "mealCount": 6,
+      "mealNm": "자주쓰는식단",
+      "mealNum": 2,
+      "patientId": "00000000",
+      "regDt": "2018-10-02",
+      "totalAmout": 205,
+      "totalKcal": 46.08
+    },
+    {
+      "ketonRate": 0.46,
+      "mealCount": 3,
+      "mealNm": "343",
+      "mealNum": 2,
+      "patientId": "00000000",
+      "regDt": "2018-10-23",
+      "totalAmout": 43,
+      "totalKcal": 25.37
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 3,
+      "mealNm": "식단테스트1",
+      "mealNum": 3,
+      "patientId": "00000000",
+      "regDt": "2018-10-02",
+      "totalAmout": 60,
+      "totalKcal": 552
+    },
+    {
+      "ketonRate": 0.15,
+      "mealCount": 6,
+      "mealNm": "병원 식단2",
+      "mealNum": 4,
+      "patientId": "00000000",
+      "regDt": "2018-10-02",
+      "totalAmout": 68,
+      "totalKcal": 1872.72
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 6,
+      "mealNm": "식단xp",
+      "mealNum": 1,
+      "patientId": "00000000",
+      "regDt": "2019-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 6,
+      "mealNm": "식단xp",
+      "mealNum": 2,
+      "patientId": "00000000",
+      "regDt": "2019-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 6,
+      "mealNm": "식단xp",
+      "mealNum": 3,
+      "patientId": "00000000",
+      "regDt": "2019-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 6,
+      "mealNm": "식단xp",
+      "mealNum": 4,
+      "patientId": "00000000",
+      "regDt": "2019-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 6,
+      "mealNm": "식단xp",
+      "mealNum": 5,
+      "patientId": "00000000",
+      "regDt": "2019-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 6,
+      "mealNm": "식단테스트1",
+      "mealNum": 6,
+      "patientId": "00000000",
+      "regDt": "2019-10-02",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 3,
+      "mealNm": "헤룽",
+      "mealNum": 1,
+      "patientId": "00000000",
+      "regDt": "2019-10-15",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 3,
+      "mealNm": "헤룽",
+      "mealNum": 3,
+      "patientId": "00000000",
+      "regDt": "2019-10-15",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    },
+    {
+      "ketonRate": 2854.21,
+      "mealCount": 3,
+      "mealNm": "헤룽",
+      "mealNum": 6,
+      "patientId": "00000000",
+      "regDt": "2019-10-15",
+      "totalAmout": 60,
+      "totalKcal": 828.9
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2024-02-21 10:10:00",
+  "bodyType": "OBJECT",
+  "body": {
+    "patientNm": "김철수",
+    "birthDt": "19800101",
+    "deptNm": "내과",
+    "doctorId": "12345678",
+    "doctorNm": "이경희",
+    "admissionDt": "20240221",
+    "wardNm": "21병동",
+    "roomNm": "204호",
+    "memo": "테스트 메모",
+    "admissionRegYn": "N",
+    "telNumCnt": "2",
+    "addrAddYn": "Y",
+    "admissionFactAddYn": "Y",
+    "signAddYn": "Y",
+    "admissionChkCd": "Y",
+    "returnMsg": "테스트 메시지"
+  }
+}

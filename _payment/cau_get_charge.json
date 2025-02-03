@@ -1,0 +1,43 @@
+{"elapsedTime":1,"status":"OK","errors":[],"message":"","timestamp":"2019-01-23 19:54:46","bodyType":"ARRAY","body":[
+
+    {
+      "calculationDt": "20190125",
+      "deptCd": "GI",
+      "deptNm": "소화기내과",
+      "doctorId": "008281",
+      "doctorNm": "최창환",
+      "errorMsg": "",
+      "insuranceCd": "H",
+      "intermediatePayEndDt": null,
+      "intermediatePayStDt": null,
+      "patientNm": "이명자",
+      "prescriptionIntCnt": "12",
+      "prescriptionOutCnt": "12",
+      "privacyYN": "N",
+      "receiptNo": "20190125001",
+      "receiveTy": "선납",
+      "reservationTrtAmtYn": "N",
+      "visitDt": "20190201",
+      "visitTm": "102800"
+    },
+  {
+    "calculationDt": "20190126",
+    "deptCd": "G2",
+    "deptNm": "소화기내과2",
+    "doctorId": "008281",
+    "doctorNm": "최창환",
+    "errorMsg": "",
+    "insuranceCd": "H",
+    "intermediatePayEndDt": null,
+    "intermediatePayStDt": null,
+    "patientNm": "이명자",
+    "prescriptionIntCnt": "0",
+    "prescriptionOutCnt": "0",
+    "privacyYN": "N",
+    "receiptNo": "20190125002",
+    "receiveTy": "선납",
+    "reservationTrtAmtYn": "N",
+    "visitDt": "20190202",
+    "visitTm": "102800"
+  }
+]}

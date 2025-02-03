@@ -1,0 +1,78 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-03-15 10:29:58",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "multicastId": "511af649-0e4e-11e9-b2ee-f220cd72abd2",
+      "requestDate": "2019-01-02 14:21:54",
+      "sendDate": "2019-01-02 14:21:55",
+      "patientId": "00548801",
+      "results": "[{message_id=0:1546406514495594%16a29a0816a29a08}, {message_id=0:1546406514516688%16a29a0816a29a08}, {message_id=0:1546406514476036%16a29a0816a29a08}, {message_id=0:1546406514465753%3b7dada13b7dada1}]",
+      "success": 4,
+      "failure": 0,
+      "contents":"{\"notification\":{\"regDt\":\"2022-08-24 16:37:35\",\"body\":\"http테스트 https://www.naver.com/\\nhttps://www.naver.com/\"},\"data\":{\"notiType\":0,\"hospitalCd\":\"21100063\"},\"registration_ids\":[\"ePzoaVhWS04GliXkVevQUt:APA91bGj_1l7lCagmhVB1Poo1FBfUbi4njDP0Eu7BMqii-HABd9RjIGyRLLCoN-z1D_FW98tA8akeMtGy8SYDhV-HNrQ-LvyU3sycFNcg08K_UThrM7fcObVJRayjZmK6WoCSKT4VpHM\"]}",
+      "hospitalCd": "11100435",
+      "hospitalName": "건국대병원",
+      "groupDate": [
+        2019,
+        1,
+        2
+      ]
+    },
+    {
+      "multicastId": "af6fa42b-0f20-11e9-b2ee-f220cd72abd2",
+      "requestDate": "2019-01-03 15:27:47",
+      "sendDate": "2019-01-03 15:27:47",
+      "patientId": "00548801",
+      "results": "[{message_id=0:1546496867052184%16a29a0816a29a08}, {message_id=0:1546496867033607%16a29a0816a29a08}, {message_id=0:1546496867060208%16a29a0816a29a08}, {message_id=0:1546496867023609%16a29a0816a29a08}, {message_id=0:1546496867026521%16a29a0816a29a08}, {message_id=0:1546496867051826%16a29a0816a29a08}, {message_id=0:1546496867096997%16a29a0816a29a08}, {error=NotRegistered}, {message_id=0:1546496867032903%3b7dada13b7dada1}]",
+      "success": 8,
+      "failure": 1,
+      "contents":"{\"notification\":{\"regDt\":\"2022-08-12 17:07:05\",\"body\":\"알림 메세지<br><span>메뉴 테스트</span>\",\"title\":\"알림메세지\"},\"data\":{\"notiType\":1,\"hospitalCd\":\"21100063\",\"uri\":\"menu.%EC%95%8C%EB%A6%BC%EB%A9%94%EC%84%B8%EC%A7%80\"},\"registration_ids\":[\"dF6P8HL6bos:APA91bGKHxI3i0voupllWccRtSPxg4YReF9D76PiNv4oTTuEYjlcn1_LuglOAG3SNV019Hp6qvoxFRe3YvV3C87d4J5k1JCbsJhAbozsl_WTxew0ED6gg0dK8NuIjdWUb6kNhwawrQKP\"]}",
+      "hospitalCd": "11100435",
+      "hospitalName": "건국대병원",
+      "groupDate": [
+        2019,
+        1,
+        3
+      ]
+    },
+    {
+      "multicastId": "cb972c47-1580-11e9-a802-f220cd72abd2",
+      "requestDate": "2019-01-11 18:10:53",
+      "sendDate": "2019-01-11 18:10:54",
+      "patientId": "00548801",
+      "results": "[{error=MismatchSenderId}, {error=MismatchSenderId}, {error=MismatchSenderId}, {error=MismatchSenderId}, {message_id=0:1547197853514084%16a29a0816a29a08}, {message_id=0:1547197853451645%16a29a0816a29a08}, {message_id=0:1547197853483007%16a29a0816a29a08}, {message_id=0:1547197853524730%16a29a0816a29a08}, {message_id=0:1547197853493567%16a29a0816a29a08}, {error=NotRegistered}, {message_id=0:1547197853498802%16a29a0816a29a08}, {message_id=0:1547197853461705%16a29a0816a29a08}, {error=NotRegistered}, {message_id=0:1547197853466980%16a29a0816a29a08}, {message_id=0:1547197853478025%16a29a0816a29a08}, {error=NotRegistered}, {message_id=0:1547197853461779%3b7dada13b7dada1}, {message_id=0:1547197853474632%3b7dada13b7dada1}, {error=NotRegistered}]",
+      "success": 11,
+      "failure": 8,
+      "contents":"{\"notification\":{\"regDt\":\"2022-08-12 14:52:23\",\"body\":\"test2\",\"title\":\"진료비결제\"},\"data\":{\"notiType\":1,\"hospitalCd\":\"21100063\",\"uri\":\"menu.%EC%A7%84%EB%A3%8C%EB%B9%84%EA%B2%B0%EC%A0%9C\"},\"registration_ids\":[\"ePzoaVhWS04GliXkVevQUt:APA91bGj_1l7lCagmhVB1Poo1FBfUbi4njDP0Eu7BMqii-HABd9RjIGyRLLCoN-z1D_FW98tA8akeMtGy8SYDhV-HNrQ-LvyU3sycFNcg08K_UThrM7fcObVJRayjZmK6WoCSKT4VpHM\"]}",
+      "hospitalCd": "11100435",
+      "hospitalName": "건국대병원",
+      "groupDate": [
+        2019,
+        1,
+        11
+      ]
+    },
+    {
+      "multicastId": "d591e9da-0e51-11e9-b2ee-f220cd72abd2",
+      "requestDate": "2019-01-02 14:47:05",
+      "sendDate": "2019-01-02 14:47:06",
+      "patientId": "00548801",
+      "results": "[{message_id=0:1546408025189141%16a29a0816a29a08}, {message_id=0:1546408025177996%16a29a0816a29a08}, {message_id=0:1546408025189920%16a29a0816a29a08}, {message_id=0:1546408025205314%16a29a0816a29a08}, {message_id=0:1546408025176820%16a29a0816a29a08}, {message_id=0:1546408025182964%3b7dada13b7dada1}]",
+      "success": 6,
+      "failure": 0,
+      "contents": "{\"data\":{},\"notification\":{\"body\":\"TEST중입니다 작업에 불편드려 죄송합니다\",\"regDt\":\"2019-01-02 14:47:04\"},\"registration_ids\":[\"epvs1HAj370:APA91bEl5fJoM2nY2ygf0FVPcLJ_AT6PtSfJzrQ4Cx4hD9shq2D1-BEh2rIHKRJa9BmS6V9-w8ztQqdl2ZA2oiB0v-GvgWPmpzmSxT50GldJJZVlkQ-mlMUZ0egyC-jTotAan-1W7ti-\",\"cxXSJRVujBQ:APA91bGg4xiHrbaqzJsBgfMyBU2CbCYCnVyfY7QqXoseZ-JUWh_825uvVb-CuYU0ITJfANd3uM0mZ-TL6A508lOWHEbxz9KB_gF933fXbWtvpt9JgmwVofL5TKsel5_SjhcfSjp_xbo-\",\"dTnLoiYyS5M:APA91bFvLQ_Wtrd_8OnK4rgaMcv6gB9kKmg9WFYkAoHwjzmFp2kOJcOYsahjOCU3mDDl7I2r9bCuo10ds6i7JmbuY93IuHqs230hgLT5QnSH7VedojwP19bRHOWHEl3XYMzDCWGakz19\",\"eX1rKPXhl90:APA91bGnpibbtW2tyIqPqJyReMC0GqkGX6zD2M2SfrPCaDpkOjMw4LSd5kTImKhUOANnOprDEijxy_32LZvTjVzaj9usW8IyHC1gSZk4Pk3ZzpcT6TY2qB-QZ5Da7tgrS1__upoj8xKY\",\"cF7jTl07zjU:APA91bGFuQ1K9tSwl_Q-a2rpS4QjSkCqgw5wMWMKSAC7euRSa-ISnvh644Ellv5JGL31abE2x-7TX9jdk5CdXIXzPAeSz8fDzNK7FMfEIfijDF_qjnN5XBRpa7JFSSI5jDKFEs1Ele2U\",\"fAbufMgoCio:APA91bFD6QAOq5FKozj_bwYIqYhfhOzcwAaKdjQi-cbs8FVbBrc56UbzWpGcnZfqGMH10q-ADrs4XBIPNLNvExVOvESe8WiqzG5vvCzjyYnbeUOzHXvkDgYF93JBlEmwrYgpjq48GJBH\"]}",
+      "hospitalCd": "11100435",
+      "hospitalName": "건국대병원",
+      "groupDate": [
+        2019,
+        1,
+        2
+      ]
+    }
+  ]
+}

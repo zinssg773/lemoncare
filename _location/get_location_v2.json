@@ -1,0 +1,26 @@
+{
+  "elapsedTime": 107,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2023-12-13 11:53:45",
+  "bodyType": "OBJECT",
+  "body": {
+    "mdtnNoStr3": null,
+    "pltgNm1": "본관 1 층",
+    "pltgNm2": "웰빙센터 2 층",
+    "mdtnNoStr1": "O 275",
+    "mdtnNoStr2": "O 276",
+    "pltgNm3": "본관 2 층",
+    "pltgNm4": null,
+    "pltgNm5": null,
+    "ptptNm1": "외래약국",
+    "ptptNm2": "정신건강의학과",
+    "ptptNm3": null,
+    "ptptNm4": null,
+    "pltgNm6": null,
+    "pltgNm7": null,
+    "ptptNm5": null,
+    "ptptNm6": null
+  }
+}

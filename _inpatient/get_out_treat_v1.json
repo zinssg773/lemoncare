@@ -1,0 +1,37 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "visitDt": "2024.06.02",
+      "visitTm": "13:30",
+      "deptCd": "OT",
+      "deptNm": "안과",
+      "doctorId": "00821",
+      "doctorNm": "곽*인",
+      "hospitalClsNm": "본원"
+    },
+    {
+      "visitDt": "2024.06.02",
+      "visitTm": "15:00",
+      "deptCd": "AG",
+      "deptNm": "내과",
+      "doctorId": "00822",
+      "doctorNm": "홍길동",
+      "hospitalClsNm": "어린이병동"
+    },
+    {
+      "visitDt": "2024.05.23",
+      "visitTm": "10:20",
+      "deptCd": "BR",
+      "deptNm": "가정의학과",
+      "doctorId": "12345",
+      "doctorNm": "김의사",
+      "hospitalClsNm": "암병원"
+    }
+  ]
+}

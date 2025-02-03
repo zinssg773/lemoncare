@@ -1,0 +1,172 @@
+{
+  "elapsedTime": "315",
+  "status": "OK",
+  "errors": null,
+  "message": null,
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "CT영상실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "완료",
+      "checkupTm": "08:00",
+      "reference": "1층 CT영상실로 오세요"
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "골밀도영상실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "완료",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "신체계측실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "완료",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "심전도실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "완료",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "안과검진실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "진행중",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "영양상담실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "예정",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "의사진찰상담실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "예정",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "자궁암검진실 ",
+      "checkupItmUnit": "P",
+      "checkupStatus": "예정",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "채혈실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "예정",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "초음파검진실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "예정",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "폐기능검진실",
+      "checkupItmUnit": "P",
+      "checkupStatus": "예정",
+      "checkupTm": "08:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "부인과검사실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "신체계측실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "위내시경실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "유방영상실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "진료실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "채혈실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    },
+    {
+      "checkupCls": "공단검진",
+      "checkupDt": "2020-08-06",
+      "checkupItmNm": "흉부영상실",
+      "checkupItmUnit": "I",
+      "checkupStatus": "예정",
+      "checkupTm": "10:00",
+      "reference": null
+    }
+  ]
+}

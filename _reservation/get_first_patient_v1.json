@@ -1,0 +1,14 @@
+{
+  "elapsedTime": "135",
+  "status": "OK",
+  "errors": null,
+  "message": null,
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "patientId": "42223085",
+      "firstTreatYn": "N"
+    }
+  ]
+}

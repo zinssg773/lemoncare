@@ -1,0 +1,203 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-07-30 15:56:44",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "doctorId": "D890060",
+      "doctorNm": "김영식",
+      "specialtyCd": "1",
+      "specialty": "심뇌혈관질환1차예방,건강증진,항노화진료,생활습관병관리,청소년건강,비만,알코올사용장애",
+      "reservationYn": "Y",
+      "amSchdule": "월,금",
+      "pmSchedule": "수"
+    },
+    {
+      "doctorId": "D890060",
+      "doctorNm": "김영식",
+      "specialtyCd": "2",
+      "specialty": "평생건강관리클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "화",
+      "pmSchedule": "수"
+    },
+    {
+      "doctorId": "D890060",
+      "doctorNm": "김영식",
+      "specialtyCd": "4",
+      "specialty": "암예방클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "월,화"
+    },
+    {
+      "doctorId": "D890061",
+      "doctorNm": "박혜순",
+      "specialtyCd": "1",
+      "specialty": "비만,고도비만,대사질환(고혈압,고지혈증,당뇨병,지방간),비만수술 전후치료",
+      "reservationYn": "Y",
+      "amSchdule": "월,수,목",
+      "pmSchedule": "화"
+    },
+    {
+      "doctorId": "D890061",
+      "doctorNm": "박혜순",
+      "specialtyCd": "3",
+      "specialty": "비만클리닉",
+      "reservationYn": "Y",
+      "amSchdule": "수,목",
+      "pmSchedule": "화"
+    },
+    {
+      "doctorId": "D960015",
+      "doctorNm": "선우성",
+      "specialtyCd": "1",
+      "specialty": "생활습관병관리,건강검진 이상소견,맞춤건강검진,성인병,금연클리닉",
+      "reservationYn": "Y",
+      "amSchdule": "화,목",
+      "pmSchedule": "월,목"
+    },
+    {
+      "doctorId": "D960015",
+      "doctorNm": "선우성",
+      "specialtyCd": "2",
+      "specialty": "평생건강관리클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "월",
+      "pmSchedule": "목"
+    },
+    {
+      "doctorId": "D960015",
+      "doctorNm": "선우성",
+      "specialtyCd": "4",
+      "specialty": "금연클리닉",
+      "reservationYn": "N",
+      "amSchdule": "월",
+      "pmSchedule": "목"
+    },
+    {
+      "doctorId": "D960015",
+      "doctorNm": "선우성",
+      "specialtyCd": "3",
+      "specialty": "암예방클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "월,화,목",
+      "pmSchedule": "월,목"
+    },
+    {
+      "doctorId": "D190286",
+      "doctorNm": "손기영",
+      "specialtyCd": "1",
+      "specialty": "생활습관병관리,성인병,노인건강,암생존자 건강관리,건강증진(검진 소견 상담)",
+      "reservationYn": "Y",
+      "amSchdule": "수,목",
+      "pmSchedule": "수"
+    },
+    {
+      "doctorId": "D190286",
+      "doctorNm": "손기영",
+      "specialtyCd": "3",
+      "specialty": "평생건강관리클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "수"
+    },
+    {
+      "doctorId": "D190286",
+      "doctorNm": "손기영",
+      "specialtyCd": "2",
+      "specialty": "암예방클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "수,목",
+      "pmSchedule": "수"
+    },
+    {
+      "doctorId": "D900025",
+      "doctorNm": "조홍준",
+      "specialtyCd": "1",
+      "specialty": "성인병관리,건강증진,건강검진 이상소견의 확진,금연클리닉",
+      "reservationYn": "Y",
+      "amSchdule": "화,수,금",
+      "pmSchedule": "월,수"
+    },
+    {
+      "doctorId": "D900025",
+      "doctorNm": "조홍준",
+      "specialtyCd": "2",
+      "specialty": "평생건강관리클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "금"
+    },
+    {
+      "doctorId": "D900025",
+      "doctorNm": "조홍준",
+      "specialtyCd": "5",
+      "specialty": "금연클리닉",
+      "reservationYn": "N",
+      "amSchdule": "금",
+      "pmSchedule": "월"
+    },
+    {
+      "doctorId": "D900025",
+      "doctorNm": "조홍준",
+      "specialtyCd": "4",
+      "specialty": "암예방클리닉(회원제)",
+      "reservationYn": "N",
+      "amSchdule": "화,수,금",
+      "pmSchedule": "월,수"
+    },
+    {
+      "doctorId": "D190317",
+      "doctorNm": "김승희",
+      "specialtyCd": "1",
+      "specialty": "건강관리",
+      "reservationYn": "N"
+    },
+    {
+      "doctorId": "D160323",
+      "doctorNm": "전예림",
+      "specialtyCd": "1",
+      "specialty": "건강관리",
+      "reservationYn": "Y",
+      "amSchdule": "",
+      "pmSchedule": "화,수,금"
+    },
+    {
+      "doctorId": "D200770",
+      "doctorNm": "허연",
+      "specialtyCd": "1",
+      "specialty": "건강관리",
+      "reservationYn": "Y",
+      "amSchdule": "수,금",
+      "pmSchedule": "월,화,목"
+    },
+    {
+      "doctorId": "DR99993",
+      "doctorNm": "금연일반의사",
+      "specialtyCd": "1",
+      "specialty": "금연클리닉",
+      "reservationYn": "N",
+      "amSchdule": "월,화,수,목,금",
+      "pmSchedule": "월,화,수,목,금"
+    },
+    {
+      "doctorId": "DR99999",
+      "doctorNm": "일반의사",
+      "specialtyCd": "1",
+      "specialty": "건강관리,1차진료,건강증진,건강검진,생활습관병,예방접종,건강검진이상소견",
+      "reservationYn": "Y",
+      "amSchdule": "월,화,수,목,금",
+      "pmSchedule": "월,화,수,목,금"
+    },
+    {
+      "doctorId": "DR99997",
+      "doctorNm": "일반의사2",
+      "specialtyCd": "1",
+      "specialty": "건강관리,1차진료,건강증진,건강검진,생활습관병,예방접종,건강검진이상소견",
+      "reservationYn": "Y",
+      "amSchdule": "월,화,수,목,금",
+      "pmSchedule": "월,화,수,목,금"
+    }
+  ]
+}

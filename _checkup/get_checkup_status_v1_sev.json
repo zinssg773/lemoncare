@@ -1,0 +1,131 @@
+{
+  "elapsedTime": "315",
+  "status": "OK",
+  "errors": null,
+  "message": null,
+  "timestamp": "2023-03-29 16:55:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "09:57",
+        "checkupItmNm": "체크업 탈의실                 ",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "08:42",
+        "checkupItmNm": "체크업 채혈                   ",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "07:38",
+        "checkupItmNm": "체크업 혈압",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "09:28",
+        "checkupItmNm": "체크업 위내시경",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "07:42",
+        "checkupItmNm": "체크업 갑상선초음파",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "07:36",
+        "checkupItmNm": "체크업 관상동맥석회화CT",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "09:05",
+        "checkupItmNm": "체크업 복부CT(Abd+Pelvis CT)",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "07:42",
+        "checkupItmNm": "체크업 복부초음파",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "08:41",
+        "checkupItmNm": "체크업 심전도",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "08:02",
+        "checkupItmNm": "체크업 안과",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "08:30",
+        "checkupItmNm": "체크업 청력",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "08:07",
+        "checkupItmNm": "체크업 치과",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "08:18",
+        "checkupItmNm": "체크업 폐기능",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "07:38",
+        "checkupItmNm": "체크업 신체계측",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    },
+    {
+        "checkupDt": "20170830",
+        "checkupTm": "07:57",
+        "checkupItmNm": "체크업 흉부X선",
+        "checkupItmUnit": "",
+        "checkupStatus": "종료",
+        "reference": ""
+    }
+]
+
+}

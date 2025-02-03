@@ -1,0 +1,130 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2019-01-23 19:54:46",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "calculationDt": "20200601"
+    ,"deptCd": "OM"
+    ,"deptNm": "한방과"
+    ,"dischargeYn": ""
+    ,"discountAmt": "0"
+    ,"doctorId": "D00001"
+    ,"doctorNm": "성신"
+    ,"errorMsg": ""
+    ,"insuranceCd": "00010"
+    ,"insureAmt": "5370"
+    ,"intermediatePayEndDt": "20200601"
+    ,"intermediatePayStDt": "20200501"
+    ,"partChargeYn": ""
+    ,"patientNm": "김기영"
+    ,"patientTotalAmt": "2500"
+    ,"preAmt": "0"
+    ,"prescriptionIntCnt": ""
+    ,"prescriptionOutCnt": ""
+    ,"privacyYN": "N"
+    ,"realAmt": "2500"
+    ,"receiptNo": "9000000120190712OMD0000100010"
+    ,"receivableAmt": "3500"
+    ,"receiveTy": ""
+    ,"selfPayment": "2500"
+    ,"surtax": ""
+    ,"totalAmt": "8870"
+    ,"visitDt": "20190712"
+    ,"visitTm": "17:00:00"
+    },
+    {
+      "discountAmt": "",
+      "receivableAmt": "",
+      "patientTotalAmt": "",
+      "prescriptionOutCnt": "",
+      "deptNm": "가정의학과",
+      "doctorId": "20170102",
+      "insuranceCd": "",
+      "privacyYN": "",
+      "patientNm": "이경희",
+      "realAmt": "55600",
+      "prescriptionIntCnt": "",
+      "visitDt": "20190329",
+      "deptCd": "000516",
+      "errorMsg": "",
+      "doctorNm": "김경진",
+      "preAmt": "",
+      "totalAmt": "55600",
+      "calculationDt": "",
+      "intermediatePayStDt": "20190329",
+      "insureAmt": "",
+      "visitTm": "1300",
+      "partChargeYn": "Y",
+      "receiptNo": "",
+      "surtax": "",
+      "receiveTy": "",
+      "intermediatePayEndDt": "20190331",
+      "selfPayment": "",
+      "dischargeYn": ""
+    },
+    {
+      "calculationDt": ""
+    ,"deptCd": "IM"
+    ,"deptNm": "내과"
+    ,"dischargeYn": ""
+    ,"discountAmt": "0"
+    ,"doctorId": "111111"
+    ,"doctorNm": "이*엠"
+    ,"errorMsg": ""
+    ,"insuranceCd": "50510"
+    ,"insureAmt": "0"
+    ,"intermediatePayEndDt": "20190610"
+    ,"intermediatePayStDt": "20190605"
+    ,"partChargeYn": ""
+    ,"patientNm": "김기영"
+    ,"patientTotalAmt": "17010"
+    ,"preAmt": "17010"
+    ,"prescriptionIntCnt": ""
+    ,"prescriptionOutCnt": ""
+    ,"privacyYN": "N"
+    ,"realAmt": "0"
+    ,"receiptNo": "9000000120190605IM11111150510"
+    ,"receivableAmt": "0"
+    ,"receiveTy": ""
+    ,"selfPayment": "0"
+    ,"surtax": ""
+    ,"totalAmt": "17010"
+    ,"visitDt": "20190605"
+    ,"visitTm": "17:03:28"
+    },
+    {
+      "calculationDt": ""
+    ,"deptCd": "IM"
+    ,"deptNm": "내과"
+    ,"dischargeYn": ""
+    ,"discountAmt": "0"
+    ,"doctorId": "111111"
+    ,"doctorNm": "이*엠"
+    ,"errorMsg": ""
+    ,"insuranceCd": "50510"
+    ,"insureAmt": "0"
+    ,"intermediatePayEndDt": "20190610"
+    ,"intermediatePayStDt": "20190605"
+    ,"partChargeYn": ""
+    ,"patientNm": "김기영"
+    ,"patientTotalAmt": "17010"
+    ,"preAmt": "17010"
+    ,"prescriptionIntCnt": ""
+    ,"prescriptionOutCnt": ""
+    ,"privacyYN": "N"
+    ,"realAmt": "12345"
+    ,"receiptNo": "9000000120190605IM11111150510"
+    ,"receivableAmt": "0"
+    ,"receiveTy": ""
+    ,"selfPayment": "0"
+    ,"surtax": ""
+    ,"totalAmt": "17010"
+    ,"visitDt": "20190605"
+    ,"visitTm": "17:03:28"
+    }
+  ]
+}

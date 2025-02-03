@@ -1,0 +1,27 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+        "deptCd": "LB",
+        "deptNm": "진단검사의학과/검체검사",
+        "doctorId": "LB0001",
+        "doctorNm": "일반",
+        "visitDt": "20240904",
+        "visitTm": "",
+        "visitKind": "검체검사",
+        "visitMemo": "진료과의 안내에 따라 금식해 주시기 바랍니다.",
+        "payYn": "N",
+        "examGuide": "",
+        "visitStatusCd": "A",
+        "nextLocNm": "채혈실",
+        "nextLocImgUri": "채혈실",
+        "onlineChatUrl": "",
+        "onlineViewNo": ""
+    }
+  ]
+}

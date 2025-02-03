@@ -1,0 +1,18 @@
+{
+    "elapsedTime": 2,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2023-12-22 11:49:19",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "bldNm": "신관",
+            "floor": "2F",
+            "locDesc": "신관 1층 정문 > 에스컬레이터 > 직진 > 치과<BR><BR>치아의 경조직 손상, 치아의 심미적 부조화, 치수질환 및 치근단질환에 대한 시술을 시행하여, 치아와 관련된 동통을 제거하고, 치아의 저작, 발음, 심미기능을 회복시켜 환자를 치료하는 과입니다.",
+            "locNm": "치과",
+            "locUrl": "http://www.amc.seoul.kr/asan/file/imageView.do?fileId=F000000021726",
+            "titleNm": "치과"
+        }
+    ]
+}

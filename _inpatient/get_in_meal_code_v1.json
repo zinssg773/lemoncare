@@ -1,0 +1,136 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "comnGrpCd": "QC4",
+      "comnGrpCdNm": "밥종류",
+      "comnCd": "4",
+      "comnCdNm": " ",
+      "imgFileNm": null,
+      "mealPhoto": null,
+      "sortSeq": 1
+    },
+    {
+      "comnGrpCd": "QC4",
+      "comnGrpCdNm": "밥종류",
+      "comnCd": "1",
+      "comnCdNm": "흰밥",
+      "imgFileNm": "주식(상식)500x375.JPG",
+      "mealPhoto": "",
+      "sortSeq": 2
+    },
+    {
+      "comnGrpCd": "QC4",
+      "comnGrpCdNm": "밥종류",
+      "comnCd": "5",
+      "comnCdNm": "콩잡곡밥",
+      "imgFileNm": "콩잡곡밥500x375.JPG",
+      "mealPhoto": "",
+      "sortSeq": 3
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "0",
+      "comnCdNm": "",
+      "imgFileNm": null,
+      "mealPhoto": null,
+      "sortSeq": 1
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "1",
+      "comnCdNm": "흰우유",
+      "imgFileNm": "[꾸미기]흰우유.jpg",
+      "mealPhoto": "",
+      "sortSeq": 2
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "2",
+      "comnCdNm": "멸균우유",
+      "imgFileNm": "[꾸미기]멸균우유.jpg",
+      "mealPhoto": "",
+      "sortSeq": 3
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "3",
+      "comnCdNm": "두유",
+      "imgFileNm": "[꾸미기]두유.jpg",
+      "mealPhoto": "",
+      "sortSeq": 4
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "4",
+      "comnCdNm": "요구르트",
+      "imgFileNm": "[꾸미기]요구르트.jpg",
+      "mealPhoto": "",
+      "sortSeq": 5
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "5",
+      "comnCdNm": "초코우유",
+      "imgFileNm": "[꾸미기]초코우유.jpg",
+      "mealPhoto": "",
+      "sortSeq": 6
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "6",
+      "comnCdNm": "요플레",
+      "imgFileNm": "[꾸미기]요플레.jpg",
+      "mealPhoto": "",
+      "sortSeq": 7
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "12",
+      "comnCdNm": "저지방우유",
+      "imgFileNm": "[꾸미기]저지방우유.jpg",
+      "mealPhoto": "",
+      "sortSeq": 8
+    },
+    {
+      "comnGrpCd": "QC5",
+      "comnGrpCdNm": "조식음료",
+      "comnCd": "9",
+      "comnCdNm": "아침음료제외",
+      "imgFileNm": null,
+      "mealPhoto": null,
+      "sortSeq": 9
+    },
+    {
+      "comnGrpCd": "QC6",
+      "comnGrpCdNm": "식사량",
+      "comnCd": "1",
+      "comnCdNm": "보통",
+      "imgFileNm": "주식(상식)500x375.JPG",
+      "mealPhoto": "",
+      "sortSeq": 1
+    },
+    {
+      "comnGrpCd": "QC6",
+      "comnGrpCdNm": "식사량",
+      "comnCd": "2",
+      "comnCdNm": "많이",
+      "imgFileNm": "[꾸미기]주식(밥많이).jpg",
+      "mealPhoto": "",
+      "sortSeq": 2
+    }
+  ]
+}

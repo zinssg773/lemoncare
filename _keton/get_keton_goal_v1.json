@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "nuCarbo": 8,
+      "nuFat": 7,
+      "nuProtein": 77,
+      "patientId": "00000000",
+      "ratio": 1.7
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{"elapsedTime":1,"status":"OK","errors":[],"message":"","timestamp":"2019-01-23 19:54:46","bodyType":"ARRAY","body":[
+
+  {
+    "id": "kiscsuh01m",
+    "partnerCd": "B5FE3F9DA6DAE1F291861386F016E40A",
+    "posId": "DBS",
+    "hospitalCd": "36100021",
+    "hospitalName": "조선대학교병원",
+    "businessNo": "4088202644",
+    "remoteIp": "127.0.0.1",
+    "cancelPassword": "kistestchosun",
+    "description": "39266852",
+    "enabled": true,
+    "latestSerialNo": 47,
+    "createDate": "2022-10-12 10:42:54",
+    "updateDate": "2022-10-12 10:42:54",
+    "autoCancel": false,
+    "autoCancelInterval": null,
+    "pay": {
+      "id": 10,
+      "type": "KIS_NON",
+      "ip": "210.112.100.97",
+      "port": 60202,
+      "corpCodeSet": []
+    },
+    "remarkType": "CHOSUN",
+    "orderNo": 1
+  },
+  {
+    "id": "test2",
+    "partnerCd": "B5FE3F9DA6DAE1F291861386F016E40B",
+    "posId": "DBS",
+    "hospitalCd": "36100021",
+    "hospitalName": "조선대학교병원",
+    "businessNo": "4088202644",
+    "remoteIp": "127.0.0.1",
+    "cancelPassword": "csuhlemonpasstest",
+    "description": "39266852",
+    "enabled": true,
+    "latestSerialNo": 47,
+    "createDate": "2022-10-12 10:42:54",
+    "updateDate": "2022-10-12 10:42:54",
+    "autoCancel": false,
+    "autoCancelInterval": null,
+    "pay": {
+      "id": 10,
+      "type": "LEMON_PASS",
+      "ip": "210.112.100.97",
+      "port": 60202,
+      "corpCodeSet": []
+    },
+    "remarkType": "CHOSUN",
+    "orderNo": 1
+  }
+]}

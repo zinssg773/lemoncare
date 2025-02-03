@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+	  "patientId": "59784F506138507A426E463571426F6F7465374164413D3D",
+	  "eduType": "암정보교육",
+	  "eduDt": "2020-11-25(수)",
+	  "eduNm": "[온라인] 암치료 후 장기건강관리(암건강증진센터 교수)",
+	  "eduPlc": "온라인 비대면 강좌",
+	  "eduLctr": null
+	}
+  ]
+}

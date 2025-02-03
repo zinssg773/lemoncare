@@ -1,0 +1,82 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-05-11 10:39:45",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "contentsClsCd": "BabyPt1",
+      "contentsClsNm": "카테고리 분류 -1",
+      "contentsNo": 6,
+      "contentsTitle": "제목이 제법 길고 생각보다 긴 안내문입니다.",
+      "contentsTypeCd": "T",
+      "dateInfo": "20220325"
+    },
+    {
+      "contentsClsCd": "BabyPt1",
+      "contentsClsNm": "조재현 산모 신생아 사진",
+      "contentsNo": 5,
+      "contentsTitle": "사진(파일)",
+      "contentsTypeCd": "IF",
+      "dateInfo": "20220325"
+    },
+    {
+      "contentsClsCd": "BabyPt1",
+      "contentsClsNm": "조재현 산모 신생아 사진",
+      "contentsNo": 4,
+      "contentsTitle": "테스트등록",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220324"
+    },
+    {
+      "contentsClsCd": "BabyPt2",
+      "contentsClsNm": "조재현산모신생아2사진",
+      "contentsNo": 3,
+      "contentsTitle": "20220325_0840",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220325"
+    },
+    {
+      "contentsClsCd": "BabyPt2",
+      "contentsClsNm": "조재현 산모 신생아2 사진",
+      "contentsNo": 2,
+      "contentsTitle": "사진",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220325"
+    },
+    {
+      "contentsClsCd": "BabyPt3",
+      "contentsClsNm": "조재현 산모 신생아3 사진",
+      "contentsNo": 1,
+      "contentsTitle": "테스트등록",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220324"
+    },
+    {
+      "contentsClsCd": "BabyPt3",
+      "contentsClsNm": "조재현산모신생아3사진",
+      "contentsNo": 7,
+      "contentsTitle": "20220325_0840",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220325"
+    },
+    {
+      "contentsClsCd": "BabyPt3",
+      "contentsClsNm": "조재현 산모 신생아3 사진",
+      "contentsNo": 8,
+      "contentsTitle": "사진",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220325"
+    },
+    {
+      "contentsClsCd": "BabyPt3",
+      "contentsClsNm": "조재현 산모 신생아3 사진",
+      "contentsNo": 9,
+      "contentsTitle": "테스트등록",
+      "contentsTypeCd": "IU",
+      "dateInfo": "20220324"
+    }
+  ]
+}

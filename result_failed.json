@@ -1,0 +1,14 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 14:00:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "returnCd": "0001",
+      "returnMsg": "병원에서 보낸 실패 메시지"
+    }
+  ]
+}

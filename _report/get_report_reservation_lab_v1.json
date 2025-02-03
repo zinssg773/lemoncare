@@ -1,0 +1,22 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-01-12 14:00:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "examNm": "CT Chest Pulmonary artery + Deep vein + 3D(contrast)"
+    },
+    {
+      "examNm": "CKMB(검사24시간가능)"
+    },
+    {
+      "examNm": "Coagulation with D-dimer(검사24시간가능)"
+    },
+    {
+      "examNm": "Troponin I(검사24시간가능)"
+    }
+  ]
+}

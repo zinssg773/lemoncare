@@ -1,0 +1,20 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-06-26 11:45:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupDt": "2024-07-01",
+      "checkupNm": "검진평가",
+      "receiptNo": "2012534520130115"
+  },
+  {
+      "checkupDt": "2024-03-04",
+      "checkupNm": "검진분석",
+      "receiptNo": "3076683720130304"
+  }
+  ]
+}

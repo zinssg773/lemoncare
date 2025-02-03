@@ -1,0 +1,50 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-11-21 15:14:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "drugNm": "JW Shinyak Losartan Plus Tab.(제이더블유신약로잘탄플러스정)",
+	    "orderCd": "US01"
+    },
+	  {
+      "drugNm": "NewDQforce Tab. 10/160mg (뉴디큐포스정 10/160mg)",
+	    "orderCd": "L10A02"
+    },
+	  {
+      "drugNm": "Amlodipine Besylate (암로디핀베실산염 13.87mg)",
+	    "orderCd": "L0ACA02"
+    },
+    {
+      "drugNm": "dextromethorphan (브롬화수소산덱스트로메트로판)",
+	    "orderCd": "C4220A"
+    },
+    {
+      "drugNm": "Chlorpromazine hcl tab. 50mg (클로르프로마진 염산염 정. 50mg)",
+	    "orderCd": "C4220A"
+    },
+    {
+      "drugNm": "Gentamicin Injection 80mg Shinpoong (신풍겐타마이신주. 80mg)",
+	    "orderCd": "C4220A"
+    },
+    {
+      "drugNm": "Ceftriaxone Injection 2g Boryung (보령세프트리악손주 2g)",
+	    "orderCd": "C4220A"
+    },
+    {
+      "drugNm": "Abeltan Plus Tab. 300/12.5mg inno.N (이노엔아벨탄플러스정300/12.5mg)",
+	    "orderCd": "C4220A"
+    },
+    {
+      "drugNm": "Etex Olmesartan Plus Tab. 20/12.5mg (이텍스올메사탄플러스정20/12.5mg)",
+	    "orderCd": "C4220A"
+    },
+    {
+      "drugNm": "Gachon 2-Deoxy-2-Fluoro-D-Glucose (18F) Lnj. (가천대2-데옥시-2-플루오로-D-글루코스(18F)주사액)",
+	    "orderCd": "C4220A"
+    }
+  ]
+}

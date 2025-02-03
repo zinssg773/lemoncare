@@ -1,0 +1,64 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "Waiting for surgery",
+      "surgeryOutTy": null,
+      "startDtTm": null,
+      "endDtTm": null,
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "Surgery room",
+      "surgeryOutTy": null,
+      "startDtTm": null,
+      "endDtTm": null,
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "Surgery in progress",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": null,
+      "memo": null,
+      "statusYn": null
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "End of surgery",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": null,
+      "statusYn": "N"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "Recovery room",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": "The patient is in Recovery room",
+      "statusYn": "Y"
+    },
+    {
+      "surgeryNm": "Nitrazine",
+      "surgeryStatus": "Move to ward",
+      "surgeryOutTy": null,
+      "startDtTm": "20210221 1633",
+      "endDtTm": "20210221 1925",
+      "memo": null,
+      "statusYn": "N"
+    }
+  ]
+}

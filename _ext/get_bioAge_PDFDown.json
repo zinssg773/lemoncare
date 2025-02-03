@@ -1,0 +1,13 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-23 18:56:44",
+  "bodyType": "ARRAY",
+  "body": [],
+  "responseCode": "0000",
+  "data": {
+    "pdfDownUrl" : "https://mob.nhimc.or.kr/pat/down/FamilyConfrimDoc.pdf"
+  }
+}

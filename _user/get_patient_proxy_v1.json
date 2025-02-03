@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":   [ {
+    "cellphoneNo": "010-5555-1000",
+    "patientNm": "이경희"
+  }]
+}

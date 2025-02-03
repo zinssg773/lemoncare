@@ -1,0 +1,21 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+	  "patientId": "5358497432585532452F532F4A7655546756477457673D3D",
+	  "orderGrpNm": "영상검사",
+	  "orderNm": " Tract dilatation",
+	  "examReseravtionDtTm": null,
+	  "orderStatus": "초기",
+	  "orderComments": null,
+	  "guideOrderUri": null,
+	  "orderCd": "RA716",
+	  "orderGrpCd": "영상검사"
+	}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 18:58:54",
+  "bodyType": "OBJECT",
+  "body": [{
+    "issuedNo" : "3000",
+    "issuedDtm" : "202205111035",
+    "expiredYN" : "",
+    "sectionCd" : "RL",
+    "sectionNm" : "접수·수납",
+    "bizCd" : "",
+    "bizNm" : "",
+    "sectionGrNm" : "",
+    "viewSeq" : "",
+    "waitingCnt" : "",
+    "waitingStatus" : "",
+    "callNo" : "",
+    "useYn" : ""
+  }]
+}

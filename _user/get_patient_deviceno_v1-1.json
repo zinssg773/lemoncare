@@ -1,0 +1,11 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-08-12 10:10:00",
+  "bodyType": "OBJECT",
+  "body": {
+    "deviceNo": "WD2022080804"
+  }
+}

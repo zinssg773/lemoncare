@@ -1,0 +1,23 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "patientNm": "홍길동",
+      "patientId": "93888",
+      "applicantRelCd" : "01",
+      "ciValue" : ""
+    },
+    {
+      "patientNm": "홍제균",
+      "patientId": "0000001",
+      "applicantRelCd" : "가족",
+      "ciValue" : null
+    }
+  ]
+}

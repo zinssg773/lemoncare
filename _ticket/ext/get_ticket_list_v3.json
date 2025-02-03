@@ -1,0 +1,61 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 18:58:54",
+  "bodyType": "OBJECT",
+  "body": [{
+    "id": 957136,
+    "hospitalCd": "0",
+    "patientId": "7663935",
+    "issuedNo": "1748",
+    "patientNm": null,
+    "sectionCd": null,
+    "bizCd": null,
+    "waitCnt": 1,
+    "issuedDate": "2021-09-15 17:05:06",
+    "kiosk": {
+      "id": 75129,
+      "hospitalCd": "0",
+      "sectionCd": "10.153.3.117",
+      "bizCd": "1",
+      "seq": 10,
+      "sectionNm": "3층",
+      "bizNm": "초진창구 입원접수",
+      "remark": "본관",
+      "createDate": "2020-09-14 12:16:33",
+      "updateDate": "2020-09-14 12:16:33",
+      "kioskStartTime": "0800",
+      "kioskEndTime": "1800",
+      "waitingCnt": null
+    }
+  },
+    {
+      "id": 957137,
+      "hospitalCd": "0",
+      "patientId": "7663935",
+      "issuedNo": "3001",
+      "patientNm": null,
+      "sectionCd": null,
+      "bizCd": null,
+      "waitCnt": 1,
+      "issuedDate": "2021-09-15 17:05:47",
+      "kiosk": {
+        "id": 75045,
+        "hospitalCd": "0",
+        "sectionCd": "10.153.3.117",
+        "bizCd": "3",
+        "seq": 30,
+        "sectionNm": "3층",
+        "bizNm": "초진창구 입원수속 <br>(토요일 13:00이후 부터 일요일에만 사용)",
+        "remark": "본관",
+        "createDate": "2020-09-10 15:42:20",
+        "updateDate": "2020-09-18 16:42:10",
+        "kioskStartTime": "1300",
+        "kioskEndTime": "1800",
+        "waitingCnt": null
+      }
+    }
+  ]
+}

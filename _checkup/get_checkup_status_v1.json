@@ -1,0 +1,106 @@
+{
+  "elapsedTime": "315",
+  "status": "OK",
+  "errors": null,
+  "message": null,
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "채혈",
+      "checkupStatus": "완료",
+      "reference": "3층 채혈실로 오세요."
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "안압/안저/청력",
+      "checkupStatus": "<font color=\"red\">완료</font>",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "시력",
+      "checkupStatus": "완료",
+      "reference": "<font color=\"blue\">지하2층 계단 옆 안과로 오세요.</font>"
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "심전도/노화검사",
+      "checkupStatus": "완료",
+      "reference": ""
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "흉부/일반촬영실",
+      "checkupStatus": "완료",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "신체계측",
+      "checkupStatus": "진행중",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "초음파검사실",
+      "checkupStatus": "예정",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190212",
+      "checkupTm": "0920",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "폐기능",
+      "checkupStatus": "예정",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190213",
+      "checkupTm": "1030",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "내시경전처치",
+      "checkupStatus": "예정",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190213",
+      "checkupTm": "1030",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "내시경",
+      "checkupStatus": "예정",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190213",
+      "checkupTm": "1030",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "내시경회복실",
+      "checkupStatus": "예정",
+      "reference": null
+    },
+    {
+      "checkupDt": "20190214",
+      "checkupTm": "0940",
+      "checkupItmNm": "남성 기본검진 (50세 이상)",
+      "checkupItmUnit": "CT실",
+      "checkupStatus": "예정",
+      "reference": null
+    }
+  ]
+}

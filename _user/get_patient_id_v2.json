@@ -1,0 +1,15 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "OBJECT",
+  "body": {
+    "dailyPatientId": null,
+    "decryptPatientId": null,
+    "patientId": "00000001",
+    "returnCd": "0002",
+    "returnMsg": "신환환자는 기본정보를 수정해주세요"
+  }
+}

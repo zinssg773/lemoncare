@@ -1,0 +1,25 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "availReservationDt": "20210209"
+    },
+    {
+      "availReservationDt": "20210216"
+    },
+    {
+      "availReservationDt": "20210218"
+    },
+    {
+      "availReservationDt": "20210223"
+    },
+    {
+      "availReservationDt": "20210225"
+    }
+  ]
+}

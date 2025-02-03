@@ -1,0 +1,37 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {"titleCd": "educ","title":"학력","profile":"2010 | 서울대학교 의학대학원 졸업 (의학박사)"},
+    {"titleCd": "educ","title":"학력","profile":"2007 | 서울대학교 의학대학원 졸업 (의학석사)"},
+    {"titleCd": "educ","title":"학력","profile":"1998 |  서울대학교 의과대학 졸업 (의학사)"},
+    {"titleCd": "care","title":"경력","profile":"현재 | 건국대학교병원 가정의학과장"},
+    {"titleCd": "care","title":"경력","profile":"현재 | 건국대학교 의학전문대학원 가정의학과 교수"},
+    {"titleCd": "care","title":"경력","profile":"2006-2007 | 건국대학교병원 가정의학과 임상교수"},
+    {"titleCd": "care","title":"경력","profile":"2005-2006 | 서울대학교병원 가정의학과 임상강사"},
+    {"titleCd": "care","title":"경력","profile":"1999-2002 | 서울대학교병원 가정의학과 전공의"},
+    {"titleCd": "awar","title":"수상경력","profile":"2015 | 대한가정의학회 학술상"},
+    {"titleCd": "awar","title":"수상경력","profile":"2013 | 대한가정의학회 진료교육상"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 대한금연학회 감사"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 대한스트레스학회 심신의학이사"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 대한임상건강증진학회 학술이사"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 대한가정의학회 정책위원"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 대한노인병학회 책임심사위원, 학술위원"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 대한비만학회 홍보위원"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 질병관리본부 검진기준 및 질 관리반 검진기관 평가위원"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 보건복지부 한국보건복지인력개발원 자격심의위원회 위원"},
+    {"titleCd": "acad","title":"학회활동","profile":"현재 | 국보건의료연구원 연구기획자문단 연구주제 평가위원"},
+    {"titleCd": "book","title":"저서","profile":"국립암센터 | 2017 | \"유방암 경험자 건강관리가이드, 국립암센터, 2017\""},
+    {"titleCd": "book","title":"저서","profile":"의학출판사 | 2015 | 가정의학, 제4판 개정중보판"},
+    {"titleCd": "book","title":"저서","profile":"국립암센터 | 2017 | 암경험자 건강관리가이드"},
+    {"titleCd": "book","title":"저서","profile":"도서출판 진기획 | 2013 | 가정의학, 개정4판"},
+    {"titleCd": "book","title":"저서","profile":"한국의학 | 2008 | 가정의학"},
+    {"titleCd": "book","title":"저서","profile":"대한가정의학회 대사증후군연구회 | 2007 | 대사증후군 매뉴얼"},
+    {"titleCd": "book","title":"저서","profile":"고려의학 | 2006 | 영양치료와 건강기능식품"}
+  ]
+}

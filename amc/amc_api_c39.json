@@ -1,0 +1,19 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "amedate": "20210302",
+      "ameid": "732",
+      "cures": "1",
+      "inspirator": "1",
+      "memo": "test qab",
+      "oralsteroid": "1",
+      "ventolin": "1"
+    }
+  ]
+}

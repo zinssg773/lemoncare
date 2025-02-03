@@ -1,0 +1,62 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2018-12-21 18:58:54",
+  "bodyType": "OBJECT",
+  "body": [
+    {
+      "id": 4785,
+      "hospitalCd": "11100435",
+      "patientId": "02441873",
+      "issuedNo": "2181",
+      "patientNm": null,
+      "sectionCd": null,
+      "bizCd": null,
+      "waitCnt": 1,
+      "issuedDate": "2021-09-15 17:01:19",
+      "kiosk": {
+        "id": 2,
+        "hospitalCd": "11100435",
+        "sectionCd": "10.10.10.112",
+        "bizCd": "2",
+        "seq": 20,
+        "sectionNm": "1st Floor",
+        "bizNm": "Reception Dest",
+        "remark": "본관",
+        "createDate": "2019-01-03 20:16:15",
+        "updateDate": "2019-01-03 20:16:15",
+        "kioskStartTime": null,
+        "kioskEndTime": null,
+        "waitingCnt": null
+      }
+    },
+    {
+      "id": 4786,
+      "hospitalCd": "11100435",
+      "patientId": "02441873",
+      "issuedNo": "5092",
+      "patientNm": null,
+      "sectionCd": null,
+      "bizCd": null,
+      "waitCnt": 2,
+      "issuedDate": "2021-09-15 17:01:40",
+      "kiosk": {
+        "id": 1,
+        "hospitalCd": "11100435",
+        "sectionCd": "10.10.10.112",
+        "bizCd": "1",
+        "seq": 10,
+        "sectionNm": "1st Floor",
+        "bizNm": "for First-visit",
+        "remark": "본관",
+        "createDate": "2019-01-03 20:15:29",
+        "updateDate": "2019-01-03 20:15:29",
+        "kioskStartTime": null,
+        "kioskEndTime": null,
+        "waitingCnt": null
+      }
+    }
+  ]
+}

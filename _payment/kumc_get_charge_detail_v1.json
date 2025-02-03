@@ -1,0 +1,40 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2022-07-12 14:33:48",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "mdacClsfCd": null,
+      "onbrAmt": 0,
+      "afiMdacClsfNm": "-------------------------"
+    },
+    {
+      "mdacClsfCd": null,
+      "onbrAmt": 37796823,
+      "afiMdacClsfNm": "*총 진료비"
+    },
+    {
+      "mdacClsfCd": null,
+      "onbrAmt": 13568011,
+      "afiMdacClsfNm": "*본인부담금"
+    },
+    {
+      "mdacClsfCd": null,
+      "onbrAmt": 12979760,
+      "afiMdacClsfNm": "*이미 납부한 금액"
+    },
+    {
+      "mdacClsfCd": null,
+      "onbrAmt": 12941,
+      "afiMdacClsfNm": "*기타"
+    },
+    {
+      "mdacClsfCd": null,
+      "onbrAmt": 575310,
+      "afiMdacClsfNm": "*수납금액"
+    }
+  ]
+}

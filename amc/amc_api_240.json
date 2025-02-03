@@ -1,0 +1,49 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-14 17:33:54",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "patientId": "54846397",
+      "visitNo": "52",
+      "visitDt": "20210112",
+      "deptCd": "NS",
+      "profShapCd": "O",
+      "payCd": "O",
+      "insurTypCd": "10",
+      "insurTypNm": "국민건강보험",
+      "insurTypAsistCd": "E",
+      "receiptYn": "Y",
+      "guidMsg": ""
+    },
+    {
+      "patientId": "54846397",
+      "visitNo": "52",
+      "visitDt": "20210112",
+      "deptCd": "NS",
+      "profShapCd": "O",
+      "payCd": "O",
+      "insurTypCd": "20",
+      "insurTypNm": "자동차보험",
+      "insurTypAsistCd": "C",
+      "receiptYn": "Y",
+      "guidMsg": ""
+    },
+    {
+      "patientId": "54846397",
+      "visitNo": "52",
+      "visitDt": "20210112",
+      "deptCd": "NS",
+      "profShapCd": "O",
+      "payCd": "O",
+      "insurTypCd": "30",
+      "insurTypNm": "기타보험",
+      "insurTypAsistCd": "N",
+      "receiptYn": "N",
+      "guidMsg": "기타보험은 선택하실 수 없습니다."
+    }
+  ]
+}

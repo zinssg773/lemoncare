@@ -1,0 +1,26 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "availReservationTm": "1400",
+      "firstCd": "2"
+    },
+    {
+      "availReservationTm": "1440",
+      "firstCd": "2"
+    },
+    {
+      "availReservationTm": "1520",
+      "firstCd": "2"
+    },
+    {
+      "availReservationTm": "1540",
+      "firstCd": "2"
+    }
+  ]
+}

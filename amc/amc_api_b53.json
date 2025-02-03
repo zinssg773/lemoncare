@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-06 19:41:02",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "floor": "B1F"
+    },
+    {
+      "floor": "1F"
+    },
+    {
+      "floor": "2F"
+    },
+    {
+      "floor": "3F"
+    },
+    {
+      "floor": "4F"
+    },
+    {
+      "floor": "5F"
+    },
+    {
+      "floor": "6F"
+    }
+  ],
+}

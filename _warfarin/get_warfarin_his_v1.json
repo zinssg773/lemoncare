@@ -1,0 +1,41 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 14:00:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "warfarinExamDt": "20210724",
+      "warfarinInrVal": "1.81",
+      "warfarinInrMg": "1mg->2mg(일 3mg)",
+      "warfarinNextDt": "20210825"
+    },
+    {
+      "warfarinExamDt": "20210724",
+      "warfarinInrVal": "1.82",
+      "warfarinInrMg": "2mg->3mg(일 5mg)",
+      "warfarinNextDt": "20210826"
+    },
+    {
+      "warfarinExamDt": "20210725",
+      "warfarinInrVal": "1.83",
+      "warfarinInrMg": "3mg->4mg(일 7mg)",
+      "warfarinNextDt": "20210826"
+    },
+    {
+      "warfarinExamDt": "20210725",
+      "warfarinInrVal": "1.84",
+      "warfarinInrMg": "4mg->5mg(일 9mg)",
+      "warfarinNextDt": "20210826"
+    },
+    {
+      "warfarinExamDt": "20210726",
+      "warfarinInrVal": "1.85",
+      "warfarinInrMg": "5mg->6mg(일 10mg)",
+      "warfarinNextDt": "20210826"
+    }
+  ]
+}

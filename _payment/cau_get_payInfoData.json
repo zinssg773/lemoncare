@@ -1,0 +1,36 @@
+{
+    "elapsedTime": 0,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2024-12-10 14:09:58",
+    "bodyType": "OBJECT",
+    "body": [
+        {
+            "id": "andongho1m",
+            "partnerCd": "WFKvBBohMvyP/w62vL8qbKYbf5IGcl1bX+byxwMRy7ncmuoXHUj2tHwCbrrJ/2LjriD8frQ4IPbpAQbPBXIWtQ==",
+            "posId": "DBS",
+            "hospitalCd": "37100122",
+            "hospitalName": "안동병원",
+            "businessNo": "5088201339",
+            "remoteIp": "127.0.0.1",
+            "cancelPassword": "password123$",
+            "description": "33",
+            "enabled": true,
+            "latestSerialNo": 35,
+            "createDate": "2024-07-09 14:06:39",
+            "updateDate": "2024-07-09 14:06:39",
+            "autoCancel": false,
+            "autoCancelInterval": 0,
+            "pay": {
+                "id": 18,
+                "type": "NICEWEB",
+                "ip": "webapi.nicepay.co.kr",
+                "port": 443,
+                "corpCodeSet": []
+            },
+            "remarkType": "",
+            "orderNo": 1
+        }
+    ]
+}

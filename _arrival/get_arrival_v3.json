@@ -1,0 +1,106 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "centerCd": "01",
+      "centerNm": "센터명1",
+      "deptCd": "000250",
+      "deptNm": "류마티스내과",
+      "doctorId": "20050039",
+      "doctorNm": "신하재",
+      "reservationTm": "0850",
+      "visitDt": "20210910",
+      "visitStatusCd": "A",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "01",
+      "centerNm": "센터명1",
+      "deptCd": "000204",
+      "deptNm": "심장혈관내과",
+      "doctorId": "20050040",
+      "doctorNm": "신주구",
+      "reservationTm": "0855",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "02",
+      "centerNm": "센터명2",
+      "deptCd": "000340",
+      "deptNm": "안과",
+      "doctorId": "20100152",
+      "doctorNm": "가자호",
+      "reservationTm": "1000",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "03",
+      "centerNm": "센터명3",
+      "deptCd": "000312",
+      "deptNm": "정형외과",
+      "doctorId": "20040034",
+      "doctorNm": "민오태",
+      "reservationTm": "1100",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "04",
+      "centerNm": "센터명4",
+      "deptCd": "000353",
+      "deptNm": "이비인후-두경부외과",
+      "doctorId": "20090140",
+      "doctorNm": "민경린",
+      "reservationTm": "1140",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "05",
+      "centerNm": "센터명5",
+      "deptCd": "000320",
+      "deptNm": "성형외과",
+      "doctorId": "20040059",
+      "doctorNm": "예주기",
+      "reservationTm": "1410",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "06",
+      "centerNm": "센터명6",
+      "deptCd": "000563",
+      "deptNm": "치과",
+      "doctorId": "20050036",
+      "doctorNm": "신희솜",
+      "reservationTm": "1440",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    },
+    {
+      "centerCd": "07",
+      "centerNm": "센터명7",
+      "deptCd": "000309",
+      "deptNm": "흉부외과",
+      "doctorId": "20050711",
+      "doctorNm": "윤주상",
+      "reservationTm": "1725",
+      "visitDt": "20210910",
+      "visitStatusCd": "R",
+      "receiptNo": "-"
+    }
+  ]
+}

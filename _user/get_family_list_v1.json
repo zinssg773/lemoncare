@@ -1,0 +1,25 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "OBJECT",
+  "body": [
+    {
+    "familyPatId" : "11111111",
+    "familyPatNm" : "홍남아",
+    "birthDt": "20140321"
+    },
+    {
+    "familyPatId" : "22222222",
+    "familyPatNm" : "홍여아",
+    "birthDt": "20120614"
+    },
+    {
+      "familyPatId" : "33333333",
+      "familyPatNm" : "홍어른",
+      "birthDt": "19420304"
+    }
+  ]
+}

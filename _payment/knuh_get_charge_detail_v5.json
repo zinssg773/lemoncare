@@ -1,0 +1,29 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-08-23 11:19:27",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "opmi_calcfromdd": "20220803",
+      "opmi_calctodd": "20220816",
+      "opmi_cretno": "1",
+      "opmi_discamt": "0",
+      "opmi_handcapfundsuppamt": "0",
+      "opmi_instcd": "032",
+      "opmi_mskind": "M",
+      "opmi_orddd": "20220803",
+      "opmi_orddeptcd": "2020000000",
+      "opmi_ordtype": "I",
+      "opmi_ownbamtall": "7547191",
+      "opmi_payAll": "N",
+      "opmi_pid": "3588116",
+      "opmi_prercptamt": "",
+      "opmi_rcptexptamt": "7547170",
+      "opmi_taxamt": "0",
+      "opmi_totalamt": "26261397"
+    }
+  ]
+}

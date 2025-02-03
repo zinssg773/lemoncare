@@ -1,0 +1,15 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-01-12 14:00:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "examNm": "WIDE FUNDUS PHOTO(Digital,B)",
+      "examGuide": null,
+      "memo": null
+    }
+  ]
+}

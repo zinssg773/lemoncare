@@ -1,0 +1,22 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-12-21 14:15:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "groupCode": "G1",
+      "itemCode": ""
+    },
+    {
+      "groupCode": "G2",
+      "itemCode": ""
+    },
+    {
+      "groupCode": "G3",
+      "itemCode": ""
+    }
+  ]
+}

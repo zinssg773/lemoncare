@@ -1,0 +1,46 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "04607",
+      "deptNm": "암센터(소화기내과)",
+      "doctorId": "110533",
+      "doctorNm": "서정훈",
+      "nextLocNm": "암센터(소화기내과)",
+      "payYn": "N",
+      "visitDt": "20201015",
+      "visitKind": "의사진료",
+      "visitMemo": "",
+      "visitTm": "1445"
+    },
+    {
+      "deptCd": "03300",
+      "deptNm": "안과",
+      "doctorId": "114476",
+      "doctorNm": "지용우",
+      "nextLocNm": "안과",
+      "payYn": "N",
+      "visitDt": "20201102",
+      "visitKind": "의사진료",
+      "visitMemo": "",
+      "visitTm": "1500"
+    },
+    {
+      "deptCd": "01800",
+      "deptNm": "류마티스내과",
+      "doctorId": "112568",
+      "doctorNm": "이찬희",
+      "nextLocNm": "류마티스내과",
+      "payYn": "N",
+      "visitDt": "20201116",
+      "visitKind": "의사진료",
+      "visitMemo": "",
+      "visitTm": "1430"
+    }
+  ]
+}

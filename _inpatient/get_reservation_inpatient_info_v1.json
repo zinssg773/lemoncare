@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-01-06 11:25:30",
+  "bodyType": "ARRAY",
+  "body": {
+    "patientId": "52447A3373304F32533462714C684675476F6D4E79513D3D",
+    "zipCd": "03080",
+    "zipCdTxt": "서울특별시 종로구 대학로 101",
+    "address": "본관",
+    "cellphoneNo1": "01012345678",
+    "relCls1": "0",
+    "cellphoneNo2": null,
+    "relCls2": null
+  }
+}

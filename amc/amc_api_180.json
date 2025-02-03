@@ -1,0 +1,36 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "reservationDt" : "20210121",
+      "reservationTm" : "1610",
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "000000",
+      "doctorNm": "아무개",
+      "payYn" : "N",
+      "treatCls" : "O",
+      "visitNo" : "12345",
+      "changeYn" : "Y",
+      "nochangeReason": ""
+    },
+    {
+      "reservationDt" : "20210122",
+      "reservationTm" : "1710",
+      "deptCd": "000000",
+      "deptNm": "가정의학과",
+      "doctorId": "000000",
+      "doctorNm": "아무개2",
+      "payYn" : "Y",
+      "treatCls" : "I",
+      "visitNo" : "12345",
+      "changeYn" : "Y",
+      "nochangeReason": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "unacceptableCd":""
+      ,"unacceptableRmk":""
+      ,"guideMsg":null
+      ,"receiptList":[
+        {
+           "ptno":"02665171"
+          ,"mdcrYmd":"20210215"
+          ,"mcdpCd":"111150"
+          ,"mcdpNm":"신장내과"
+          ,"mddrId":"2040033"
+          ,"mddrNm":"김근호"
+          ,"istyCd":"11"
+          ,"istyAsstCd":"00"
+          ,"rcpcAmt":1100
+          ,"mdrpNo":266661
+          ,"mcrcYmd":"20210215"
+          ,"mcrcRno":1
+          ,"mcclWorkPrkyVl":"20210215711020"
+        }
+      ]
+    }
+  ]
+}

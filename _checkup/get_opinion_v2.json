@@ -1,0 +1,77 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "OpinionCont": "정상 심전도",
+      "OpinionSeq": "01",
+      "OpinionTitle": "심전도 검사"
+    },
+    {
+      "OpinionCont": "만성 표재성 위염이 관찰됩니다.",
+      "OpinionSeq": "07",
+      "OpinionTitle": "위내시경"
+    },
+    {
+      "OpinionCont": null,
+      "OpinionSeq": "08",
+      "OpinionTitle": "위 조직검사"
+    },
+    {
+      "OpinionCont": "외치핵이 관찰됩니다.",
+      "OpinionSeq": "10",
+      "OpinionTitle": "대장내시경"
+    },
+    {
+      "OpinionCont": null,
+      "OpinionSeq": "11",
+      "OpinionTitle": "대장 조직검사"
+    },
+    {
+      "OpinionCont": "정상 소견입니다.",
+      "OpinionSeq": "12",
+      "OpinionTitle": "심장초음파"
+    },
+    {
+      "OpinionCont": "정상 소견입니다.\n우측 경동맥 내중막 두께: 0.45mm\n좌측 경동맥 내중막 두께: 0.65mm",
+      "OpinionSeq": "15",
+      "OpinionTitle": "경동맥 초음파"
+    },
+    {
+      "OpinionCont": "정상 소견입니다.",
+      "OpinionSeq": "17",
+      "OpinionTitle": "복부 초음파"
+    },
+    {
+      "OpinionCont": "우중엽, 우하엽에 수술 후 변화 관찰됩니다.\n* 임상 소견과 비교 권해드립니다.",
+      "OpinionSeq": "19",
+      "OpinionTitle": "흉부 X-ray"
+    },
+    {
+      "OpinionCont": "내과적 갑상선 질환 양상은 변화없이 관찰됩니다.\n갑상선 양엽에 수개의 부정형 결절들(<0.6cm) 관찰됩니다.\n1-2년 후 추적관찰 권해 드립니다.",
+      "OpinionSeq": "22",
+      "OpinionTitle": "갑상선 초음파"
+    },
+    {
+      "OpinionCont": "양측 유방에 낭종들은 변화없이 관찰되며, 양성 소견입니다.\n- 좌측 유방 6시방향과 우측 유방 유륜하부: <0.7cm",
+      "OpinionSeq": "23",
+      "OpinionTitle": "유방 초음파"
+    },
+    {
+      "OpinionCont": "1.양측 유방에 분산된 미세 석회화들 관찰됩니다.\n2.상하방향 검사에서 좌측 유방 중심부에 비대칭 음영 관찰됩니다.\n* 확진이 어려운 소견으로 유방 초음파검사에서 해당 부위와 상관될 것으로 사료되는 부위에 병변이 존재합니다. 유방촬영은 정기적인 추적관찰 권해드립니다.\n\n유방 실질조직이 유방 전체의 51~75% 인 3등급의 고밀도 유방입니다.",
+      "OpinionSeq": "24",
+      "OpinionTitle": "유방 촬영술"
+    },
+    {
+      "OpinionCont": "자궁크기:7.54x5.41cm\n자궁내막두께:0.36cm\n자궁에 종괴 관찰되며, 다발성의 근종 소견입니다.\n- 전벽:4.90x4.82cm\n- 후벽:2.59x1.83cm,1.68x1.95cm\n- 기저:3.3x1.4 cm\n- 측벽:2.01x1.07cm\n양측 난소는 위축되어 관찰됩니다.\n* 정기적인 추적 관찰 권해드립니다.",
+      "OpinionSeq": "48",
+      "OpinionTitle": "골반초음파"
+    }
+  ]
+
+}

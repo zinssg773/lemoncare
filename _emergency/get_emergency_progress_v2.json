@@ -1,0 +1,61 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "emergencyStatus": "진료",
+      "statusDesc": "진료 설명",
+      "statusYn": "",
+      "deptCd": "",
+      "deptNm": "",
+      "doctorId": "",
+      "doctorNm": "",
+      "startDtTm": ""
+    },
+    {
+      "emergencyStatus": "혈액검사",
+      "statusDesc": "혈액검사 설명",
+      "statusYn": "Y",
+      "deptCd": "",
+      "deptNm": "",
+      "doctorId": "",
+      "doctorNm": "",
+      "startDtTm": ""
+    },
+    {
+      "emergencyStatus": "영상검사",
+      "statusDesc": "영상검사 설명",
+      "statusYn": "",
+      "deptCd": "",
+      "deptNm": "",
+      "doctorId": "",
+      "doctorNm": "",
+      "startDtTm": ""
+    },
+    {
+      "emergencyStatus": "협진",
+      "statusDesc": "협진 설명",
+      "statusYn": "",
+      "deptCd": "",
+      "deptNm": "",
+      "doctorId": "",
+      "doctorNm": "",
+      "startDtTm": ""
+    },
+    {
+      "emergencyStatus": "입원",
+      "statusDesc": "입원 설명",
+      "statusYn": "",
+      "deptCd": "",
+      "deptNm": "",
+      "doctorId": "",
+      "doctorNm": "",
+      "startDtTm": ""
+    }
+  ]
+}

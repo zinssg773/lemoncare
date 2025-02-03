@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnCd": "0001",
+    "returnMsg": "현재 변경하시려는 접수정보는 외래간호에서 접수된 상태입니다.\n\n 간호확인을 취소하셔야만 접수변경이 가능합니다."
+  }
+}

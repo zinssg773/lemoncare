@@ -1,0 +1,20 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-13 10:22:27",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "I1",
+      "deptNm": "내과1",
+      "doctorId": "080386",
+      "doctorNm": "박종율",
+      "keyStr": "1900037^ ^20200713^I1^080386",
+      "patientNm": "테스트1",
+      "visitDt": "20200713",
+      "visitTm": "0939"
+    }
+  ]
+}

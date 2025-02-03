@@ -1,0 +1,35 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "patientNm": "최산근",
+      "admissionDt": "20210827",
+      "receiptNo": 2021082710000016,
+      "dischargeDt": null
+    },
+    {
+      "patientNm": "최산근",
+      "admissionDt": "20180316",
+      "receiptNo": 2020031610000027,
+      "dischargeDt": "20180410"
+    },
+    {
+      "patientNm": "최산근",
+      "admissionDt": "20180301",
+      "receiptNo": 2020030110000030,
+      "dischargeDt": "20180313"
+    },
+    {
+      "patientNm": "최산근",
+      "admissionDt": "20190606",
+      "receiptNo": 2017060610000027,
+      "dischargeDt": "20171002"
+    }
+  ]
+}

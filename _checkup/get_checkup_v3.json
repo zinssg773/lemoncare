@@ -1,0 +1,46 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "checkupCls": "종합",
+      "checkupDt": "20130511",
+      "checkupTm": "0750",
+      "checkupTy": "검진내용",
+      "receiptNo": "201205110010"
+    },
+    {
+      "checkupCls": "종합",
+      "checkupDt": "20150405",
+      "checkupTm": "0800",
+      "checkupTy": "검진내용",
+      "receiptNo": "201304050069"
+    },
+    {
+      "checkupCls": "종합",
+      "checkupDt": "20170816",
+      "checkupTm": "0840",
+      "checkupTy": "검진내용",
+      "receiptNo": "201609020014"
+    },
+    {
+      "checkupCls": "종합",
+      "checkupDt": "20190513",
+      "checkupTm": "0730",
+      "checkupTy": "검진내용",
+      "receiptNo": "201705130028"
+    },
+    {
+      "checkupCls": "종합",
+      "checkupDt": "20210601",
+      "checkupTm": "0800",
+      "checkupTy": "검진내용",
+      "receiptNo": "201806010021"
+    }
+  ]
+}

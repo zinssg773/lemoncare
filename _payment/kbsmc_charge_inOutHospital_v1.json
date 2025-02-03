@@ -1,0 +1,20 @@
+{
+    "elapsedTime": 0,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2024-01-24 16:39:56",
+    "bodyType": "OBJECT",
+    "body": {
+        "S_ADMDATE": "2024-01-01",
+        "S_DATE1": "2024-01-23",
+        "S_MEDDEPT": "신경외과",
+        "S_DATE3": "2024-01-13 14:52",
+        "S_STRING8": "홍길동",
+        "S_DR1": "이순신",
+        "S_WARDNO": "DRE_TEST",
+        "S_ROOMNO": "A11",
+        "S_CODE3": "OA121",
+        "S_STRING18": "I"
+    }
+}

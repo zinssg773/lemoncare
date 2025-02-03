@@ -1,0 +1,13 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2022-01-12 14:00:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "cellphoneNo": "010-2698-0526"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2024-10-01",
+      "checkupRstOpenYn": "Y",
+      "receiptNo": "AABB++AA"
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2024-09-30",
+      "checkupRstOpenYn": "Y",
+      "receiptNo": "AABBCC++"
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2024-09-29",
+      "checkupRstOpenYn": "N",
+      "receiptNo": "++AABBCC"
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2024-09-28",
+      "checkupRstOpenYn": "Y",
+      "receiptNo": "12345678"
+    },
+    {
+      "checkupCls": "개인검진",
+      "checkupDt": "2020-11-20",
+      "checkupRstOpenYn": null,
+      "receiptNo": "87654321"
+    },
+    {
+      "checkupCls": "건강검진-일반검진",
+      "checkupDt": "20210127",
+      "checkupRstOpenYn": "Y",
+      "receiptNo": "GAAAM3nADdAAF2UAAAR"
+    },
+    {
+      "checkupCls": "종합건진-업그레이드삼성(여자-배우자)",
+      "checkupDt": "20241004",
+      "checkupRstOpenYn": "Y",
+      "receiptNo": "UAABcE3AJpAADIh+AAJ"
+    }
+  ]
+}

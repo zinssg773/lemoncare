@@ -1,0 +1,80 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":[
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "c0270aako",
+      "title": "[대한비뇨기종양학회] 경요도방광종양절제술 안내(TUR-BT)",
+      "date": "2021-12-06 오후 5:26:40",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000000/Thum/c/c0270aako.jpg"
+    },
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "c171a_SNUH",
+      "title": "[서울대본원]신장이식수술 안내(수여자 수술)",
+      "date": "2021-12-06 오후 5:27:01",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000161/Thum/c/c171a_SNUH.jpg"
+    },
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "g266a_SNUH",
+      "title": "[서울대본원] 72시간 배뇨양상 기능검사 작성법 안내(배뇨일지)",
+      "date": "2021-12-06 오후 5:24:39",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000161/Thum/z/g266a_SNUH.jpg"
+    },
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "a200a_SNUH",
+      "title": "[서울대본원] 야간뇨의 개념 및 치료방법 안내",
+      "date": "2021-12-08 오후 5:24:39",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000161/Thum/a/a200a_SNUH.jpg"
+    },
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "d109a_SNUH",
+      "title": "[서울대본원]장기이식환자의 퇴원교육(3) 장기이식 후 일상생활 관리",
+      "date": "2021-12-08 오후 5:27:01",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000161/Thum/d/d109a_SNUH.jpg"
+    },
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "d108a_SNUH",
+      "title": "[서울대본원]장기이식환자의 퇴원교육(2) 장기이식 후 식사요법",
+      "date": "2021-12-08 오후 5:27:01",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000161/Thum/d/d108a_SNUH.jpg"
+    },
+    {
+      "dName": "KDHtest",
+      "dGubun": "D",
+      "dClinic": "1",
+      "dLicense": "",
+      "code": "d107a_SNUH",
+      "title": "[서울대본원]장기이식환자의 퇴원교육(1)장기이식과 면역억제제",
+      "date": "2021-12-10 오후 5:27:01",
+      "thumbnail": "https://www.hichart.net:9443/Uploads/VODHospital/T00000161/Thum/d/d107a_SNUH.jpg"
+    }
+  ]
+}

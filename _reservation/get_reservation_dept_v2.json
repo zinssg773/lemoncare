@@ -1,0 +1,136 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "000516",
+      "deptNm": "가정의학과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000255",
+      "deptNm": "감염내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000240",
+      "deptNm": "내분비대사내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000250",
+      "deptNm": "류마티스내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000448",
+      "deptNm": "방사선종양학과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000363",
+      "deptNm": "비뇨의학과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000330",
+      "deptNm": "산부인과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000320",
+      "deptNm": "성형외과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000260",
+      "deptNm": "소아청소년과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000192",
+      "deptNm": "소화기내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000275",
+      "deptNm": "신경과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000277",
+      "deptNm": "신경외과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000235",
+      "deptNm": "신장내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000204",
+      "deptNm": "심장혈관내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000340",
+      "deptNm": "안과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000300",
+      "deptNm": "외과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000353",
+      "deptNm": "이비인후-두경부외과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000374",
+      "deptNm": "재활의학과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000268",
+      "deptNm": "정신건강의학과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000312",
+      "deptNm": "정형외과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000245",
+      "deptNm": "종양혈액내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000290",
+      "deptNm": "피부과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000539",
+      "deptNm": "핵의학과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000224",
+      "deptNm": "호흡기·알레르기내과",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "흉부외과",
+      "deptSeq": 0
+    }
+  ]
+
+}

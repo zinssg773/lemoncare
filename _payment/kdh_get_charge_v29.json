@@ -1,0 +1,63 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2021-05-11 15:17:47",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "receiptList": [
+        {
+          "mdrpNo": 2021041350002358,
+          "mcdpCd": "111280",
+          "mcrcYmd": "20210511",
+          "mcdpNm": "피부과",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 16900,
+          "istyAsstCd": "00",
+          "mddrId": "043207",
+          "ptno": "02018849",
+          "mcclWorkPrkyVl": "20210511331529",
+          "mddrNm": "김철우",
+          "abrvMcdpCd": "DE",
+          "mdcrYmd": "20210511"
+        }, {
+          "mdrpNo": 2021041350002358,
+          "mcdpCd": "111280",
+          "mcrcYmd": "20210511",
+          "mcdpNm": "피부과",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 59000,
+          "istyAsstCd": "00",
+          "mddrId": "043207",
+          "ptno": "02018849",
+          "mcclWorkPrkyVl": "20210511331529",
+          "mddrNm": "김철우",
+          "abrvMcdpCd": "DE",
+          "mdcrYmd": "20210511"
+        }, {
+          "mdrpNo": 2021041350002358,
+          "mcdpCd": "111280",
+          "mcrcYmd": "20210511",
+          "mcdpNm": "피부과",
+          "istyCd": "11",
+          "mcrcRno": 1,
+          "rcpcAmt": 0,
+          "istyAsstCd": "00",
+          "mddrId": "043207",
+          "ptno": "02018849",
+          "mcclWorkPrkyVl": "20210511331529",
+          "mddrNm": "김철우",
+          "abrvMcdpCd": "DE",
+          "mdcrYmd": "20210511"
+        }
+      ],
+      "unacceptableCd": null,
+      "guideMsg": null,
+      "unacceptableRmk": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-01-11 09:41:06",
+  "bodyType": "OBJECT",
+  "body": {
+    "returnCd": "0000",
+    "returnMsg": "12312345"
+  }
+}

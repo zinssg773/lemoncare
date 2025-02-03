@@ -1,0 +1,36 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-07-03 09:10:17",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "ofvrDrawupSn": "98170507118248",
+      "certificateCd": "0002",
+      "certificate": "입원사실증명서",
+      "orderStatusCd": "05",
+      "orderStatusNm": "발급",
+      "deptCd": "ONC",
+      "deptNm": "종양내과",
+      "reqDt": "20190601",
+      "orderCnt": "1",
+      "requestMemo": "",
+      "distributeDt": "20190601"
+    },
+    {
+      "ofvrDrawupSn": "20180413000806",
+      "certificateCd": "0007",
+      "certificate": "일반소견서",
+      "orderStatusCd": "05",
+      "orderStatusNm": "발급",
+      "deptCd": "ONC",
+      "deptNm": "종양내과",
+      "reqDt": "20180413",
+      "orderCnt": "1",
+      "requestMemo": "응급상황시 사용할 수 있도록 작성부탁드립니다.",
+      "distributeDt": "20180413"
+    }
+  ]
+}

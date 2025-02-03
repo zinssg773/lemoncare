@@ -1,0 +1,11 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "OBJECT",
+  "body": {
+    "mp4": "https://www.hichart.net:9443/Uploads/VODHospital/T00000000/MP4/c/c0270aakoc5ae139beced4d5f9b09441ab6990940.mp4"
+  }
+}

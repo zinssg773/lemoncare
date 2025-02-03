@@ -1,0 +1,24 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body":
+  [
+    {
+      "doctorNm": "이항락",
+      "patientNm": "최산근",
+      "admissionYn": "Y",
+      "roomNm": "22",
+      "admissionDt": "20210827",
+      "doctorId": "2027291",
+      "wardNm": "본관19층",
+      "nursePhone": null,
+      "deptNm": "소화기내과",
+      "deptCd": "111110",
+      "dischargeDt": null
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "000516",
+      "deptCls": null,
+      "deptNm": "Family Medicine",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000255",
+      "deptCls": null,
+      "deptNm": "Internal Medicine",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000363",
+      "deptCls": null,
+      "deptNm": "URology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000330",
+      "deptCls": null,
+      "deptNm": "OB-GYNs",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000320",
+      "deptCls": null,
+      "deptNm": "Plastic Surgery",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000260",
+      "deptCls": null,
+      "deptNm": "Pediatrics",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000275",
+      "deptCls": null,
+      "deptNm": "NeUrology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000340",
+      "deptCls": null,
+      "deptNm": "Ophthalmology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000374",
+      "deptCls": null,
+      "deptNm": "Rehabitation Medicine",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000312",
+      "deptCls": null,
+      "deptNm": "Orthopedics",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000290",
+      "deptCls": null,
+      "deptNm": "Dermatology clinic",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "ChestSurgery",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "Clinical Pathology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "Cardiology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "Gastrointernational",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "Nephrology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "Endocrinology",
+      "reservationYn": "Y"
+    },
+    {
+      "deptCd": "000309",
+      "deptCls": null,
+      "deptNm": "Pulmonology",
+      "reservationYn": "Y"
+    }
+  ]
+}

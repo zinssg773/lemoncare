@@ -1,0 +1,32 @@
+{
+    "elapsedTime": 188,
+    "status": "OK",
+    "errors": [],
+    "message": "",
+    "timestamp": "2024-08-12 13:42:07",
+    "bodyType": "ARRAY",
+    "body": [
+        {
+            "deptCd": "2010101001",
+            "deptNm": "소화기내과",
+            "doctorId": "2A000312",
+            "doctorNm": "김승범",
+            "intermediatePayEndDt": "",
+            "mainSubCd": "M",
+            "receiptNo": "1",
+            "visitDt": "20240812",
+            "visitTm": "1130"
+        },
+        {
+            "deptCd": "2011500001",
+            "deptNm": "피부과",
+            "doctorId": "2A000148",
+            "doctorNm": "신동훈",
+            "intermediatePayEndDt": "",
+            "mainSubCd": "M",
+            "receiptNo": "2",
+            "visitDt": "20240812",
+            "visitTm": "1510"
+        }
+    ]
+}

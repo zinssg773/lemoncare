@@ -1,0 +1,17 @@
+{
+  "elapsedTime": 1,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2020-10-16 11:25:30",
+  "bodyType": "ARRAY",
+  "body": [
+	{
+	  "visitDtm": "2022-04-05 (화) 11:00",
+	  "deptNm": "임상시험센터외래",
+	  "doctorNm": "이*빈",
+	  "location": null,
+	  "payYn": "X"
+	}
+  ]
+}

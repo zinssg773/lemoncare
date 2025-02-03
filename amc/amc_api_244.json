@@ -1,0 +1,14 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": null,
+  "timestamp": "2021-04-01 14:15:56",
+  "bodyType": "OBJECT",
+  "body": {
+    "patno": "64728698",
+    "rcivTaskDivCd": "OO",
+    "rcivTaskDivCdNm": "외래진료비",
+    "hipsRegYn": "Y"
+  }
+}

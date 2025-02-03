@@ -1,0 +1,18 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-23 18:56:44",
+  "bodyType": "ARRAY",
+  "body": [],
+  "data" : {
+    "responseCode" : "0000",
+    "bioPatient" : "고프로",
+    "data" : {
+      "age" : "26",
+      "bioAge" : "27",
+      "totalGuide" : "totalGuide"
+    }
+  }
+}

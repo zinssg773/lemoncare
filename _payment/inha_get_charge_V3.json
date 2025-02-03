@@ -1,0 +1,31 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-01-04 11:54:37",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "PAADM_VisitStatus": "A",
+      "calculationDt": null,
+      "deptCd": "UR",
+      "deptNm": "비뇨의학과",
+      "doctorId": "2110306",
+      "doctorNm": "김종원",
+      "errorMsg": null,
+      "insuranceCd": null,
+      "intermediatePayEndDt": null,
+      "intermediatePayStDt": null,
+      "patientNm": "신이준",
+      "prescriptionIntCnt": null,
+      "prescriptionOutCnt": null,
+      "privacyYN": null,
+      "receiptNo": "25534100",
+      "receiveTy": null,
+      "reservationTrtAmtYn": null,
+      "visitDt": "20230104",
+      "visitTm": "1044"
+    }
+  ]
+}

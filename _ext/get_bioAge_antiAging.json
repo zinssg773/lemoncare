@@ -1,0 +1,28 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-02-23 18:56:44",
+  "bodyType": "ARRAY",
+  "body": [],
+  "data": {
+    "responseCode": "0000",
+    "data": {
+      "items": [
+        {
+          "age": 26,
+          "content": "content"
+        },
+        {
+          "age": 26,
+          "content": "content"
+        },
+        {
+          "age": 26,
+          "content": "content"
+        }
+      ]
+    }
+  }
+}

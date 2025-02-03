@@ -1,0 +1,38 @@
+{
+  "elapsedTime": 9,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2023-10-19 13:15:40",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "admissionDt": "",
+      "birthDt": "19630826",
+      "burdenStdCls": "",
+      "centerCd": "M",
+      "centerSite": "M",
+      "customerCd": "",
+      "customerNm": "",
+      "deptCd": "OT",
+      "deptNm": "안과",
+      "discountCd": "",
+      "discountNm": "",
+      "doctorId": "23418",
+      "doctorNm": "홍길동",
+      "errorMsg": "",
+      "firstTreatYn": "2",
+      "insuranceCd": "11",
+      "insuranceNm": "건강보험",
+      "medicalYn": "N",
+      "payYn": "N",
+      "protectorMdCls": "",
+      "reservationPath": "2",
+      "specialYn": "N",
+      "subInsuranceCd": "00",
+      "subInsuranceNm": "기본",
+      "visitDt": "20231019",
+      "visitTm": "1515"
+    }
+  ]
+}

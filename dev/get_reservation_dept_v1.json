@@ -1,0 +1,96 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "000516",
+      "deptNm": "Family Medicine",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000255",
+      "deptNm": "Internal Medicine",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000363",
+      "deptNm": "URology",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000330",
+      "deptNm": "OB-GYNs",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000320",
+      "deptNm": "Plastic Surgery",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000260",
+      "deptNm": "Pediatrics",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000275",
+      "deptNm": "NeUrology",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000340",
+      "deptNm": "Ophthalmology",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000374",
+      "deptNm": "Rehabitation Medicine",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000312",
+      "deptNm": "Orthopedics",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000290",
+      "deptNm": "Dermatology clinic",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "ChestSurgery",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "Cardiology",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "Gastrointernational",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "Nephrology",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "Endocrinology",
+      "deptSeq": 0
+    },
+    {
+      "deptCd": "000309",
+      "deptNm": "Pulmonology",
+      "deptSeq": 0
+    }
+  ]
+
+}

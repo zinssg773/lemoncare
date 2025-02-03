@@ -1,0 +1,15 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [{
+    "vehicleNo": "12가 1233",
+    "sequenceNo": "1"
+  },{
+    "vehicleNo": "12가 1233",
+    "sequenceNo": "1"
+  }]
+}

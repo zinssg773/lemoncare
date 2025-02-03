@@ -1,0 +1,53 @@
+{
+  "elapsedTime": 0,
+  "status": "OK",
+  "errors": [],
+  "message": "",
+  "timestamp": "2021-09-10 10:10:00",
+  "bodyType": "ARRAY",
+  "body": [
+    {
+      "deptCd": "01200",
+      "deptNm": "심장내과",
+      "doctorId": "112108",
+      "doctorNm": "오성진",
+      "payYn": "N",
+      "receiptKindNm": "N",
+      "receiptNo": "20210204O00331",
+      "reservationDt": "20210204",
+      "stateMsg" : "진료전",
+      "reservationListBtnSet": "TRSCU",
+      "reservationPath": "의사진료(진료과예약)",
+      "reservationTm": "1015"
+    },
+    {
+      "deptCd": "01200",
+      "deptNm": "심장내과",
+      "doctorId": "112108",
+      "doctorNm": "오성진",
+      "payYn": "N",
+      "receiptKindNm": "N",
+      "receiptNo": "20210204O00331",
+      "reservationDt": "20210204",
+      "stateMsg" : "진료전",
+      "reservationListBtnSet": "TRS",
+      "reservationPath": "의사진료(진료과예약)",
+      "reservationTm": "1015"
+    },
+    {
+      "deptCd": "01200",
+      "deptNm": "심장내과",
+      "doctorId": "112108",
+      "doctorNm": "오성진",
+      "payYn": "N",
+      "receiptKindNm": "N",
+      "receiptNo": "20210204O00331",
+      "reservationDt": "20210204",
+      "stateMsg" : "진료전",
+      "reservationListBtnSet": "TRSC",
+      "reservationPath": "의사진료(진료과예약)",
+      "reservationTm": "1015"
+    }
+
+  ]
+}
